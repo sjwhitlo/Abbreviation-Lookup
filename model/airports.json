@@ -512,9 +512,6 @@
     "name": "MINNEAPOLIS, MN, ANOKA COUNTY-BLAINE (JANES FLD) ARPT"
   },
   {
-    "name": "ANOKA COUNTY-BLAINE (JANES FLD) ILS/DME RWY 27"
-  },
-  {
     "abbv": "ANF",
     "name": "HORNELL, NY, HORNELL MUNI ARPT"
   },
@@ -2475,9 +2472,6 @@
     "name": "COEUR D'ALENE, ID, COEUR D'ALENE - PAPPY BOYINGTON FLD ARPT"
   },
   {
-    "name": "COEUR D'ALENE - PAPPY BOYINGTON FLD ILS RWY 06"
-  },
-  {
     "abbv": "COF",
     "name": "COCOA BEACH, FL, PATRICK AFB"
   },
@@ -4346,9 +4340,6 @@
     "name": "FORT HUACHUCA SIERRA VISTA, AZ, SIERRA VISTA MUNI-LIBBY AAF"
   },
   {
-    "name": "SIERRA VISTA MUNI-LIBBY AAF BASE OPS"
-  },
-  {
     "abbv": "FIG",
     "name": "CLEARFIELD, PA, CLEARFIELD-LAWRENCE ARPT"
   },
@@ -5289,9 +5280,6 @@
     "name": "GULFPORT, MS, GULFPORT-BILOXI INTL ARPT"
   },
   {
-    "name": "GULFPORT-BILOXI RGNL BASE OPS"
-  },
-  {
     "abbv": "GPZ",
     "name": "GRAND RAPIDS, MN, GRAND RAPIDS/ITASCA CO-GORDON NEWSTROM FLD ARPT"
   },
@@ -5326,12 +5314,6 @@
   {
     "abbv": "GRF",
     "name": "FORT LEWIS/TACOMA, WA, GRAY AAF (JOINT BASE LEWIS- MCCHORD) ARPT"
-  },
-  {
-    "name": "GRAY AAF (JOINT BASE LEWIS- MCCHORD) BASE OPS"
-  },
-  {
-    "name": "GRAY AAF (JOINT BASE LEWIS- MCCHORD) ILS/DME RWY 15"
   },
   {
     "abbv": "GRI",
@@ -5392,9 +5374,6 @@
   {
     "abbv": "GTB",
     "name": "FORT DRUM, NY, WHEELER-SACK AAF"
-  },
-  {
-    "name": "WHEELER-SACK AAF BASE OPS"
   },
   {
     "abbv": "GTE",
@@ -7781,9 +7760,6 @@
     "name": "KLAMATH FALLS, OR, CRATER LAKE-KLAMATH RGNL ARPT"
   },
   {
-    "name": "CRATER LAKE-KLAMATH RGNL BASE OPS"
-  },
-  {
     "abbv": "LMU",
     "name": "LAKE WALES, FL, LAKE WALES MUNI ARPT"
   },
@@ -8997,9 +8973,6 @@
     "name": "BALTIMORE, MD, MARTIN STATE ARPT"
   },
   {
-    "name": "GLENN L. MARTIN AWS COMEDS STN"
-  },
-  {
     "abbv": "MTO",
     "name": "MATTOON/CHARLESTON, IL, COLES COUNTY MEML ARPT"
   },
@@ -9466,9 +9439,6 @@
   {
     "abbv": "NSE",
     "name": "MILTON, FL, WHITING FLD NAS NORTH ARPT"
-  },
-  {
-    "name": "WHITING FIELD NAS-NORTH BASE OPS"
   },
   {
     "abbv": "NSI",
@@ -11815,9 +11785,6 @@
     "name": "MARQUETTE, MI, SAWYER INTL ARPT"
   },
   {
-    "name": "K.I. SAWYER AWS COMEDS STN"
-  },
-  {
     "abbv": "SAZ",
     "name": "STAPLES, MN, STAPLES MUNI ARPT"
   },
@@ -12782,9 +12749,6 @@
     "name": "FORT LEONARD WOOD, MO, WAYNESVILLE-ST ROBERT RGNL FORNEY FLD ARPT"
   },
   {
-    "name": "WAYNESVILLE-ST ROBERT RGNL FORNEY FLD BASE OPS"
-  },
-  {
     "abbv": "TBQ",
     "name": "DALLAS, TX, ADDISON ILS/DME RWY 33"
   },
@@ -12803,9 +12767,6 @@
   {
     "abbv": "TCM",
     "name": "TACOMA, WA, MCCHORD FLD (JOINT BASE LEWIS-MCCHORD) ARPT"
-  },
-  {
-    "name": "MCCHORD FLD (JOINT BASE LEWIS- MCCHORD) ILS RWY 34"
   },
   {
     "abbv": "TCS",
@@ -80585,9 +80546,6 @@
   {
     "abbv": "84KS",
     "name": "ST. MARY'S, KS, ST MARY'S AIRPARK ARPT"
-  },
-  {
-    "name": "ST. MARY'S BASE OPS"
   },
   {
     "abbv": "84LA",
