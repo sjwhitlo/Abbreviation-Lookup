@@ -12,20 +12,8 @@
     "name": "DRUMMOND ISLAND, MI, DRUMMOND ISLAND ARPT"
   },
   {
-    "abbv": "AAJ",
-    "name": "BINGHAMTON, NY, GREATER BINGHAMTON/ EDWIN A LINK FLD ILS RWY 16"
-  },
-  {
-    "abbv": "AAM",
-    "name": "FARGO, ND, HECTOR INTL ILS RWY 18"
-  },
-  {
     "abbv": "AAO",
     "name": "WICHITA, KS, COLONEL JAMES JABARA ARPT"
-  },
-  {
-    "abbv": "AAQ",
-    "name": "THOMSON, GA, THOMSON-MCDUFFIE COUNTY ILS RWY 10"
   },
   {
     "abbv": "AAS",
@@ -40,14 +28,6 @@
     "name": "ANACORTES, WA, ANACORTES ARPT"
   },
   {
-    "abbv": "AAY",
-    "name": "LITTLE ROCK, AR, BILL AND HILLARY CLINTON NTL/ADAMS FLD ILS/DME RWY 22R"
-  },
-  {
-    "abbv": "AAZ",
-    "name": "OAKLAND, CA, METRO OAKLAND INTL ILS RWY 12"
-  },
-  {
     "abbv": "ABA",
     "name": "ALBANY, OR, ALBANY MUNI ARPT"
   },
@@ -58,14 +38,6 @@
   {
     "abbv": "ABI",
     "name": "ABILENE, TX, ABILENE RGNL ARPT"
-  },
-  {
-    "abbv": "ABK",
-    "name": "INTERNATIONAL FALLS, MN, FALLS INTL- EINARSON FLD ILS RWY 13"
-  },
-  {
-    "abbv": "ABM",
-    "name": "HAMPTON, VA, LANGLEY AFB LOC/GS RWY 26"
   },
   {
     "abbv": "ABO",
@@ -80,20 +52,12 @@
     "name": "ABERDEEN, SD, ABERDEEN RGNL ARPT"
   },
   {
-    "abbv": "ABU",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 27R"
-  },
-  {
     "abbv": "ABY",
     "name": "ALBANY, GA, SOUTHWEST GEORGIA RGNL ARPT"
   },
   {
     "abbv": "ACB",
     "name": "BELLAIRE, MI, ANTRIM COUNTY ARPT"
-  },
-  {
-    "abbv": "ACD",
-    "name": "GRAND JUNCTION, CO, GRAND JUNCTION RGNL LDA/DME RWY 29"
   },
   {
     "abbv": "ACJ",
@@ -120,10 +84,6 @@
     "name": "ARCATA/EUREKA, CA, CALIFORNIA REDWOOD COAST-HUMBOLDT COUNTY ARPT"
   },
   {
-    "abbv": "ACX",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 17R"
-  },
-  {
     "abbv": "ACY",
     "name": "ATLANTIC CITY, NJ, ATLANTIC CITY INTL ARPT"
   },
@@ -134,10 +94,6 @@
   {
     "abbv": "ADC",
     "name": "WADENA, MN, WADENA MUNI ARPT"
-  },
-  {
-    "abbv": "ADE",
-    "name": "EUGENE, OR, MAHLON SWEET FLD ILS/DME RWY 16L"
   },
   {
     "abbv": "ADF",
@@ -152,14 +108,6 @@
     "name": "ADA, OK, ADA RGNL ARPT"
   },
   {
-    "abbv": "ADI",
-    "name": "FORT LAUDERDALE, FL, FORT LAUDERDALE/ HOLLYWOOD INTL ILS/DME RWY 28L"
-  },
-  {
-    "abbv": "ADJ",
-    "name": "WENATCHEE, WA, PANGBORN MEML ILS/DME RWY 12"
-  },
-  {
     "abbv": "ADK",
     "name": "ADAK ISLAND, AK, ADAK ARPT"
   },
@@ -170,10 +118,6 @@
   {
     "abbv": "ADQ",
     "name": "KODIAK, AK, KODIAK ARPT"
-  },
-  {
-    "abbv": "ADR",
-    "name": "ELIZABETHTOWN, KY, ADDINGTON FLD ILS/ DME RWY 05"
   },
   {
     "abbv": "ADS",
@@ -206,14 +150,6 @@
   {
     "abbv": "AEX",
     "name": "ALEXANDRIA, LA, ALEXANDRIA INTL ARPT"
-  },
-  {
-    "abbv": "AFA",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS RWY 27R"
-  },
-  {
-    "abbv": "AFB",
-    "name": "TUCSON, AZ, DAVIS MONTHAN AFB LOC/GS RWY 12"
   },
   {
     "abbv": "AFE",
@@ -276,16 +212,8 @@
     "name": "AUGUSTA, GA, AUGUSTA RGNL AT BUSH FLD ARPT"
   },
   {
-    "abbv": "AGY",
-    "name": "RENO, NV, RENO/TAHOE INTL ILS/DME RWY 34L"
-  },
-  {
     "abbv": "AGZ",
     "name": "WAGNER, SD, WAGNER MUNI ARPT"
-  },
-  {
-    "abbv": "AHA",
-    "name": "PHOENIX, AZ, PHOENIX SKY HARBOR INTL ILS/DME RWY 07R"
   },
   {
     "abbv": "AHC",
@@ -294,10 +222,6 @@
   {
     "abbv": "AHH",
     "name": "AMERY, WI, AMERY MUNI ARPT"
-  },
-  {
-    "abbv": "AHI",
-    "name": "COLORADO SPRINGS, CO, CITY OF COLORADO SPRINGS MUNI ILS/DME RWY 35R"
   },
   {
     "abbv": "AHN",
@@ -344,20 +268,12 @@
     "name": "ALICEVILLE, AL, GEORGE DOWNER ARPT"
   },
   {
-    "abbv": "AIW",
-    "name": "ARDMORE, OK, ARDMORE MUNI ILS RWY 31"
-  },
-  {
     "abbv": "AIZ",
     "name": "KAISER/LAKE OZARK, MO, LEE C FINE MEML ARPT"
   },
   {
     "abbv": "AJC",
     "name": "CHIGNIK, AK, CHIGNIK ARPT"
-  },
-  {
-    "abbv": "AJE",
-    "name": "CADILLAC, MI, WEXFORD COUNTY MLS RWY 25"
   },
   {
     "abbv": "AJG",
@@ -368,16 +284,8 @@
     "name": "CORONA, CA, CORONA MUNI ARPT"
   },
   {
-    "abbv": "AJQ",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 35R"
-  },
-  {
     "abbv": "AJR",
     "name": "CORNELIA, GA, HABERSHAM COUNTY ARPT"
-  },
-  {
-    "abbv": "AJU",
-    "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ILS RWY 12"
   },
   {
     "abbv": "AJZ",
@@ -424,10 +332,6 @@
     "name": "KLAWOCK, AK, KLAWOCK ARPT"
   },
   {
-    "abbv": "ALA",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 04X"
-  },
-  {
     "abbv": "ALB",
     "name": "ALBANY, NY, ALBANY INTL ARPT"
   },
@@ -452,10 +356,6 @@
     "name": "ALAMOSA, CO, SAN LUIS VALLEY RGNL/ BERGMAN FLD ARPT"
   },
   {
-    "abbv": "ALT",
-    "name": "ALTUS, OK, ALTUS AFB ILS RWY 17R"
-  },
-  {
     "abbv": "ALW",
     "name": "WALLA WALLA, WA, WALLA WALLA RGNL ARPT"
   },
@@ -478,10 +378,6 @@
   {
     "abbv": "AMN",
     "name": "ALMA, MI, GRATIOT COMMUNITY ARPT"
-  },
-  {
-    "abbv": "AMP",
-    "name": "TAMPA, FL, TAMPA INTL ILS/DME RWY 01L"
   },
   {
     "abbv": "AMT",
@@ -544,10 +440,6 @@
     "name": "ANGOLA, IN, TRI-STATE STEUBEN COUNTY ARPT"
   },
   {
-    "abbv": "ANT",
-    "name": "SAN ANTONIO, TX, SAN ANTONIO INTL ILS/ DME RWY 13R"
-  },
-  {
     "abbv": "ANV",
     "name": "ANVIK, AK, ANVIK ARPT"
   },
@@ -562,10 +454,6 @@
   {
     "abbv": "AOC",
     "name": "ARCO, ID, ARCO-BUTTE COUNTY ARPT"
-  },
-  {
-    "abbv": "AOD",
-    "name": "ONTARIO, CA, ONTARIO INTL ILS RWY 08L"
   },
   {
     "abbv": "AOH",
@@ -600,10 +488,6 @@
     "name": "FORT A. P. HILL, VA, A P HILL AAF (FORT A P HILL) ARPT"
   },
   {
-    "abbv": "APL",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN ILS RWY 04"
-  },
-  {
     "abbv": "APN",
     "name": "ALPENA, MI, ALPENA COUNTY RGNL ARPT"
   },
@@ -614,10 +498,6 @@
   {
     "abbv": "APT",
     "name": "JASPER, TN, MARION COUNTY-BROWN FLD ARPT"
-  },
-  {
-    "abbv": "APU",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS/DME RWY 23"
   },
   {
     "abbv": "APV",
@@ -632,16 +512,8 @@
     "name": "KLAWOCK, AK, KLAWOCK SPB"
   },
   {
-    "abbv": "AQD",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 35L"
-  },
-  {
     "abbv": "AQH",
     "name": "QUINHAGAK, AK, QUINHAGAK ARPT"
-  },
-  {
-    "abbv": "AQI",
-    "name": "COLUMBUS, OH, JOHN GLENN COLUMBUS INTL ILS/DME RWY 10R"
   },
   {
     "abbv": "AQO",
@@ -672,10 +544,6 @@
     "name": "GIRDWOOD, AK, GIRDWOOD ARPT"
   },
   {
-    "abbv": "AQZ",
-    "name": "APPLETON, WI, APPLETON INTL ILS/DME RWY 30"
-  },
-  {
     "abbv": "ARA",
     "name": "NEW IBERIA, LA, ACADIANA RGNL ARPT"
   },
@@ -690,14 +558,6 @@
   {
     "abbv": "ARG",
     "name": "WALNUT RIDGE, AR, WALNUT RIDGE RGNL ARPT"
-  },
-  {
-    "abbv": "ARJ",
-    "name": "PROVIDENCE, RI, THEODORE FRANCIS GREEN STATE ILS/DME RWY 23"
-  },
-  {
-    "abbv": "ARK",
-    "name": "ORLANDO, FL, ORLANDO INTL ILS/DME RWY 17L"
   },
   {
     "abbv": "ARM",
@@ -748,10 +608,6 @@
     "name": "TALLADEGA, AL, TALLADEGA MUNI ARPT"
   },
   {
-    "abbv": "ASO",
-    "name": "WASHINGTON, DC, RONALD REAGAN WASHINGTON NTL LDA/DME RWY 19"
-  },
-  {
     "abbv": "AST",
     "name": "ASTORIA, OR, ASTORIA RGNL ARPT"
   },
@@ -770,18 +626,6 @@
   {
     "abbv": "ATA",
     "name": "ATLANTA, TX, HALL-MILLER MUNI ARPT"
-  },
-  {
-    "abbv": "ATB",
-    "name": "OMAHA, NE, OFFUTT AFB LOC/GS RWY 12"
-  },
-  {
-    "abbv": "ATD",
-    "name": "DAYTON, OH, JAMES M COX DAYTON INTL ILS RWY 06L"
-  },
-  {
-    "abbv": "ATE",
-    "name": "MOBILE, AL, MOBILE RGNL ILS RWY 33"
   },
   {
     "abbv": "ATK",
@@ -844,10 +688,6 @@
     "name": "WAUSAU, WI, WAUSAU DOWNTOWN ARPT"
   },
   {
-    "abbv": "AVA",
-    "name": "GRAND FORKS, ND, GRAND FORKS AFB LOC/ GS RWY 17"
-  },
-  {
     "abbv": "AVC",
     "name": "SOUTH HILL, VA, MECKLENBURG-BRUNSWICK RGNL ARPT"
   },
@@ -896,20 +736,12 @@
     "name": "WAKE ISLAND, QW, WAKE ISLAND AIRFIELD ARPT"
   },
   {
-    "abbv": "AWL",
-    "name": "CAMP SPRINGS, MD, ANDREWS AFB MLS RWY 19L"
-  },
-  {
     "abbv": "AWM",
     "name": "WEST MEMPHIS, AR, WEST MEMPHIS MUNI ARPT"
   },
   {
     "abbv": "AWO",
     "name": "ARLINGTON, WA, ARLINGTON MUNI ARPT"
-  },
-  {
-    "abbv": "AWY",
-    "name": "ERIE, PA, ERIE INTL/TOM RIDGE FLD ILS/ DME RWY 24"
   },
   {
     "abbv": "AXA",
@@ -942,14 +774,6 @@
   {
     "abbv": "AYE",
     "name": "AUSTIN, TX, AUSTIN EXECUTIVE AIRPARK ARPT"
-  },
-  {
-    "abbv": "AYN",
-    "name": "WATSONVILLE, CA, WATSONVILLE MUNI LOCALIZER RWY 02"
-  },
-  {
-    "abbv": "AYQ",
-    "name": "PONCA CITY, OK, KAY COUNTY SDF RWY 17"
   },
   {
     "abbv": "AYS",
@@ -996,16 +820,8 @@
     "name": "COLUMBUS, IN, COLUMBUS MUNI ARPT"
   },
   {
-    "abbv": "BAL",
-    "name": "BALTIMORE, MD, BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL ILS RWY 10"
-  },
-  {
     "abbv": "BAM",
     "name": "BATTLE MOUNTAIN, NV, BATTLE MOUNTAIN ARPT"
-  },
-  {
-    "abbv": "BAO",
-    "name": "ST PAUL, MN, ST PAUL DOWNTOWN HOLMAN FLD ILS/DME RWY 32"
   },
   {
     "abbv": "BAX",
@@ -1026,10 +842,6 @@
   {
     "abbv": "BBG",
     "name": "BRANSON, MO, BRANSON ARPT"
-  },
-  {
-    "abbv": "BBJ",
-    "name": "KEOKUK, IA, KEOKUK MUNI ILS/DME RWY 26"
   },
   {
     "abbv": "BBM",
@@ -1056,16 +868,8 @@
     "name": "BRYCE CANYON, UT, BRYCE CANYON ARPT"
   },
   {
-    "abbv": "BCF",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTL MLS RWY 16L"
-  },
-  {
     "abbv": "BCK",
     "name": "BLACK RIVER FALLS, WI, BLACK RIVER FALLS AREA ARPT"
-  },
-  {
-    "abbv": "BCQ",
-    "name": "KANSAS CITY, MO, NWSRH"
   },
   {
     "abbv": "BCR",
@@ -1076,16 +880,8 @@
     "name": "BOCA RATON, FL, BOCA RATON ARPT"
   },
   {
-    "abbv": "BCU",
-    "name": "HYANNIS, MA, CAPE COD GATEWAY ILS/DME RWY 15"
-  },
-  {
     "abbv": "BCV",
     "name": "BIRCHWOOD, AK, BIRCHWOOD ARPT"
-  },
-  {
-    "abbv": "BCW",
-    "name": "BULDIR ISLAND, AK, MET FD FCST PT 52- 25.0N 176-00.0E"
   },
   {
     "abbv": "BDE",
@@ -1140,20 +936,8 @@
     "name": "BENTON HARBOR, MI, SOUTHWEST MICHIGAN RGNL ARPT"
   },
   {
-    "abbv": "BEJ",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTL ILS/ DME RWY 34L"
-  },
-  {
-    "abbv": "BER",
-    "name": "ADAK ISLAND, AK, ADAK LOC/GS RWY 23"
-  },
-  {
     "abbv": "BET",
     "name": "BETHEL, AK, BETHEL ARPT"
-  },
-  {
-    "abbv": "BEY",
-    "name": "BUTTE, MT, BERT MOONEY ILS/DME RWY 15"
   },
   {
     "abbv": "BFA",
@@ -1194,10 +978,6 @@
   {
     "abbv": "BFR",
     "name": "BEDFORD, IN, VIRGIL I GRISSOM MUNI ARPT"
-  },
-  {
-    "abbv": "BFT",
-    "name": "CLEVELAND, OH, BURKE LAKEFRONT ILS/DME RWY 24R"
   },
   {
     "abbv": "BFW",
@@ -1300,10 +1080,6 @@
     "name": "WOOSTER, OH, WAYNE COUNTY ARPT"
   },
   {
-    "abbv": "BJP",
-    "name": "INDIANAPOLIS, IN, INDIANAPOLIS INTL ILS RWY 14"
-  },
-  {
     "abbv": "BKD",
     "name": "BRECKENRIDGE, TX, STEPHENS COUNTY ARPT"
   },
@@ -1348,10 +1124,6 @@
     "name": "BROOKINGS, SD, BROOKINGS RGNL ARPT"
   },
   {
-    "abbv": "BKY",
-    "name": "ST LOUIS, MO, ST LOUIS LAMBERT INTL ILS RWY 30L"
-  },
-  {
     "abbv": "BLF",
     "name": "BLUEFIELD, WV, MERCER COUNTY ARPT"
   },
@@ -1380,14 +1152,6 @@
     "name": "BELLEVILLE, IL, SCOTT AFB/MIDAMERICA ARPT"
   },
   {
-    "abbv": "BLY",
-    "name": "MILWAUKEE, WI, GENERAL MITCHELL INTL ILS/DME RWY 19R"
-  },
-  {
-    "abbv": "BMA",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN ILS/DME RWY 35"
-  },
-  {
     "abbv": "BMC",
     "name": "BRIGHAM CITY, UT, BRIGHAM CITY RGNL ARPT"
   },
@@ -1404,10 +1168,6 @@
     "name": "BERLIN, NH, BERLIN RGNL ARPT"
   },
   {
-    "abbv": "BMO",
-    "name": "BILLINGS, MT, BILLINGS LOGAN INTL ILS/ DME RWY 28R"
-  },
-  {
     "abbv": "BMQ",
     "name": "BURNET, TX, BURNET MUNI KATE CRADDOCK FLD ARPT"
   },
@@ -1416,16 +1176,8 @@
     "name": "BEAUMONT, TX, BEAUMONT MUNI ARPT"
   },
   {
-    "abbv": "BMU",
-    "name": "DETROIT, MI, DETROIT METROPOLITAN WAYNE CO ILS RWY 09L"
-  },
-  {
     "abbv": "BNA",
     "name": "NASHVILLE, TN, NASHVILLE INTL ARPT"
-  },
-  {
-    "abbv": "BNE",
-    "name": "RICHMOND, VA, RICHMOND INTL ILS RWY 34"
   },
   {
     "abbv": "BNF",
@@ -1444,10 +1196,6 @@
     "name": "BARNWELL, SC, BARNWELL RGNL ARPT"
   },
   {
-    "abbv": "BNN",
-    "name": "CLOVIS, NM, CANNON AFB LOC/GS RWY 31"
-  },
-  {
     "abbv": "BNO",
     "name": "BURNS, OR, BURNS MUNI ARPT"
   },
@@ -1456,20 +1204,8 @@
     "name": "BULLEN POINT, AK, ARPT"
   },
   {
-    "abbv": "BNQ",
-    "name": "BUFFALO, NY, BUFFALO NIAGARA INTL ILS/ DME RWY 32"
-  },
-  {
-    "abbv": "BNT",
-    "name": "SALT LAKE CITY, UT, SALT LAKE CITY INTL ILS/DME RWY 17"
-  },
-  {
     "abbv": "BNW",
     "name": "BOONE, IA, BOONE MUNI ARPT"
-  },
-  {
-    "abbv": "BNX",
-    "name": "FALMOUTH, MA, CAPE COD COAST GUARD AIR STATION ILS/DME RWY 32"
   },
   {
     "abbv": "BOI",
@@ -1482,10 +1218,6 @@
   {
     "abbv": "BOL",
     "name": "BOULDER, CO, BOULDER MUNI ARPT"
-  },
-  {
-    "abbv": "BON",
-    "name": "BRISTOL/JOHNSON/KINGSPORT, TN, TRI- CITIES ILS RWY 05"
   },
   {
     "abbv": "BOO",
@@ -1512,28 +1244,12 @@
     "name": "MOUNTAIN HOME, AR, BAXTER COUNTY ARPT"
   },
   {
-    "abbv": "BPM",
-    "name": "ST CLOUD, MN, ST CLOUD RGNL ILS RWY 13"
-  },
-  {
     "abbv": "BPS",
     "name": "BUMPASS, VA, ARPT"
   },
   {
     "abbv": "BPT",
     "name": "BEAUMONT/PORT ARTHUR, TX, JACK BROOKS RGNL ARPT"
-  },
-  {
-    "abbv": "BQC",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS/DME RWY 36R"
-  },
-  {
-    "abbv": "BQE",
-    "name": "TOLEDO, OH, EUGENE F KRANZ TOLEDO EXPRESS ILS/DME RWY 25"
-  },
-  {
-    "abbv": "BQG",
-    "name": "BALTIMORE, MD, MARTIN STATE LOC/DME RWY 15"
   },
   {
     "abbv": "BQK",
@@ -1546,10 +1262,6 @@
   {
     "abbv": "BQP",
     "name": "BASTROP, LA, MOREHOUSE MEML ARPT"
-  },
-  {
-    "abbv": "BQQ",
-    "name": "BOSTON, MA, GENERAL EDWARD LAWRENCE LOGAN INTL LOCALIZER RWY 04L"
   },
   {
     "abbv": "BQR",
@@ -1576,16 +1288,8 @@
     "name": "BURLINGTON, IA, SOUTHEAST IOWA RGNL ARPT"
   },
   {
-    "abbv": "BRN",
-    "name": "MOUNTAIN HOME, ID, MOUNTAIN HOME AFB ILS RWY 30"
-  },
-  {
     "abbv": "BRO",
     "name": "BROWNSVILLE, TX, BROWNSVILLE/SOUTH PADRE ISLAND INTL ARPT"
-  },
-  {
-    "abbv": "BRU",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 26L"
   },
   {
     "abbv": "BRW",
@@ -1596,20 +1300,8 @@
     "name": "BARDSTOWN, KY, SAMUELS FLD ARPT"
   },
   {
-    "abbv": "BRZ",
-    "name": "WITTMAN, AZ, LUKE AUX 1 ILS RWY 11"
-  },
-  {
-    "abbv": "BSC",
-    "name": "ANCHORAGE, AK, TED STEVENS ANCHORAGE INTL ILS/DME RWY 15"
-  },
-  {
     "abbv": "BSF",
     "name": "CAMP POHAKULOA, HI, BRADSHAW ARMY AIRFIELD ARPT"
-  },
-  {
-    "abbv": "BSQ",
-    "name": "MYRTLE BEACH, SC, MYRTLE BEACH INTL ILS RWY 36"
   },
   {
     "abbv": "BST",
@@ -1624,20 +1316,12 @@
     "name": "BLAIR, NE, BLAIR MUNI ARPT"
   },
   {
-    "abbv": "BTC",
-    "name": "BELLEVILLE, IL, SCOTT AFB/MIDAMERICA ILS/DME RWY 14L"
-  },
-  {
     "abbv": "BTF",
     "name": "BOUNTIFUL, UT, SKYPARK ARPT"
   },
   {
     "abbv": "BTI",
     "name": "BARTER ISLAND, AK, BARTER ISLAND ARPT"
-  },
-  {
-    "abbv": "BTJ",
-    "name": "FORT HOOD/KILLEEN, TX, ROBERT GRAY AAF ILS/DME RWY 33"
   },
   {
     "abbv": "BTL",
@@ -1676,20 +1360,8 @@
     "name": "BURWELL, NE, CRAM FLD ARPT"
   },
   {
-    "abbv": "BUE",
-    "name": "HOUSTON, TX, GEORGE BUSH INTERCONTINENTAL ARPT/HOUSTON ILS RWY\n33L"
-  },
-  {
     "abbv": "BUF",
     "name": "BUFFALO, NY, BUFFALO NIAGARA INTL ARPT"
-  },
-  {
-    "abbv": "BUI",
-    "name": "KNOXVILLE, TN, MC GHEE TYSON ILS RWY 23R"
-  },
-  {
-    "abbv": "BUL",
-    "name": "MIAMI, FL, MIAMI INTL ILS/DME RWY 09"
   },
   {
     "abbv": "BUM",
@@ -1706,14 +1378,6 @@
   {
     "abbv": "BUY",
     "name": "BURLINGTON, NC, BURLINGTON-ALAMANCE RGNL ARPT"
-  },
-  {
-    "abbv": "BUZ",
-    "name": "COLUMBUS, OH, BOLTON FLD ILS RWY 04"
-  },
-  {
-    "abbv": "BVD",
-    "name": "LOMPOC, CA, VANDENBERG AFB ILS RWY 12"
   },
   {
     "abbv": "BVI",
@@ -1764,10 +1428,6 @@
     "name": "BALTIMORE, MD, BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL ARPT"
   },
   {
-    "abbv": "BWM",
-    "name": "NORMAN, OK, UNIVERSITY OF OKLAHOMA WESTHEIMER ILS/DME RWY 18"
-  },
-  {
     "abbv": "BWP",
     "name": "WAHPETON, ND, HARRY STERN ARPT"
   },
@@ -1776,16 +1436,8 @@
     "name": "PLYMOUTH, IN, PLYMOUTH ARPT"
   },
   {
-    "abbv": "BWV",
-    "name": "PORTLAND, OR, PORTLAND INTL MLS RWY 28L"
-  },
-  {
     "abbv": "BWW",
     "name": "BOWMAN, ND, BOWMAN RGNL ARPT"
-  },
-  {
-    "abbv": "BWY",
-    "name": "LITTLE ROCK, AR, BILL AND HILLARY CLINTON NTL/ADAMS FLD ILS/DME RWY 22L"
   },
   {
     "abbv": "BWZ",
@@ -1808,28 +1460,8 @@
     "name": "BRUNSWICK, ME, BRUNSWICK EXEC ARPT"
   },
   {
-    "abbv": "BXN",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 36L"
-  },
-  {
-    "abbv": "BXO",
-    "name": "BIRMINGHAM, AL, BIRMINGHAM- SHUTTLESWORTH INTL LOC/DME RWY 18"
-  },
-  {
-    "abbv": "BXP",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 17L"
-  },
-  {
-    "abbv": "BXY",
-    "name": "ALLENTOWN, PA, LEHIGH VALLEY INTL ILS RWY 13"
-  },
-  {
     "abbv": "BYA",
     "name": "BOUNDARY, AK, BOUNDARY ARPT"
-  },
-  {
-    "abbv": "BYE",
-    "name": "ALLIANCE, NE, ALLIANCE MUNI ILS/DME RWY 30"
   },
   {
     "abbv": "BYG",
@@ -1852,16 +1484,8 @@
     "name": "FORT IRWIN/BARSTOW, CA, BICYCLE LAKE AAF"
   },
   {
-    "abbv": "BYW",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 10R"
-  },
-  {
     "abbv": "BYY",
     "name": "BAY CITY, TX, BAY CITY RGNL ARPT"
-  },
-  {
-    "abbv": "BZB",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 22X"
   },
   {
     "abbv": "BZC",
@@ -1870,26 +1494,6 @@
   {
     "abbv": "BZN",
     "name": "BOZEMAN, MT, BOZEMAN YELLOWSTONE INTL ARPT"
-  },
-  {
-    "abbv": "BZQ",
-    "name": "STATESBORO, GA, STATESBORO-BULLOCH COUNTY ILS RWY 32"
-  },
-  {
-    "abbv": "BZU",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON ILS/DME RWY 08L"
-  },
-  {
-    "abbv": "BZX",
-    "name": "BISMARCK, ND, BISMARCK MUNI ILS RWY 13"
-  },
-  {
-    "abbv": "BZY",
-    "name": "ALBUQUERQUE, NM, ALBUQUERQUE INTL SUNPORT ILS RWY 03"
-  },
-  {
-    "abbv": "CAC",
-    "name": "NEWTON, KS, NEWTON-CITY-COUNTY ILS RWY 17"
   },
   {
     "abbv": "CAD",
@@ -1944,20 +1548,12 @@
     "name": "COLUMBUS, MS, COLUMBUS AFB"
   },
   {
-    "abbv": "CBP",
-    "name": "COLUMBUS, OH, JOHN GLENN COLUMBUS INTL ILS/DME RWY 10L"
-  },
-  {
     "abbv": "CCA",
     "name": "CLINTON, AR, CLINTON MUNI ARPT"
   },
   {
     "abbv": "CCB",
     "name": "UPLAND, CA, CABLE ARPT"
-  },
-  {
-    "abbv": "CCI",
-    "name": "CHARLESTON, SC, CHARLESTON AFB/INTL ILS RWY 33"
   },
   {
     "abbv": "CCN",
@@ -1994,10 +1590,6 @@
   {
     "abbv": "CDE",
     "name": "CAPE DECISION, AK, CAPE DECISION LIGHTHOUSE HELIPORT"
-  },
-  {
-    "abbv": "CDG",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON ILS RWY 33R"
   },
   {
     "abbv": "CDH",
@@ -2044,20 +1636,12 @@
     "name": "SPRINGFIELD/CHICOPEE, MA, WESTOVER ARB/ METRO ARPT"
   },
   {
-    "abbv": "CEJ",
-    "name": "WILDWOOD, NJ, CAPE MAY COUNTY LOCALIZER RWY 19"
-  },
-  {
     "abbv": "CEK",
     "name": "CRETE, NE, CRETE MUNI ARPT"
   },
   {
     "abbv": "CEM",
     "name": "CENTRAL, AK, CENTRAL ARPT"
-  },
-  {
-    "abbv": "CER",
-    "name": "ORLANDO, FL, ORLANDO INTL ILS/DME RWY 35R"
   },
   {
     "abbv": "CEU",
@@ -2096,16 +1680,8 @@
     "name": "CHEFORNAK, AK, CHEFORNAK ARPT"
   },
   {
-    "abbv": "CFN",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 25R"
-  },
-  {
     "abbv": "CFO",
     "name": "DENVER, CO, COLORADO AIR AND SPACE PORT ARPT"
-  },
-  {
-    "abbv": "CFQ",
-    "name": "MIDDLETON, WI, MIDDLETON MUNI - MOREY FLD LOC/DME RWY 10"
   },
   {
     "abbv": "CFS",
@@ -2114,10 +1690,6 @@
   {
     "abbv": "CFT",
     "name": "CLIFTON/MORENCI, AZ, GREENLEE COUNTY ARPT"
-  },
-  {
-    "abbv": "CFU",
-    "name": "RICHMOND, VA, RICHMOND EXEC- CHESTERFIELD COUNTY ILS/DME RWY 33"
   },
   {
     "abbv": "CFV",
@@ -2148,10 +1720,6 @@
     "name": "COLLEGE PARK, MD, COLLEGE PARK ARPT"
   },
   {
-    "abbv": "CGW",
-    "name": "CHATTANOOGA, TN, LOVELL FLD ILS RWY 02"
-  },
-  {
     "abbv": "CGZ",
     "name": "CASA GRANDE, AZ, CASA GRANDE MUNI ARPT"
   },
@@ -2166,10 +1734,6 @@
   {
     "abbv": "CHH",
     "name": "CHATHAM, MA, WSMO"
-  },
-  {
-    "abbv": "CHJ",
-    "name": "SEATTLE, WA, BOEING FLD/KING COUNTY INTL ILS/DME RWY 32L"
   },
   {
     "abbv": "CHK",
@@ -2236,32 +1800,8 @@
     "name": "SAULT STE MARIE, MI, CHIPPEWA COUNTY INTL ARPT"
   },
   {
-    "abbv": "CIX",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 18L"
-  },
-  {
-    "abbv": "CIZ",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS/DME RWY 18L"
-  },
-  {
-    "abbv": "CJF",
-    "name": "SPRINGFIELD, IL, ABRAHAM LINCOLN CAPITAL ILS RWY 31"
-  },
-  {
-    "abbv": "CJH",
-    "name": "MUSKEGON, MI, MUSKEGON COUNTY ILS/DME RWY 24"
-  },
-  {
     "abbv": "CJJ",
     "name": "CRESCO, IA, ELLEN CHURCH FLD ARPT"
-  },
-  {
-    "abbv": "CJL",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTL ILS/ DME RWY 16R"
-  },
-  {
-    "abbv": "CJN",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS/DME RWY 18R"
   },
   {
     "abbv": "CJR",
@@ -2324,10 +1864,6 @@
     "name": "PERKASIE, PA, PENNRIDGE ARPT"
   },
   {
-    "abbv": "CLA",
-    "name": "SAN JUAN, PR, LUIS MUNOZ MARIN INTL ILS/DME RWY 10"
-  },
-  {
     "abbv": "CLE",
     "name": "CLEVELAND, OH, CLEVELAND-HOPKINS INTL ARPT"
   },
@@ -2372,10 +1908,6 @@
     "name": "CLEARWATER, FL, CLEARWATER AIR PARK ARPT"
   },
   {
-    "abbv": "CLZ",
-    "name": "BATON ROUGE, LA, BATON ROUGE METRO, RYAN FLD ILS/DME RWY 22R"
-  },
-  {
     "abbv": "CMA",
     "name": "CAMARILLO, CA, CAMARILLO ARPT"
   },
@@ -2404,10 +1936,6 @@
     "name": "SPARTA, WI, SPARTA/FORT MC COY ARPT"
   },
   {
-    "abbv": "CNA",
-    "name": "FAIRBANKS, AK, FAIRBANKS INTL ILS/DME RWY 02L"
-  },
-  {
     "abbv": "CNB",
     "name": "CANBY, MN, MYERS FLD ARPT"
   },
@@ -2428,10 +1956,6 @@
     "name": "CONCORDIA, KS, BLOSSER MUNI ARPT"
   },
   {
-    "abbv": "CNL",
-    "name": "LITTLE ROCK, AR, BILL AND HILLARY CLINTON NTL/ADAMS FLD ILS/DME RWY 04R"
-  },
-  {
     "abbv": "CNM",
     "name": "CARLSBAD, NM, CAVERN CITY AIR TRML ARPT"
   },
@@ -2448,20 +1972,12 @@
     "name": "CHANUTE, KS, CHANUTE MARTIN JOHNSON ARPT"
   },
   {
-    "abbv": "CNV",
-    "name": "MIAMI, FL, MIAMI INTL LOC/DME RWY 26R"
-  },
-  {
     "abbv": "CNW",
     "name": "WACO, TX, TSTC WACO ARPT"
   },
   {
     "abbv": "CNY",
     "name": "MOAB, UT, CANYONLANDS FLD ARPT"
-  },
-  {
-    "abbv": "COA",
-    "name": "INDIANAPOLIS, IN, INDIANAPOLIS INTL ILS RWY 32"
   },
   {
     "abbv": "COD",
@@ -2668,16 +2184,8 @@
     "name": "CLINTON, NC, CLINTON-SAMPSON COUNTY ARPT"
   },
   {
-    "abbv": "CUA",
-    "name": "LAS VEGAS, NV, MC CARRAN INTL ILS/DME RWY 01L"
-  },
-  {
     "abbv": "CUB",
     "name": "COLUMBIA, SC, JIM HAMILTON L B OWENS ARPT"
-  },
-  {
-    "abbv": "CUE",
-    "name": "MOSBY, MO, MIDWEST NTL AIR CENTER ILS/ DME RWY 18"
   },
   {
     "abbv": "CUH",
@@ -2700,20 +2208,12 @@
     "name": "ATLANTA, GA, COVINGTON MUNI ARPT"
   },
   {
-    "abbv": "CVD",
-    "name": "CARLSBAD, NM, CAVERN CITY AIR TRML ILS RWY 03"
-  },
-  {
     "abbv": "CVG",
     "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ARPT"
   },
   {
     "abbv": "CVH",
     "name": "HOLLISTER, CA, HOLLISTER MUNI ARPT"
-  },
-  {
-    "abbv": "CVI",
-    "name": "COFIELD, NC, EDENTON LOCALIZER RWY 19"
   },
   {
     "abbv": "CVK",
@@ -2740,10 +2240,6 @@
     "name": "MOSINEE, WI, CENTRAL WISCONSIN ARPT"
   },
   {
-    "abbv": "CWB",
-    "name": "OAKLAND, CA, METROPOLITAN OAKLAND INT'L ILS RWY 27L"
-  },
-  {
     "abbv": "CWC",
     "name": "WICHITA FALLS, TX, KICKAPOO DOWNTOWN ARPT"
   },
@@ -2756,20 +2252,8 @@
     "name": "CLINTON, IA, CLINTON MUNI ARPT"
   },
   {
-    "abbv": "CWJ",
-    "name": "PHOENIX, AZ, PHOENIX SKY HARBOR INTL ILS/DME RWY 26"
-  },
-  {
-    "abbv": "CWT",
-    "name": "ST PETERSBURG-CLEARWATER, FL, ST PETE- CLEARWATER INTL ILS/DME RWY 36"
-  },
-  {
     "abbv": "CWV",
     "name": "CLAXTON, GA, CLAXTON-EVANS COUNTY ARPT"
-  },
-  {
-    "abbv": "CWX",
-    "name": "WICHITA, KS, MC CONNELL AFB ILS RWY 19R"
   },
   {
     "abbv": "CXC",
@@ -2820,10 +2304,6 @@
     "name": "CLAY CENTER, KS, CLAY CENTER MUNI ARPT"
   },
   {
-    "abbv": "CYZ",
-    "name": "GRAND RAPIDS, MI, GERALD R FORD INTL ILS RWY 08R"
-  },
-  {
     "abbv": "CZD",
     "name": "COZAD, NE, COZAD MUNI ARPT"
   },
@@ -2834,10 +2314,6 @@
   {
     "abbv": "CZG",
     "name": "ENDICOTT, NY, TRI-CITIES ARPT"
-  },
-  {
-    "abbv": "CZH",
-    "name": "JACKSONVILLE, FL, JACKSONVILLE INTL ILS RWY 14"
   },
   {
     "abbv": "CZK",
@@ -2868,10 +2344,6 @@
     "name": "DAYTONA BEACH, FL, DAYTONA BEACH INTL ARPT"
   },
   {
-    "abbv": "DAC",
-    "name": "YUMA, AZ, MCAS/INTL ILS RWY 03L"
-  },
-  {
     "abbv": "DAF",
     "name": "NECEDAH, WI, NECEDAH ARPT"
   },
@@ -2900,10 +2372,6 @@
     "name": "FREMONT, MI, FREMONT ARPT"
   },
   {
-    "abbv": "DBF",
-    "name": "DAYTONA BEACH, FL, DAYTONA BEACH INTL ILS/DME RWY 25R"
-  },
-  {
     "abbv": "DBN",
     "name": "DUBLIN, GA, W H 'BUD' BARRON ARPT"
   },
@@ -2924,10 +2392,6 @@
     "name": "SAN DIEGO, CA, SAN DIEGO CGAS"
   },
   {
-    "abbv": "DCI",
-    "name": "GREELEY, CO, GREELEY-WELD COUNTY ILS/ DME RWY 35"
-  },
-  {
     "abbv": "DCK",
     "name": "DAHL CREEK, AK, DAHL CREEK ARPT"
   },
@@ -2938,10 +2402,6 @@
   {
     "abbv": "DCU",
     "name": "DECATUR, AL, PRYOR FLD RGNL ARPT"
-  },
-  {
-    "abbv": "DCX",
-    "name": "MIAMI, FL, MIAMI INTL ILS/DME RWY 30"
   },
   {
     "abbv": "DCY",
@@ -2956,20 +2416,8 @@
     "name": "BENNINGTON, VT, WILLIAM H MORSE STATE ARPT"
   },
   {
-    "abbv": "DDO",
-    "name": "ORLANDO, FL, ORLANDO INTL ILS/DME RWY 35L"
-  },
-  {
     "abbv": "DDT",
     "name": "SLANA, AK, DUFFYS TAVERN ARPT"
-  },
-  {
-    "abbv": "DDV",
-    "name": "COLUMBUS, OH, RICKENBACKER INTL ILS/ DME RWY 05R"
-  },
-  {
-    "abbv": "DDX",
-    "name": "GOLDSBORO, NC, SEYMOUR JOHNSON AFB LOC/ GS RWY 26"
   },
   {
     "abbv": "DEC",
@@ -2986,10 +2434,6 @@
   {
     "abbv": "DEH",
     "name": "DECORAH, IA, DECORAH MUNI ARPT"
-  },
-  {
-    "abbv": "DEJ",
-    "name": "ALBANY, NY, ALBANY INTL ILS/DME RWY 01"
   },
   {
     "abbv": "DEN",
@@ -3024,10 +2468,6 @@
     "name": "DOUGLAS, AZ, DOUGLAS MUNI ARPT"
   },
   {
-    "abbv": "DGU",
-    "name": "BOSTON, MA, GENERAL EDWARD LAWRENCE LOGAN INTL ILS/DME RWY 27"
-  },
-  {
     "abbv": "DGW",
     "name": "DOUGLAS, WY, CONVERSE COUNTY ARPT"
   },
@@ -3040,32 +2480,12 @@
     "name": "DALHART, TX, DALHART MUNI ARPT"
   },
   {
-    "abbv": "DHY",
-    "name": "NEWPORT NEWS, VA, NEWPORT NEWS/ WILLIAMSBURG INTL ILS/DME RWY 25"
-  },
-  {
     "abbv": "DIJ",
     "name": "DRIGGS, ID, DRIGGS-REED MEML ARPT"
   },
   {
     "abbv": "DIK",
     "name": "DICKINSON, ND, DICKINSON - THEODORE ROOSEVELT RGNL ARPT"
-  },
-  {
-    "abbv": "DIQ",
-    "name": "LAS VEGAS, NV, NELLIS AFB LOC/GS RWY 21L"
-  },
-  {
-    "abbv": "DIZ",
-    "name": "ORLANDO, FL, ORLANDO INTL ILS/DME RWY 17R"
-  },
-  {
-    "abbv": "DJK",
-    "name": "DE KALB, IL, DE KALB TAYLOR MUNI ILS/ DME RWY 02"
-  },
-  {
-    "abbv": "DJR",
-    "name": "MARIETTA, GA, DOBBINS AIR RESERVE BASE LOC/GS RWY 11"
   },
   {
     "abbv": "DKB",
@@ -3116,14 +2536,6 @@
     "name": "THE DALLES, OR, COLUMBIA GORGE RGNL/ THE DALLES MUNI ARPT"
   },
   {
-    "abbv": "DLV",
-    "name": "MONTGOMERY, AL, MONTGOMERY RGNL (DANNELLY FLD) ILS RWY 28"
-  },
-  {
-    "abbv": "DLX",
-    "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ILS RWY 19C"
-  },
-  {
     "abbv": "DLZ",
     "name": "DELAWARE, OH, DELAWARE MUNI - JIM MOORE FLD ARPT"
   },
@@ -3132,20 +2544,12 @@
     "name": "TUCSON, AZ, DAVIS MONTHAN AFB"
   },
   {
-    "abbv": "DMI",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 27R"
-  },
-  {
     "abbv": "DMN",
     "name": "DEMING, NM, DEMING MUNI ARPT"
   },
   {
     "abbv": "DMO",
     "name": "SEDALIA, MO, SEDALIA RGNL ARPT"
-  },
-  {
-    "abbv": "DMP",
-    "name": "RALEIGH/DURHAM, NC, RALEIGH-DURHAM INTL ILS/DME RWY 23R"
   },
   {
     "abbv": "DMW",
@@ -3180,14 +2584,6 @@
     "name": "DANVILLE, IL, VERMILION RGNL ARPT"
   },
   {
-    "abbv": "DOF",
-    "name": "MINOCQUA-WOODRUFF, WI, LAKELAND/NOBLE F LEE MEML FLD LOCALIZER RWY 36"
-  },
-  {
-    "abbv": "DOT",
-    "name": "KANSAS CITY, MO, KANSAS CITY INTL ILS/ DME RWY 01L"
-  },
-  {
     "abbv": "DOV",
     "name": "DOVER, DE, DOVER AFB"
   },
@@ -3204,28 +2600,8 @@
     "name": "KENANSVILLE, NC, DUPLIN CO ARPT"
   },
   {
-    "abbv": "DPM",
-    "name": "TUCSON, AZ, DAVIS-MONTHAN AFB BASE OPS"
-  },
-  {
-    "abbv": "DPP",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 35R"
-  },
-  {
-    "abbv": "DPX",
-    "name": "DALLAS, TX, DALLAS LOVE FLD ILS/DME RWY 13R"
-  },
-  {
-    "abbv": "DQG",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS RWY 36C"
-  },
-  {
     "abbv": "DQH",
     "name": "DOUGLAS, GA, DOUGLAS MUNI ARPT"
-  },
-  {
-    "abbv": "DQQ",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 16R"
   },
   {
     "abbv": "DRI",
@@ -3252,20 +2628,8 @@
     "name": "DES MOINES, IA, DES MOINES INTL ARPT"
   },
   {
-    "abbv": "DSO",
-    "name": "EVANSVILLE, IN, EVANSVILLE RGNL ILS/ DME RWY 04"
-  },
-  {
     "abbv": "DSV",
     "name": "DANSVILLE, NY, DANSVILLE MUNI ARPT"
-  },
-  {
-    "abbv": "DSY",
-    "name": "SEARCY, AR, SEARCY MUNI ILS/DME RWY 01"
-  },
-  {
-    "abbv": "DSZ",
-    "name": "MADISON, WI, DANE COUNTY RGNL-TRUAX FLD ILS/DME RWY 18"
   },
   {
     "abbv": "DTA",
@@ -3360,14 +2724,6 @@
     "name": "SLAYTON, MN, SLAYTON MUNI ARPT"
   },
   {
-    "abbv": "DVR",
-    "name": "LEBANON, NH, LEBANON MUNI ILS/DME RWY 18"
-  },
-  {
-    "abbv": "DVS",
-    "name": "GRAND RAPIDS, MI, GERALD R FORD INTL ILS RWY 35"
-  },
-  {
     "abbv": "DVT",
     "name": "PHOENIX, AZ, PHOENIX DEER VALLEY ARPT"
   },
@@ -3376,24 +2732,12 @@
     "name": "DAVIS/WOODLAND/WINTERS, CA, YOLO COUNTY ARPT"
   },
   {
-    "abbv": "DWC",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 22L"
-  },
-  {
-    "abbv": "DWE",
-    "name": "TULSA, OK, TULSA INTL ILS/DME RWY 18L"
-  },
-  {
     "abbv": "DWH",
     "name": "HOUSTON, TX, DAVID WAYNE HOOKS MEML ARPT"
   },
   {
     "abbv": "DWU",
     "name": "ASHLAND, KY, ASHLAND RGNL ARPT"
-  },
-  {
-    "abbv": "DWW",
-    "name": "DES MOINES, IA, DES MOINES INTL ILS/ DME RWY 05"
   },
   {
     "abbv": "DWX",
@@ -3408,10 +2752,6 @@
     "name": "DANBURY, CT, DANBURY MUNI ARPT"
   },
   {
-    "abbv": "DXU",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 34L"
-  },
-  {
     "abbv": "DXX",
     "name": "MADISON, MN, LAC QUI PARLE COUNTY ARPT"
   },
@@ -3422,10 +2762,6 @@
   {
     "abbv": "DYB",
     "name": "SUMMERVILLE, SC, SUMMERVILLE ARPT"
-  },
-  {
-    "abbv": "DYH",
-    "name": "KANSAS CITY, MO, KANSAS CITY INTL ILS/ DME RWY 19L"
   },
   {
     "abbv": "DYL",
@@ -3448,24 +2784,12 @@
     "name": "HORSESHOE BAY, TX, HORSESHOE BAY RESORT ARPT"
   },
   {
-    "abbv": "DZG",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 07"
-  },
-  {
-    "abbv": "DZH",
-    "name": "CULPEPER, VA, CULPEPER RGNL LOCALIZER RWY 04"
-  },
-  {
     "abbv": "DZJ",
     "name": "BLAIRSVILLE, GA, BLAIRSVILLE ARPT"
   },
   {
     "abbv": "EAA",
     "name": "EAGLE, AK, EAGLE ARPT"
-  },
-  {
-    "abbv": "EAF",
-    "name": "FAIRBANKS, AK, EIELSON AFB ILS RWY 32"
   },
   {
     "abbv": "EAG",
@@ -3508,16 +2832,8 @@
     "name": "NEAH BAY, WA, US COAST GUARD STATION NEAH BAY HELIPORT"
   },
   {
-    "abbv": "ECC",
-    "name": "CEDAR CITY, UT, CEDAR CITY RGNL ILS RWY 20"
-  },
-  {
     "abbv": "ECG",
     "name": "ELIZABETH CITY, NC, ELIZABETH CITY CG AIR STATION/RGNL ARPT"
-  },
-  {
-    "abbv": "ECH",
-    "name": "KETCHIKAN, AK, KETCHIKAN INTL ILS/DME RWY 11"
   },
   {
     "abbv": "ECP",
@@ -3548,10 +2864,6 @@
     "name": "EDGEWOOD ARSENAL, MD, WEIDE AHP (ABERDEEN PROVING GROUND) HELIPORT"
   },
   {
-    "abbv": "EDI",
-    "name": "OMAHA, NE, EPPLEY AIRFIELD ILS/DME RWY 32R"
-  },
-  {
     "abbv": "EDJ",
     "name": "BELLEFONTAINE, OH, BELLEFONTAINE RGNL ARPT"
   },
@@ -3572,14 +2884,6 @@
     "name": "NEEDLES, CA, NEEDLES ARPT"
   },
   {
-    "abbv": "EEE",
-    "name": "AMES, IA, AMES MUNI ILS RWY 01"
-  },
-  {
-    "abbv": "EEI",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS/DME RWY 36R"
-  },
-  {
     "abbv": "EEK",
     "name": "EEK, AK, EEK ARPT"
   },
@@ -3598,10 +2902,6 @@
   {
     "abbv": "EET",
     "name": "ALABASTER, AL, SHELBY COUNTY ARPT"
-  },
-  {
-    "abbv": "EEZ",
-    "name": "ALEXANDRIA, MN, CHANDLER FLD ILS RWY 31"
   },
   {
     "abbv": "EFC",
@@ -3636,10 +2936,6 @@
     "name": "CRESTVIEW, FL, DUKE FLD,(EGLIN AF AUX NR 3) ARPT"
   },
   {
-    "abbv": "EGK",
-    "name": "DAYTON, OH, JAMES M COX DAYTON INTL ILS/DME RWY 24L"
-  },
-  {
     "abbv": "EGQ",
     "name": "EMMETSBURG, IA, EMMETSBURG MUNI ARPT"
   },
@@ -3672,10 +2968,6 @@
     "name": "FORT WORTH, TX, NWSRH"
   },
   {
-    "abbv": "EIF",
-    "name": "PITTSFIELD, MA, PITTSFIELD MUNI LOC/ DME RWY 26"
-  },
-  {
     "abbv": "EII",
     "name": "EGEGIK, AK, EGEGIK ARPT"
   },
@@ -3692,24 +2984,12 @@
     "name": "CHICAGO, IL, SCHAUMBURG REGIONAL ARPT"
   },
   {
-    "abbv": "EIU",
-    "name": "ENID, OK, ENID WOODRING RGNL ILS RWY 35"
-  },
-  {
     "abbv": "EIW",
     "name": "NEW MADRID, MO, COUNTY MEML ARPT"
   },
   {
-    "abbv": "EJR",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 21L"
-  },
-  {
     "abbv": "EKA",
     "name": "EUREKA, CA, MURRAY FLD ARPT"
-  },
-  {
-    "abbv": "EKI",
-    "name": "CORPUS CHRISTI, TX, CORPUS CHRISTI INTL LOC/DME RWY 31"
   },
   {
     "abbv": "EKM",
@@ -3724,20 +3004,12 @@
     "name": "ELKO, NV, ELKO RGNL ARPT"
   },
   {
-    "abbv": "EKP",
-    "name": "WISCONSIN RAPIDS, WI, ALEXANDER FLD SOUTH WOOD COUNTY SDF RWY 02"
-  },
-  {
     "abbv": "EKQ",
     "name": "MONTICELLO, KY, WAYNE COUNTY ARPT"
   },
   {
     "abbv": "EKS",
     "name": "ENNIS, MT, ENNIS - BIG SKY ARPT"
-  },
-  {
-    "abbv": "EKW",
-    "name": "WORCESTER, MA, WORCESTER RGNL ILS/DME RWY 29"
   },
   {
     "abbv": "EKX",
@@ -3764,10 +3036,6 @@
     "name": "ELK CITY, OK, ELK CITY RGNL BUSINESS ARPT"
   },
   {
-    "abbv": "ELL",
-    "name": "HUNTSVILLE, AL, HUNTSVILLE INTL-CARL T JONES FLD ILS RWY 36L"
-  },
-  {
     "abbv": "ELM",
     "name": "ELMIRA/CORNING, NY, ELMIRA/CORNING RGNL ARPT"
   },
@@ -3784,10 +3052,6 @@
     "name": "EL PASO, TX, EL PASO INTL ARPT"
   },
   {
-    "abbv": "ELR",
-    "name": "RAPID CITY, SD, ELLSWORTH AFB ILS RWY 13"
-  },
-  {
     "abbv": "ELV",
     "name": "ELFIN COVE, AK, ELFIN COVE SPB"
   },
@@ -3798,14 +3062,6 @@
   {
     "abbv": "ELZ",
     "name": "WELLSVILLE, NY, WELLSVILLE MUNI/ TARANTINE FLD ARPT"
-  },
-  {
-    "abbv": "EMB",
-    "name": "ABILENE, TX, ABILENE RGNL LOC/DME RWY 17R"
-  },
-  {
-    "abbv": "EMJ",
-    "name": "GLENDALE, AZ, LUKE AFB LOC/GS RWY 21L"
   },
   {
     "abbv": "EMM",
@@ -3832,10 +3088,6 @@
     "name": "ENID, OK, VANCE AFB"
   },
   {
-    "abbv": "ENF",
-    "name": "OMAHA, NE, EPPLEY AIRFIELD ILS/DME RWY 32L"
-  },
-  {
     "abbv": "ENL",
     "name": "CENTRALIA, IL, CENTRALIA MUNI ARPT"
   },
@@ -3860,10 +3112,6 @@
     "name": "KENOSHA, WI, KENOSHA RGNL ARPT"
   },
   {
-    "abbv": "EOA",
-    "name": "MOSES LAKE, WA, MOSES LAKE GBAS ILS/ DME RWY 22"
-  },
-  {
     "abbv": "EOD",
     "name": "FORT CAMPBELL(CLARKSVILLE), TN, SABRE AAF (FORT CAMPBELL) ARPT"
   },
@@ -3876,24 +3124,12 @@
     "name": "KEOKUK, IA, KEOKUK MUNI ARPT"
   },
   {
-    "abbv": "EOM",
-    "name": "OCEAN CITY, MD, OCEAN CITY LOCALIZER RWY 32"
-  },
-  {
     "abbv": "EOP",
     "name": "WAVERLY, OH, PIKE COUNTY ARPT"
   },
   {
     "abbv": "EOS",
     "name": "NEOSHO, MO, NEOSHO HUGH ROBINSON ARPT"
-  },
-  {
-    "abbv": "EPA",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 27L"
-  },
-  {
-    "abbv": "EPC",
-    "name": "HONOLULU, HI, DANIEL K INOUYE INTL LDA/ DME RWY 26L"
   },
   {
     "abbv": "EPH",
@@ -3904,20 +3140,12 @@
     "name": "EASTPORT, ME, EASTPORT MUNI ARPT"
   },
   {
-    "abbv": "EPR",
-    "name": "ELIZABETH CITY, NC, ELIZABETH CITY CG AIR STATION/RGNL ILS/DME RWY 10"
-  },
-  {
     "abbv": "EQA",
     "name": "EL DORADO, KS, EL DORADO/CAPT JACK THOMAS MEML ARPT"
   },
   {
     "abbv": "EQV",
     "name": "EAST STROUDSBURG, PA, STROUDSBERG POCONO ARPT"
-  },
-  {
-    "abbv": "EQX",
-    "name": "AKRON, OH, AKRON-CANTON RGNL ILS/DME RWY 05"
   },
   {
     "abbv": "EQY",
@@ -3928,16 +3156,8 @@
     "name": "ERIE, PA, ERIE INTL/TOM RIDGE FLD ARPT"
   },
   {
-    "abbv": "ERJ",
-    "name": "ALEXANDRIA, LA, ALEXANDRIA INTL ILS/ DME RWY 14"
-  },
-  {
     "abbv": "ERO",
     "name": "ELDRED ROCK, AK, ELDRED ROCK CG HELIPORT"
-  },
-  {
-    "abbv": "ERP",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 25"
   },
   {
     "abbv": "ERR",
@@ -3960,10 +3180,6 @@
     "name": "ALEXANDRIA, LA, ESLER RGNL ARPT"
   },
   {
-    "abbv": "ESJ",
-    "name": "EAGLE, CO, EAGLE COUNTY RGNL ILS/DME RWY 25"
-  },
-  {
     "abbv": "ESN",
     "name": "EASTON, MD, EASTON/NEWNAM FLD ARPT"
   },
@@ -3984,24 +3200,12 @@
     "name": "TARBORO, NC, TARBORO-EDGECOMBE ARPT"
   },
   {
-    "abbv": "ETF",
-    "name": "EL PASO, TX, EL PASO INTL LOC/DME RWY 04"
-  },
-  {
     "abbv": "ETH",
     "name": "WHEATON, MN, WHEATON MUNI ARPT"
   },
   {
-    "abbv": "ETI",
-    "name": "CHARLESTON, SC, CHARLESTON EXEC ILS/ DME RWY 09"
-  },
-  {
     "abbv": "ETN",
     "name": "EASTLAND, TX, EASTLAND MUNI ARPT"
-  },
-  {
-    "abbv": "ETZ",
-    "name": "NANTUCKET, MA, NANTUCKET MEML ILS RWY 33"
   },
   {
     "abbv": "EUF",
@@ -4016,10 +3220,6 @@
     "name": "CALDWELL, ID, CALDWELL INDUSTRIAL ARPT"
   },
   {
-    "abbv": "EUY",
-    "name": "MURRAY, KY, KYLE-OAKLEY FLD LOCALIZER RWY 23"
-  },
-  {
     "abbv": "EVB",
     "name": "NEW SMYRNA BEACH, FL, NEW SMYRNA BEACH MUNI ARPT"
   },
@@ -4028,16 +3228,8 @@
     "name": "VANCOUVER, WA, EVERGREENH FIELD ARPT"
   },
   {
-    "abbv": "EVG",
-    "name": "OKLAHOMA CITY, OK, TINKER AFB LOCALIZER RWY 13"
-  },
-  {
     "abbv": "EVM",
     "name": "EVELETH, MN, EVELETH-VIRGINIA MUNI ARPT"
-  },
-  {
-    "abbv": "EVO",
-    "name": "OLIVE BRANCH, MS, OLIVE BRANCH LOC/DME RWY 36"
   },
   {
     "abbv": "EVU",
@@ -4080,26 +3272,6 @@
     "name": "EXCURSION INLET, AK, EXCURSION INLET SPB"
   },
   {
-    "abbv": "EXL",
-    "name": "DETROIT, MI, DETROIT METROPOLITAN WAYNE CO ILS RWY 09R"
-  },
-  {
-    "abbv": "EXO",
-    "name": "ORLANDO, FL, EXEC ILS/DME RWY 25"
-  },
-  {
-    "abbv": "EXR",
-    "name": "OKLAHOMA CITY, OK, WILL ROGERS WORLD ILS/DME RWY 17L"
-  },
-  {
-    "abbv": "EXS",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS/DME RWY 18L"
-  },
-  {
-    "abbv": "EXW",
-    "name": "MARTINSBURG, WV, EASTERN WV RGNL/ SHEPHERD FLD ILS RWY 26"
-  },
-  {
     "abbv": "EXX",
     "name": "LEXINGTON, NC, DAVIDSON COUNTY ARPT"
   },
@@ -4112,20 +3284,8 @@
     "name": "ELIZABETHTOWN, NC, CURTIS L BROWN JR FLD ARPT"
   },
   {
-    "abbv": "EYR",
-    "name": "MEXICO, MO, MEXICO MEML LOC/DME RWY 24"
-  },
-  {
     "abbv": "EYW",
     "name": "KEY WEST, FL, KEY WEST INTL ARPT"
-  },
-  {
-    "abbv": "EZA",
-    "name": "NEWARK, NJ, NEWARK LIBERTY INTL ILS/ DME RWY 04R"
-  },
-  {
-    "abbv": "EZD",
-    "name": "RICHMOND, VA, RICHMOND INTL LOC/GS RWY 02"
   },
   {
     "abbv": "EZF",
@@ -4140,10 +3300,6 @@
     "name": "EASTMAN, GA, HEART OF GEORGIA RGNL ARPT"
   },
   {
-    "abbv": "EZN",
-    "name": "NASHVILLE, TN, NASHVILLE INTL LOC/GS RWY 02C"
-  },
-  {
     "abbv": "EZS",
     "name": "SHAWANO, WI, SHAWANO MUNI ARPT"
   },
@@ -4154,10 +3310,6 @@
   {
     "abbv": "FAD",
     "name": "FAITH, SD, FAITH ARPT"
-  },
-  {
-    "abbv": "FAE",
-    "name": "DAYTON, OH, WRIGHT-PATTERSON AFB ILS RWY 05L"
   },
   {
     "abbv": "FAF",
@@ -4276,10 +3428,6 @@
     "name": "ATLANTA, GA, ATLANTA RGNL FALCON FLD ARPT"
   },
   {
-    "abbv": "FFE",
-    "name": "FORT, AR, FORT SMITH MUNI MLS RWY 07"
-  },
-  {
     "abbv": "FFL",
     "name": "FAIRFIELD, IA, FAIRFIELD MUNI ARPT"
   },
@@ -4296,20 +3444,12 @@
     "name": "FRANKFORT, KY, CAPITAL CITY ARPT"
   },
   {
-    "abbv": "FFV",
-    "name": "SARASOTA/BRADENTON, FL, SARASOTA/ BRADENTON INTL ILS RWY 14"
-  },
-  {
     "abbv": "FFX",
     "name": "FREMONT, MI, FREMONT MUNI ARPT"
   },
   {
     "abbv": "FFZ",
     "name": "MESA, AZ, FALCON FLD ARPT"
-  },
-  {
-    "abbv": "FGH",
-    "name": "EASTON, MD, EASTON/NEWNAM FLD ILS/DME RWY 04"
   },
   {
     "abbv": "FGU",
@@ -4352,22 +3492,6 @@
     "name": "FITCHBURG, MA, FITCHBURG MUNI ARPT"
   },
   {
-    "abbv": "FJD",
-    "name": "FORT PIERCE, FL, TREASURE COAST INTL ILS/DME RWY 10R"
-  },
-  {
-    "abbv": "FJN",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 36R"
-  },
-  {
-    "abbv": "FJQ",
-    "name": "NEWPORT NEWS, VA, NEWPORT NEWS/ WILLIAMSBURG INTL LOC/DME RWY 20"
-  },
-  {
-    "abbv": "FJU",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS RWY 04R"
-  },
-  {
     "abbv": "FKA",
     "name": "PRESTON, MN, FILLMORE COUNTY ARPT"
   },
@@ -4388,10 +3512,6 @@
     "name": "FRANKLIN, VA, FRANKLIN RGNL ARPT"
   },
   {
-    "abbv": "FKO",
-    "name": "SCAPPOOSE, OR, SCAPPOOSE INDUSTRIAL AIRPARK LOC/DME RWY 15"
-  },
-  {
     "abbv": "FKP",
     "name": "FORT CAMPBELL/HOPKINSVILLE, KY, CAMPBELL AAF (FORT CAMPBELL) ILS/DME\nRWY 23"
   },
@@ -4402,10 +3522,6 @@
   {
     "abbv": "FKS",
     "name": "FRANKFORT, MI, FRANKFORT DOW MEML FLD ARPT"
-  },
-  {
-    "abbv": "FKZ",
-    "name": "SACRAMENTO, CA, MC CLELLAN AIRFIELD ILS RWY 34"
   },
   {
     "abbv": "FLD",
@@ -4428,10 +3544,6 @@
     "name": "FLIPPIN, AR, MARION COUNTY RGNL ARPT"
   },
   {
-    "abbv": "FLQ",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 17C"
-  },
-  {
     "abbv": "FLT",
     "name": "FLAT, AK, FLAT ARPT"
   },
@@ -4446,10 +3558,6 @@
   {
     "abbv": "FLY",
     "name": "COLORADO SPRINGS, CO, MEADOW LAKE ARPT"
-  },
-  {
-    "abbv": "FLZ",
-    "name": "SPOKANE, WA, FELTS FLD ILS/DME RWY 22R"
   },
   {
     "abbv": "FME",
@@ -4480,28 +3588,8 @@
     "name": "FALLS CITY, NE, BRENNER FLD ARPT"
   },
   {
-    "abbv": "FND",
-    "name": "BALTIMORE, MD, BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL ILS RWY 15R"
-  },
-  {
-    "abbv": "FNF",
-    "name": "HOUSTON, TX, ELLINGTON ILS RWY 22"
-  },
-  {
     "abbv": "FNL",
     "name": "FORT COLLINS/LOVELAND, CO, NORTHERN COLORADO RGNL ARPT"
-  },
-  {
-    "abbv": "FNM",
-    "name": "ALTUS, OK, ALTUS AFB LOC/GS RWY 35R"
-  },
-  {
-    "abbv": "FNO",
-    "name": "CLINTON, IA, CLINTON MUNI ILS/DME RWY 03"
-  },
-  {
-    "abbv": "FNP",
-    "name": "SAN FRANCISCO, CA, SAN FRANCISCO INTL LDA/DME RWY 28X"
   },
   {
     "abbv": "FNR",
@@ -4510,10 +3598,6 @@
   {
     "abbv": "FNT",
     "name": "FLINT, MI, BISHOP INTL ARPT"
-  },
-  {
-    "abbv": "FNU",
-    "name": "ORLANDO, FL, ORLANDO SANFORD INTL ILS/ DME RWY 27R"
   },
   {
     "abbv": "FOA",
@@ -4526,10 +3610,6 @@
   {
     "abbv": "FOE",
     "name": "TOPEKA, KS, TOPEKA RGNL ARPT"
-  },
-  {
-    "abbv": "FOG",
-    "name": "SHREVEPORT, LA, SHREVEPORT RGNL ILS RWY 32"
   },
   {
     "abbv": "FOK",
@@ -4564,26 +3644,6 @@
     "name": "RUTHERFORDTON, NC, RUTHERFORD COUNTY/ MARCHMAN FLD ARPT"
   },
   {
-    "abbv": "FQJ",
-    "name": "FAIRMONT, MN, FAIRMONT MUNI ILS RWY 31"
-  },
-  {
-    "abbv": "FQR",
-    "name": "FITZGERALD, GA, FITZGERALD MUNI LOCALIZER RWY 02"
-  },
-  {
-    "abbv": "FQS",
-    "name": "COLUMBUS, OH, RICKENBACKER INTL ILS/ DME RWY 05L"
-  },
-  {
-    "abbv": "FQV",
-    "name": "PLATTSBURGH, NY, PLATTSBURGH INTL ILS/ DME RWY 35"
-  },
-  {
-    "abbv": "FRC",
-    "name": "SPOKANE, WA, FAIRCHILD AFB LOC/GS RWY 05"
-  },
-  {
     "abbv": "FRG",
     "name": "FARMINGDALE, NY, REPUBLIC ARPT"
   },
@@ -4594,14 +3654,6 @@
   {
     "abbv": "FRI",
     "name": "FORT RILEY(JUNCTION CITY), KS, MARSHALL AAF"
-  },
-  {
-    "abbv": "FRJ",
-    "name": "OKLAHOMA CITY, OK, TINKER AFB ILS RWY 18"
-  },
-  {
-    "abbv": "FRL",
-    "name": "JACKSON, MS, JACKSON-MEDGAR WILEY EVERS INTL ILS RWY 34L"
   },
   {
     "abbv": "FRM",
@@ -4644,10 +3696,6 @@
     "name": "NIKOLAI, AK, NIKOLAI ARPT"
   },
   {
-    "abbv": "FSQ",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 27L"
-  },
-  {
     "abbv": "FST",
     "name": "FORT STOCKTON, TX, FORT STOCKTON-PECOS COUNTY ARPT"
   },
@@ -4658,10 +3706,6 @@
   {
     "abbv": "FSW",
     "name": "FORT MADISON, IA, FORT MADISON MUNI ARPT"
-  },
-  {
-    "abbv": "FTG",
-    "name": "DENVER, CO, COLORADO AIR AND SPACE PORT ILS/DME RWY 26"
   },
   {
     "abbv": "FTK",
@@ -4680,32 +3724,12 @@
     "name": "ATLANTA, GA, FULTON COUNTY EXEC/ CHARLIE BROWN FLD ARPT"
   },
   {
-    "abbv": "FUI",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 08"
-  },
-  {
     "abbv": "FUL",
     "name": "FULLERTON, CA, FULLERTON MUNI ARPT"
   },
   {
-    "abbv": "FUN",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 09R"
-  },
-  {
-    "abbv": "FUQ",
-    "name": "DUBUQUE, IA, DUBUQUE RGNL ILS/DME RWY 36"
-  },
-  {
     "abbv": "FVE",
     "name": "FRENCHVILLE, ME, NORTHERN AROOSTOOK RGNL ARPT"
-  },
-  {
-    "abbv": "FVH",
-    "name": "ANKENY, IA, ANKENY RGNL ILS/DME RWY 36"
-  },
-  {
-    "abbv": "FVJ",
-    "name": "INDIANAPOLIS, IN, INDIANAPOLIS INTL ILS/DME RWY 23L"
   },
   {
     "abbv": "FVX",
@@ -4722,14 +3746,6 @@
   {
     "abbv": "FWC",
     "name": "FAIRFIELD, IL, FAIRFIELD MUNI ARPT"
-  },
-  {
-    "abbv": "FWF",
-    "name": "MOSES LAKE, WA, MOSES LAKE GBAS ILS RWY 04"
-  },
-  {
-    "abbv": "FWH",
-    "name": "FORT WORTH, TX, FORT WORTH NAS JRB (CARSWELL FLD) LOC/GS RWY 36"
   },
   {
     "abbv": "FWN",
@@ -4786,18 +3802,6 @@
   {
     "abbv": "FZI",
     "name": "FOSTORIA, OH, FOSTORIA METRO ARPT"
-  },
-  {
-    "abbv": "FZR",
-    "name": "DENVER, CO, COLORADO AIR AND SPACE PORT ILS/DME RWY 17"
-  },
-  {
-    "abbv": "FZU",
-    "name": "ST LOUIS, MO, SPIRIT OF ST LOUIS ILS RWY 26L"
-  },
-  {
-    "abbv": "FZW",
-    "name": "WASHINGTON, DC, WASHINGTON NAT'L ARPT MLS RWY 33"
   },
   {
     "abbv": "FZY",
@@ -4860,20 +3864,8 @@
     "name": "GALBRAITH LAKE, AK, GALBRAITH LAKE ARPT"
   },
   {
-    "abbv": "GBI",
-    "name": "BUFFALO, NY, BUFFALO NIAGARA INTL ILS RWY 05"
-  },
-  {
     "abbv": "GBR",
     "name": "GREAT BARRINGTON, MA, WALTER J KOLADZA ARPT"
-  },
-  {
-    "abbv": "GBY",
-    "name": "MARSHALL, MN, SOUTHWEST MINNESOTA RGNL MARSHALL/RYAN FLD ILS RWY 12"
-  },
-  {
-    "abbv": "GBZ",
-    "name": "TAMPA, FL, MACDILL AFB LOC/GS RWY 23"
   },
   {
     "abbv": "GCC",
@@ -4896,10 +3888,6 @@
     "name": "GRAND CANYON, AZ, GRAND CANYON NTL PARK ARPT"
   },
   {
-    "abbv": "GCS",
-    "name": "PORTLAND, ME, PORTLAND INTL JETPORT ILS/DME RWY 29"
-  },
-  {
     "abbv": "GCT",
     "name": "GUTHRIE CENTER, IA, GUTHRIE COUNTY RGNL ARPT"
   },
@@ -4914,10 +3902,6 @@
   {
     "abbv": "GDB",
     "name": "GRANITE FALLS, MN, GRANITE FALLS MUNI/ LENZEN-ROE-FAGEN MEML FLD ARPT"
-  },
-  {
-    "abbv": "GDI",
-    "name": "NEW YORK, NY, LAGUARDIA ILS/DME RWY 13"
   },
   {
     "abbv": "GDJ",
@@ -4948,16 +3932,8 @@
     "name": "SPOKANE, WA, SPOKANE INTL ARPT"
   },
   {
-    "abbv": "GEM",
-    "name": "MIAMI, FL, MIAMI INTL ILS/DME RWY 12"
-  },
-  {
     "abbv": "GEO",
     "name": "GEORGETOWN, OH, BROWN COUNTY ARPT"
-  },
-  {
-    "abbv": "GEQ",
-    "name": "MOLINE, IL, QUAD CITY INTL ILS/DME RWY 27"
   },
   {
     "abbv": "GEU",
@@ -4992,14 +3968,6 @@
     "name": "GLENS FALLS, NY, FLOYD BENNETT MEML ARPT"
   },
   {
-    "abbv": "GFN",
-    "name": "GREENSBORO, NC, PIEDMONT TRIAD INTL ILS/DME RWY 32"
-  },
-  {
-    "abbv": "GFQ",
-    "name": "AUSTIN, TX, AUSTIN-BERGSTROM INTL ILS/ DME RWY 17R"
-  },
-  {
     "abbv": "GFZ",
     "name": "GREENFIELD, IA, GREENFIELD MUNI ARPT"
   },
@@ -5020,10 +3988,6 @@
     "name": "GRINNELL, IA, GRINNELL RGNL ARPT"
   },
   {
-    "abbv": "GGM",
-    "name": "GUNNISON, CO, GUNNISON MLS RWY 06"
-  },
-  {
     "abbv": "GGP",
     "name": "LOGANSPORT, IN, LOGANSPORT/CASS COUNTY ARPT"
   },
@@ -5036,24 +4000,12 @@
     "name": "GLASGOW, MT, WOKAL FLD/GLASGOW-VALLEY COUNTY ARPT"
   },
   {
-    "abbv": "GGZ",
-    "name": "AKRON, OH, AKRON-CANTON RGNL ILS/DME RWY 23"
-  },
-  {
     "abbv": "GHG",
     "name": "MARSHFIELD, MA, MARSHFIELD MUNI - GEORGE HARLOW FLD ARPT"
   },
   {
-    "abbv": "GHI",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON ILS/DME RWY 27"
-  },
-  {
     "abbv": "GHM",
     "name": "CENTERVILLE, TN, CENTERVILLE MUNI ARPT"
-  },
-  {
-    "abbv": "GHO",
-    "name": "WEST PALM BEACH, FL, NORTH PALM BEACH COUNTY GENERAL AVIATION ILS/DME RWY 09R"
   },
   {
     "abbv": "GHW",
@@ -5068,10 +4020,6 @@
     "name": "WINTER HAVEN, FL, WINTER HAVEN RGNL ARPT"
   },
   {
-    "abbv": "GJC",
-    "name": "COLUMBIA, SC, COLUMBIA METRO ILS RWY 05"
-  },
-  {
     "abbv": "GJL",
     "name": "GRIFFITH, IN, GRIFFITH-MERRILLVILLE ARPT"
   },
@@ -5084,32 +4032,16 @@
     "name": "MEADVILLE, PA, PORT MEADVILLE ARPT"
   },
   {
-    "abbv": "GKK",
-    "name": "RALEIGH/DURHAM, NC, RALEIGH-DURHAM INTL ILS/DME RWY 05L"
-  },
-  {
     "abbv": "GKN",
     "name": "GULKANA, AK, GULKANA ARPT"
-  },
-  {
-    "abbv": "GKS",
-    "name": "MOSES LAKE, WA, MOSES LAKE GBAS ILS RWY 14L"
   },
   {
     "abbv": "GKT",
     "name": "SEVIERVILLE, TN, GATLINBURG-PIGEON FORGE ARPT"
   },
   {
-    "abbv": "GKV",
-    "name": "FORT SMITH, AR, FORT SMITH RGNL ILS RWY 07"
-  },
-  {
     "abbv": "GKY",
     "name": "ARLINGTON, TX, ARLINGTON MUNI ARPT"
-  },
-  {
-    "abbv": "GLC",
-    "name": "PHILADELPHIA, PA, PHILADELPHIA INTL ILS/DME RWY 27L"
   },
   {
     "abbv": "GLD",
@@ -5122,10 +4054,6 @@
   {
     "abbv": "GLH",
     "name": "GREENVILLE, MS, GREENVILLE MID-DELTA ARPT"
-  },
-  {
-    "abbv": "GLO",
-    "name": "CLOVIS, NM, CANNON AFB LOC/GS RWY 04"
   },
   {
     "abbv": "GLR",
@@ -5148,20 +4076,12 @@
     "name": "CLINTON, MO, CLINTON RGNL ARPT"
   },
   {
-    "abbv": "GMF",
-    "name": "MILWAUKEE, WI, GENERAL MITCHELL INTL ILS/DME RWY 07R"
-  },
-  {
     "abbv": "GMJ",
     "name": "GROVE, OK, GROVE MUNI ARPT"
   },
   {
     "abbv": "GMU",
     "name": "GREENVILLE, SC, GREENVILLE DOWNTOWN ARPT"
-  },
-  {
-    "abbv": "GMX",
-    "name": "WILMINGTON, NC, WILMINGTON INTL ILS RWY 24"
   },
   {
     "abbv": "GMZ",
@@ -5190,18 +4110,6 @@
   {
     "abbv": "GNI",
     "name": "GRAND ISLE, LA, GRAND ISLE SPB"
-  },
-  {
-    "abbv": "GNJ",
-    "name": "LEXINGTON, KY, BLUE GRASS ILS RWY 22"
-  },
-  {
-    "abbv": "GNK",
-    "name": "LAGRANGE, GA, LAGRANGE-CALLAWAY ILS RWY 31"
-  },
-  {
-    "abbv": "GNM",
-    "name": "WILMINGTON, NC, WILMINGTON INTL ILS/ DME RWY 06"
   },
   {
     "abbv": "GNT",
@@ -5248,10 +4156,6 @@
     "name": "GREENCASTLE, IN, PUTNAM COUNTY RGNL ARPT"
   },
   {
-    "abbv": "GPE",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 06R"
-  },
-  {
     "abbv": "GPH",
     "name": "MOSBY, MO, MIDWEST NTL AIR CENTER ARPT"
   },
@@ -5268,14 +4172,6 @@
     "name": "GRAND PRAIRIE, TX, GRAND PRAIRIE MUNI ARPT"
   },
   {
-    "abbv": "GPO",
-    "name": "PORTLAND, OR, PORTLAND INTL LOC/DME RWY 21"
-  },
-  {
-    "abbv": "GPR",
-    "name": "NEWARK, NJ, NEWARK LIBERTY INTL ILS/ DME RWY 11"
-  },
-  {
     "abbv": "GPT",
     "name": "GULFPORT, MS, GULFPORT-BILOXI INTL ARPT"
   },
@@ -5286,18 +4182,6 @@
   {
     "abbv": "GQQ",
     "name": "GALION, OH, GALION MUNI ARPT"
-  },
-  {
-    "abbv": "GQR",
-    "name": "KANSAS CITY, MO, CHARLES B WHEELER DOWNTOWN ILS/DME RWY 03"
-  },
-  {
-    "abbv": "GQZ",
-    "name": "CAMP SPRINGS, MD, JOINT BASE ANDREWS LOC/GS RWY 19L"
-  },
-  {
-    "abbv": "GRA",
-    "name": "FAYETTEVILLE, NC, FAYETTEVILLE RGNL/ GRANNIS FLD ILS/DME RWY 04"
   },
   {
     "abbv": "GRB",
@@ -5400,10 +4284,6 @@
     "name": "GUNNISON, CO, GUNNISON-CRESTED BUTTE RGNL ARPT"
   },
   {
-    "abbv": "GUH",
-    "name": "ST AUGUSTINE, FL, NORTHEAST FLORIDA RGNL ILS/DME RWY 31"
-  },
-  {
     "abbv": "GUM",
     "name": "GUAM, GU, GUAM INTL ARPT"
   },
@@ -5420,16 +4300,8 @@
     "name": "PERU, IN, GRISSOM ARB ARPT"
   },
   {
-    "abbv": "GUT",
-    "name": "PITTSBURGH, PA, PITTSBURGH INTL ILS RWY 10R"
-  },
-  {
     "abbv": "GUU",
     "name": "FORT RUCKER, AL, GUTHRIE AAF"
-  },
-  {
-    "abbv": "GUW",
-    "name": "ALLENTOWN, PA, LEHIGH VALLEY INTL ILS/ DME RWY 24"
   },
   {
     "abbv": "GUY",
@@ -5438,10 +4310,6 @@
   {
     "abbv": "GVE",
     "name": "GORDONSVILLE, VA, GORDONSVILLE MUNI ARPT"
-  },
-  {
-    "abbv": "GVK",
-    "name": "CHICAGO/WEST CHICAGO, IL, DUPAGE ILS RWY 02L"
   },
   {
     "abbv": "GVL",
@@ -5456,10 +4324,6 @@
     "name": "GREENVILLE, TX, MAJORS ARPT"
   },
   {
-    "abbv": "GWA",
-    "name": "SPRINGFIELD, MO, SPRINGFIELD-BRANSON NTL ILS/DME RWY 14"
-  },
-  {
     "abbv": "GWB",
     "name": "AUBURN, IN, DE KALB COUNTY ARPT"
   },
@@ -5468,20 +4332,12 @@
     "name": "OMAHA, NE, USAF GLOBAL WEATHER CENTRAL"
   },
   {
-    "abbv": "GWJ",
-    "name": "SPRINGFIELD/CHICOPEE, MA, WESTOVER ARB/ METRO ILS RWY 05"
-  },
-  {
     "abbv": "GWN",
     "name": "FORT STEWART, GA, WINN ARMY COMMUNITY HOSPITAL HELIPAD ARPT"
   },
   {
     "abbv": "GWO",
     "name": "GREENWOOD, MS, GREENWOOD-LEFLORE ARPT"
-  },
-  {
-    "abbv": "GWQ",
-    "name": "SAN FRANCISCO, CA, SAN FRANCISCO INTL ILS/DME RWY 28R"
   },
   {
     "abbv": "GWR",
@@ -5496,20 +4352,12 @@
     "name": "GOLDSBORO, NC, WAYNE EXEC JETPORT ARPT"
   },
   {
-    "abbv": "GXA",
-    "name": "PALMDALE, CA, ASOS ASSOCIATED WITH ARPT 04CA"
-  },
-  {
     "abbv": "GXF",
     "name": "GILA BEND, AZ, GILA BEND AF AUX ARPT"
   },
   {
     "abbv": "GXY",
     "name": "GREELEY, CO, GREELEY-WELD COUNTY ARPT"
-  },
-  {
-    "abbv": "GXZ",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 26R"
   },
   {
     "abbv": "GYB",
@@ -5556,10 +4404,6 @@
     "name": "GUERNSEY, WY, ARPT"
   },
   {
-    "abbv": "GZX",
-    "name": "PEORIA, IL, GENERAL DOWNING - PEORIA INTL ILS RWY 13"
-  },
-  {
     "abbv": "HAB",
     "name": "HAMILTON, AL, MARION COUNTY-RANKIN FITE ARPT"
   },
@@ -5604,14 +4448,6 @@
     "name": "ASHEBORO, NC, ASHEBORO RGNL ARPT"
   },
   {
-    "abbv": "HBJ",
-    "name": "BURLINGTON, NC, BURLINGTON-ALAMANCE RGNL ILS RWY 06"
-  },
-  {
-    "abbv": "HBQ",
-    "name": "ROME, GA, RICHARD B RUSSELL RGNL - J H TOWERS FLD ILS/DME RWY 01"
-  },
-  {
     "abbv": "HBR",
     "name": "HOBART, OK, HOBART RGNL ARPT"
   },
@@ -5632,20 +4468,12 @@
     "name": "HUTCHINSON, MN, HUTCHINSON MUNI-BUTLER FLD ARPT"
   },
   {
-    "abbv": "HCE",
-    "name": "AUSTIN, TX, AUSTIN-BERGSTROM INTL ILS/ DME RWY 35R"
-  },
-  {
     "abbv": "HCO",
     "name": "HALLOCK, MN, HALLOCK MUNI ARPT"
   },
   {
     "abbv": "HCR",
     "name": "HEBER, UT, HEBER VALLEY ARPT"
-  },
-  {
-    "abbv": "HCV",
-    "name": "CHARLESTON, WV, YEAGER ILS/DME RWY 05"
   },
   {
     "abbv": "HDC",
@@ -5696,14 +4524,6 @@
     "name": "HEALDSBURG, CA, HEALDSBURG MUNI ARPT"
   },
   {
-    "abbv": "HEV",
-    "name": "SHEBOYGAN, WI, SHEBOYGAN COUNTY MEML ILS/DME RWY 22"
-  },
-  {
-    "abbv": "HEW",
-    "name": "HOUSTON, TX, DAVID WAYNE HOOKS MEML LOC/DME RWY 17R"
-  },
-  {
     "abbv": "HEY",
     "name": "FORT RUCKER OZARK, AL, HANCHEY AHP (FORT RUCKER) HELIPORT"
   },
@@ -5716,10 +4536,6 @@
     "name": "HARTFORD, CT, HARTFORD-BRAINARD ARPT"
   },
   {
-    "abbv": "HFE",
-    "name": "PITTSBURGH, PA, PITTSBURGH INTL ILS RWY 28R"
-  },
-  {
     "abbv": "HFF",
     "name": "CAMP MACKALL, NC, MACKALL AAF"
   },
@@ -5730,10 +4546,6 @@
   {
     "abbv": "HFS",
     "name": "TERN ISLAND, HI, FRENCH FRIGATE SHOALS ARPT"
-  },
-  {
-    "abbv": "HFW",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 08L"
   },
   {
     "abbv": "HFY",
@@ -5784,20 +4596,12 @@
     "name": "HIGGINSVILLE, MO, HIGGINSVILLE INDUSTRIAL MUNI ARPT"
   },
   {
-    "abbv": "HIH",
-    "name": "GREENSBORO, NC, PIEDMONT TRIAD INTL ILS RWY 23L"
-  },
-  {
     "abbv": "HII",
     "name": "LAKE HAVASU CITY, AZ, LAKE HAVASU CITY ARPT"
   },
   {
     "abbv": "HIO",
     "name": "PORTLAND, OR, PORTLAND-HILLSBORO ARPT"
-  },
-  {
-    "abbv": "HIQ",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL ILS/ DME RWY 04L"
   },
   {
     "abbv": "HJH",
@@ -5808,36 +4612,16 @@
     "name": "HANFORD, CA, HANFORD MUNI ARPT"
   },
   {
-    "abbv": "HJT",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 04L"
-  },
-  {
     "abbv": "HKA",
     "name": "BLYTHEVILLE, AR, BLYTHEVILLE MUNI ARPT"
-  },
-  {
-    "abbv": "HKC",
-    "name": "SHIRLEY, NY, BROOKHAVEN ILS RWY 24"
-  },
-  {
-    "abbv": "HKH",
-    "name": "CHICAGO, IL, CHICAGO MIDWAY INTL ILS/ DME RWY 04R"
   },
   {
     "abbv": "HKS",
     "name": "JACKSON, MS, HAWKINS FLD ARPT"
   },
   {
-    "abbv": "HKX",
-    "name": "TOMBALL, TX, DAVID WAYNE HOOKS MEML MLS RWY 35L"
-  },
-  {
     "abbv": "HKY",
     "name": "HICKORY, NC, HICKORY RGNL ARPT"
-  },
-  {
-    "abbv": "HKZ",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN ILS/DME RWY 12R"
   },
   {
     "abbv": "HLA",
@@ -5908,10 +4692,6 @@
     "name": "HANA, HI, HANA ARPT"
   },
   {
-    "abbv": "HNQ",
-    "name": "SHAWNEE, OK, SHAWNEE RGNL ILS/DME RWY 17"
-  },
-  {
     "abbv": "HNR",
     "name": "HARLAN, IA, HARLAN MUNI ARPT"
   },
@@ -5956,24 +4736,8 @@
     "name": "HOUSTON, TX, WILLIAM P HOBBY ARPT"
   },
   {
-    "abbv": "HOV",
-    "name": "WICHITA, KS, WICHITA DWIGHT D EISENHOWER NTL ILS RWY 19R"
-  },
-  {
-    "abbv": "HOX",
-    "name": "NEW ORLEANS, LA, LOUIS ARMSTRONG NEW ORLEANS INTL ILS/DME RWY 29"
-  },
-  {
     "abbv": "HPB",
     "name": "HOOPER BAY, AK, HOOPER BAY ARPT"
-  },
-  {
-    "abbv": "HPF",
-    "name": "HAMMOND, LA, HAMMOND NORTHSHORE RGNL ILS RWY 18"
-  },
-  {
-    "abbv": "HPI",
-    "name": "CLEVELAND, OH, CLEVELAND-HOPKINS INTL ILS/DME RWY 24L"
   },
   {
     "abbv": "HPN",
@@ -5988,14 +4752,6 @@
     "name": "BAYTOWN, TX, BAYTOWN ARPT"
   },
   {
-    "abbv": "HQA",
-    "name": "HARRISBURG, PA, HARRISBURG INTL ILS RWY 31"
-  },
-  {
-    "abbv": "HQB",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 24L"
-  },
-  {
     "abbv": "HQG",
     "name": "HUGOTON, KS, HUGOTON MUNI ARPT"
   },
@@ -6006,10 +4762,6 @@
   {
     "abbv": "HQU",
     "name": "THOMSON, GA, THOMSON-MCDUFFIE COUNTY ARPT"
-  },
-  {
-    "abbv": "HQW",
-    "name": "SAGINAW, MI, SAGINAW COUNTY H W BROWNE ILS/DME RWY 28"
   },
   {
     "abbv": "HQZ",
@@ -6112,16 +4864,8 @@
     "name": "CHESAPEAKE/HUNTINGTON WVA, OH, LAWRENCE COUNTY AIRPARK ARPT"
   },
   {
-    "abbv": "HTY",
-    "name": "HAYWARD, WI, SAWYER COUNTY ILS/DME RWY 21"
-  },
-  {
     "abbv": "HUA",
     "name": "REDSTONE ARSNL HUNTSVILLE, AL, REDSTONE AAF"
-  },
-  {
-    "abbv": "HUB",
-    "name": "HOUSTON, TX, WILLIAM P HOBBY ILS/DME RWY 04"
   },
   {
     "abbv": "HUF",
@@ -6144,24 +4888,8 @@
     "name": "HUTCHINSON, KS, HUTCHINSON RGNL ARPT"
   },
   {
-    "abbv": "HUU",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 03R"
-  },
-  {
-    "abbv": "HUV",
-    "name": "EASTMAN, GA, HEART OF GEORGIA RGNL LOC/ GS RWY 02"
-  },
-  {
-    "abbv": "HUX",
-    "name": "SACRAMENTO, CA, SACRAMENTO INTL ILS/ DME RWY 35L"
-  },
-  {
     "abbv": "HVC",
     "name": "HOPKINSVILLE, KY, HOPKINSVILLE- CHRISTIAN COUNTY ARPT"
-  },
-  {
-    "abbv": "HVD",
-    "name": "FORT WAYNE, IN, FORT WAYNE INTL ILS RWY 05"
   },
   {
     "abbv": "HVE",
@@ -6188,16 +4916,8 @@
     "name": "HAYWARD, CA, HAYWARD EXEC ARPT"
   },
   {
-    "abbv": "HWG",
-    "name": "LAS VEGAS, NV, NORTH LAS VEGAS ILS/DME RWY 12L"
-  },
-  {
     "abbv": "HWI",
     "name": "HAWK INLET, AK, HAWK INLET SPB"
-  },
-  {
-    "abbv": "HWM",
-    "name": "WILMINGTON, OH, WILMINGTON AIR PARK ILS RWY 04L"
   },
   {
     "abbv": "HWO",
@@ -6260,20 +4980,12 @@
     "name": "SAGINAW, MI, SAGINAW COUNTY H W BROWNE ARPT"
   },
   {
-    "abbv": "HYZ",
-    "name": "THIEF RIVER FALLS, MN, THIEF RIVER FALLS RGNL ILS RWY 31"
-  },
-  {
     "abbv": "HZD",
     "name": "HUNTINGDON, TN, CARROLL COUNTY ARPT"
   },
   {
     "abbv": "HZE",
     "name": "HAZEN, ND, MERCER COUNTY RGNL ARPT"
-  },
-  {
-    "abbv": "HZK",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 09L"
   },
   {
     "abbv": "HZL",
@@ -6296,10 +5008,6 @@
     "name": "WICHITA, KS, MC CONNELL AFB"
   },
   {
-    "abbv": "IAC",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 27L"
-  },
-  {
     "abbv": "IAD",
     "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ARPT"
   },
@@ -6314,18 +5022,6 @@
   {
     "abbv": "IAN",
     "name": "KIANA, AK, BOB BAKER MEML ARPT"
-  },
-  {
-    "abbv": "IAP",
-    "name": "PORTLAND, OR, PORTLAND INTL ILS/DME RWY 28R"
-  },
-  {
-    "abbv": "IAS",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 07L"
-  },
-  {
-    "abbv": "IAX",
-    "name": "NASHVILLE, TN, NASHVILLE INTERNATIONAL LDA RWY 02R"
   },
   {
     "abbv": "IBM",
@@ -6352,10 +5048,6 @@
     "name": "IDAHO FALLS, ID, IDAHO FALLS RGNL ARPT"
   },
   {
-    "abbv": "IDB",
-    "name": "GREENSBORO, NC, PIEDMONT TRIAD INTL ILS/DME RWY 23R"
-  },
-  {
     "abbv": "IDG",
     "name": "IDA GROVE, IA, IDA GROVE MUNI ARPT"
   },
@@ -6368,16 +5060,8 @@
     "name": "INDIANOLA, MS, INDIANOLA MUNI ARPT"
   },
   {
-    "abbv": "IDM",
-    "name": "FAIRBANKS, AK, EILSON AFB LOCALIZER RWY 13"
-  },
-  {
     "abbv": "IDP",
     "name": "INDEPENDENCE, KS, INDEPENDENCE MUNI ARPT"
-  },
-  {
-    "abbv": "IDR",
-    "name": "WINDER, GA, BARROW COUNTY ILS/DME RWY 31"
   },
   {
     "abbv": "IEM",
@@ -6444,20 +5128,12 @@
     "name": "KINGSVILLE, TX, KLEBERG COUNTY ARPT"
   },
   {
-    "abbv": "IKJ",
-    "name": "NORFOLK, VA, NORFOLK INTERNATIONAL LOCALIZER RWY 05R"
-  },
-  {
     "abbv": "IKK",
     "name": "KANKAKEE, IL, GREATER KANKAKEE ARPT"
   },
   {
     "abbv": "IKO",
     "name": "NIKOLSKI, AK, NIKOLSKI AS ARPT"
-  },
-  {
-    "abbv": "IKQ",
-    "name": "MERIDIAN, MS, KEY FLD ILS/DME RWY 19"
   },
   {
     "abbv": "IKV",
@@ -6468,20 +5144,12 @@
     "name": "MIDLAND, MI, JACK BARSTOW ARPT"
   },
   {
-    "abbv": "IKX",
-    "name": "WINDSOR LOCKS, CT, BRADLEY INTL ILS/ DME RWY 33"
-  },
-  {
     "abbv": "ILE",
     "name": "KILLEEN, TX, SKYLARK FLD ARPT"
   },
   {
     "abbv": "ILG",
     "name": "WILMINGTON, DE, NEW CASTLE ARPT"
-  },
-  {
-    "abbv": "ILH",
-    "name": "DEL RIO, TX, LAUGHLIN AFB LOC/GS RWY 31C"
   },
   {
     "abbv": "ILI",
@@ -6508,20 +5176,12 @@
     "name": "IMMOKALEE, FL, IMMOKALEE RGNL ARPT"
   },
   {
-    "abbv": "IMO",
-    "name": "ASHEVILLE, NC, ASHEVILLE RGNL ILS/DME RWY 17"
-  },
-  {
     "abbv": "IMS",
     "name": "MADISON, IN, MADISON MUNI ARPT"
   },
   {
     "abbv": "IMT",
     "name": "IRON MOUNTAIN KINGSFORD, MI, FORD ARPT"
-  },
-  {
-    "abbv": "INB",
-    "name": "OAKLAND, CA, METRO OAKLAND INTL ILS/ DME RWY 30"
   },
   {
     "abbv": "IND",
@@ -6542,10 +5202,6 @@
   {
     "abbv": "INL",
     "name": "INTERNATIONAL FALLS, MN, FALLS INTL- EINARSON FLD ARPT"
-  },
-  {
-    "abbv": "INN",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN ILS/DME RWY 30R"
   },
   {
     "abbv": "INR",
@@ -6574,10 +5230,6 @@
   {
     "abbv": "IOW",
     "name": "IOWA CITY, IA, IOWA CITY MUNI ARPT"
-  },
-  {
-    "abbv": "IPB",
-    "name": "HOUSTON, TX, GEORGE BUSH INTERCONTINENTAL ARPT/HOUSTON ILS RWY\n09R"
   },
   {
     "abbv": "IPJ",
@@ -6624,10 +5276,6 @@
     "name": "MANISTIQUE, MI, SCHOOLCRAFT COUNTY ARPT"
   },
   {
-    "abbv": "ISU",
-    "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ILS/DME RWY 19R"
-  },
-  {
     "abbv": "ISW",
     "name": "WISCONSIN RAPIDS, WI, ALEXANDER FLD SOUTH WOOD COUNTY ARPT"
   },
@@ -6650,14 +5298,6 @@
   {
     "abbv": "IUA",
     "name": "CANANDAIGUA, NY, CANANDAIGUA ARPT"
-  },
-  {
-    "abbv": "IUM",
-    "name": "HONOLULU, HI, DANIEL K INOUYE INTL ILS/ DME RWY 04R"
-  },
-  {
-    "abbv": "IVI",
-    "name": "TUCSON, AZ, RYAN FLD ILS/DME RWY 06R"
   },
   {
     "abbv": "IWA",
@@ -6688,10 +5328,6 @@
     "name": "NORTH WEBSTER, IN,"
   },
   {
-    "abbv": "IWY",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL ILS/ DME RWY 22L"
-  },
-  {
     "abbv": "IXA",
     "name": "ROANOKE RAPIDS, NC, HALIFAX- NORTHAMPTON RGNL ARPT"
   },
@@ -6704,28 +5340,12 @@
     "name": "ABBEVILLE, LA, ABBEVILLE CHRIS CRUSTA MEML ARPT"
   },
   {
-    "abbv": "IYF",
-    "name": "CHICAGO, IL, CHICAGO MIDWAY MLS RWY 22L"
-  },
-  {
     "abbv": "IYK",
     "name": "INYOKERN, CA, INYOKERN ARPT"
   },
   {
-    "abbv": "IYQ",
-    "name": "PETERSBURG, WV, GRANT COUNTY LDA/DME RWY 31"
-  },
-  {
     "abbv": "IYS",
     "name": "WASILLA, AK, WASILLA ARPT"
-  },
-  {
-    "abbv": "IYV",
-    "name": "WILMINGTON, OH, WILMINGTON AIR PARK ILS/DME RWY 04R"
-  },
-  {
-    "abbv": "IYY",
-    "name": "CHARLES CITY, IA, NORTHEAST IOWA RGNL LOCALIZER RWY 12"
   },
   {
     "abbv": "IZA",
@@ -6736,28 +5356,8 @@
     "name": "FRYEBURG, ME, EASTERN SLOPES RGNL ARPT"
   },
   {
-    "abbv": "IZJ",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 10X"
-  },
-  {
-    "abbv": "IZK",
-    "name": "WILKES-BARRE/SCRANTON, PA, WILKES- BARRE/SCRANTON INTL ILS/DME RWY 22"
-  },
-  {
-    "abbv": "IZR",
-    "name": "SAN ANTONIO, TX, SAN ANTONIO INTL ILS/ DME RWY 31L"
-  },
-  {
     "abbv": "JAC",
     "name": "JACKSON, WY, JACKSON HOLE ARPT"
-  },
-  {
-    "abbv": "JAE",
-    "name": "HIBBING, MN, RANGE RGNL ILS RWY 13"
-  },
-  {
-    "abbv": "JAK",
-    "name": "ST LOUIS, MO, ST LOUIS LAMBERT INTL ILS/DME RWY 06"
   },
   {
     "abbv": "JAN",
@@ -6780,16 +5380,8 @@
     "name": "JACKSBORO, TN, COLONEL TOMMY C STINER AIRFIELD ARPT"
   },
   {
-    "abbv": "JAV",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 09R"
-  },
-  {
     "abbv": "JAX",
     "name": "JACKSONVILLE, FL, JACKSONVILLE INTL ARPT"
-  },
-  {
-    "abbv": "JBD",
-    "name": "LUMBERTON, NC, LUMBERTON RGNL ILS RWY 05"
   },
   {
     "abbv": "JBK",
@@ -6804,10 +5396,6 @@
     "name": "JEFFERSON, GA, JACKSON COUNTY ARPT"
   },
   {
-    "abbv": "JCE",
-    "name": "JACKSONVILLE, AR, LITTLE ROCK AFB MLS RWY 07"
-  },
-  {
     "abbv": "JCT",
     "name": "JUNCTION, TX, KIMBLE COUNTY ARPT"
   },
@@ -6816,20 +5404,8 @@
     "name": "MINEOLA/QUITMAN, TX, WOOD COUNTY - COLLINS FLD ARPT"
   },
   {
-    "abbv": "JDL",
-    "name": "JUNEAU, AK, JUNEAU INTL LDA/DME RWY 08"
-  },
-  {
     "abbv": "JDN",
     "name": "JORDAN, MT, JORDAN ARPT"
-  },
-  {
-    "abbv": "JDP",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS RWY 27"
-  },
-  {
-    "abbv": "JDU",
-    "name": "BELLEVILLE, IL, SCOTT AFB/MIDAMERICA ILS RWY 32R"
   },
   {
     "abbv": "JEF",
@@ -6842,10 +5418,6 @@
   {
     "abbv": "JES",
     "name": "JESUP, GA, JESUP-WAYNE COUNTY ARPT"
-  },
-  {
-    "abbv": "JFI",
-    "name": "NEW ORLEANS, LA, LOUIS ARMSTRONG NEW ORLEANS INTL ILS/DME RWY 02"
   },
   {
     "abbv": "JFK",
@@ -6864,10 +5436,6 @@
     "name": "WILLIAMSBURG, VA, WILLIAMSBURG- JAMESTOWN ARPT"
   },
   {
-    "abbv": "JHF",
-    "name": "JACKSON, MS, HAWKINS FLD ILS RWY 16"
-  },
-  {
     "abbv": "JHM",
     "name": "LAHAINA, HI, KAPALUA ARPT"
   },
@@ -6880,44 +5448,12 @@
     "name": "JAMESTOWN, NY, CHAUTAUQUA COUNTY/ JAMESTOWN ARPT"
   },
   {
-    "abbv": "JHZ",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 17R"
-  },
-  {
-    "abbv": "JIF",
-    "name": "FRENCH LICK, IN, FRENCH LICK MUNI SDF RWY 26"
-  },
-  {
-    "abbv": "JIG",
-    "name": "PORT HURON, MI, ST CLAIR COUNTY INTL ILS RWY 04"
-  },
-  {
-    "abbv": "JIM",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS RWY 27"
-  },
-  {
-    "abbv": "JJC",
-    "name": "HUNTSVILLE, AL, HUNTSVILLE INTL-CARL T JONES FLD ILS/DME RWY 36R"
-  },
-  {
     "abbv": "JJE",
     "name": "WASHINGTON, DC, WASHINGTON NATIONAL MLS"
   },
   {
-    "abbv": "JJM",
-    "name": "LOUISVILLE, KY, LOUISVILLE MUHAMMAD ALI INTL ILS/DME RWY 35R"
-  },
-  {
     "abbv": "JKA",
     "name": "GULF SHORES, AL, JACK EDWARDS NTL ARPT"
-  },
-  {
-    "abbv": "JKC",
-    "name": "BOSSIER CITY, LA, BARKSDALE AFB ILS RWY 15"
-  },
-  {
-    "abbv": "JKI",
-    "name": "DETROIT, MI, DETROIT METRO WAYNE COUNTY ILS/DME RWY 22R"
   },
   {
     "abbv": "JKJ",
@@ -6948,10 +5484,6 @@
     "name": "JOPLIN, MO, JOPLIN RGNL ARPT"
   },
   {
-    "abbv": "JLS",
-    "name": "PETERSBURG, VA, DINWIDDIE COUNTY LOC/ DME RWY 05"
-  },
-  {
     "abbv": "JLT",
     "name": "MOUNT CLEMS, MI, MLS"
   },
@@ -6960,32 +5492,12 @@
     "name": "SAUSALITO, CA, COMMODORE CENTER HELIPORT"
   },
   {
-    "abbv": "JMJ",
-    "name": "PORTLAND, OR, PORTLAND INTL ILS/DME RWY 28L"
-  },
-  {
     "abbv": "JMR",
     "name": "MORA, MN, MORA MUNI ARPT"
   },
   {
     "abbv": "JMS",
     "name": "JAMESTOWN, ND, JAMESTOWN RGNL ARPT"
-  },
-  {
-    "abbv": "JNA",
-    "name": "SAN JOSE, CA, SAN JOSE INTERNATIONAL LOC/GS RWY 30R"
-  },
-  {
-    "abbv": "JNE",
-    "name": "JUNEAU, WI, DODGE COUNTY LOC/DME RWY 26"
-  },
-  {
-    "abbv": "JNK",
-    "name": "MUNCIE, IN, DELAWARE COUNTY RGNL ILS RWY 32"
-  },
-  {
-    "abbv": "JNN",
-    "name": "NEWARK, NJ, NEWARK LIBERTY INTL ILS/ DME RWY 22R"
   },
   {
     "abbv": "JNP",
@@ -7000,24 +5512,8 @@
     "name": "SMITHFIELD, NC, JOHNSTON RGNL ARPT"
   },
   {
-    "abbv": "JOC",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL ILS/ DME RWY 22R"
-  },
-  {
     "abbv": "JOT",
     "name": "JOLIET, IL, JOLIET RGNL ARPT"
-  },
-  {
-    "abbv": "JOU",
-    "name": "SIOUX FALLS, SD, JOE FOSS FLD ILS RWY 21"
-  },
-  {
-    "abbv": "JOY",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 26"
-  },
-  {
-    "abbv": "JOZ",
-    "name": "WICHITA, KS, WICHITA MID-CONTINENT MLS RWY 19L"
   },
   {
     "abbv": "JPN",
@@ -7030,14 +5526,6 @@
   {
     "abbv": "JQF",
     "name": "CONCORD, NC, CONCORD-PADGETT RGNL ARPT"
-  },
-  {
-    "abbv": "JQH",
-    "name": "CHICAGO/ROMEOVILLE, IL, LEWIS UNIVERSITY LOC/DME RWY 02"
-  },
-  {
-    "abbv": "JQX",
-    "name": "JOPLIN, MO, JOPLIN RGNL ILS/DME RWY 18"
   },
   {
     "abbv": "JRA",
@@ -7054,10 +5542,6 @@
   {
     "abbv": "JRF",
     "name": "KAPOLEI, HI, KALAELOA (JOHN RODGERS FLD) ARPT"
-  },
-  {
-    "abbv": "JRT",
-    "name": "TAMPA, FL, TAMPA INTL ILS/DME RWY 19R"
   },
   {
     "abbv": "JSD",
@@ -7092,28 +5576,12 @@
     "name": "WRIGHTSTOWN, NJ, MC GUIRE FLD (JOINT BASE MC GUIRE DIX LAKEHURST) LOC/GS\nRWY 24"
   },
   {
-    "abbv": "JUD",
-    "name": "DULUTH, MN, DULUTH INTL ILS RWY 27"
-  },
-  {
-    "abbv": "JUH",
-    "name": "JEFFERSON, NC, ASHE COUNTY LOC/DME RWY 28"
-  },
-  {
     "abbv": "JUP",
     "name": "UPLAND, CA, CABLE HELIPORT HELIPORT"
   },
   {
-    "abbv": "JUR",
-    "name": "JUPITER, FL, WILLIAM P GWINN ARPT MLS RWY 27"
-  },
-  {
     "abbv": "JVC",
     "name": "KENT, OH, KENT STATE UNIV ARPT"
-  },
-  {
-    "abbv": "JVH",
-    "name": "BANGOR, ME, BANGOR INTL ILS/DME RWY 15"
   },
   {
     "abbv": "JVK",
@@ -7128,10 +5596,6 @@
     "name": "RAYMOND, MS, JOHN BELL WILLIAMS ARPT"
   },
   {
-    "abbv": "JVX",
-    "name": "FORT WORTH, TX, FORT WORTH ALLIANCE ILS/DME RWY 34R"
-  },
-  {
     "abbv": "JVY",
     "name": "JEFFERSONVILLE, IN, CLARK RGNL ARPT"
   },
@@ -7142,10 +5606,6 @@
   {
     "abbv": "JWN",
     "name": "NASHVILLE, TN, JOHN C TUNE ARPT"
-  },
-  {
-    "abbv": "JWU",
-    "name": "SUMTER, SC, SHAW AFB ILS RWY 22R"
   },
   {
     "abbv": "JWY",
@@ -7188,28 +5648,12 @@
     "name": "YORK, NE, YORK MUNI ARPT"
   },
   {
-    "abbv": "JYV",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON ILS/DME RWY 26L"
-  },
-  {
     "abbv": "JZI",
     "name": "CHARLESTON, SC, CHARLESTON EXEC ARPT"
   },
   {
-    "abbv": "JZM",
-    "name": "LAWRENCE, KS, LAWRENCE MUNI ILS RWY 33"
-  },
-  {
     "abbv": "JZP",
     "name": "JASPER, GA, PICKENS COUNTY ARPT"
-  },
-  {
-    "abbv": "JZQ",
-    "name": "NORFOLK, VA, NORFOLK INTL ILS/DME RWY 23"
-  },
-  {
-    "abbv": "JZW",
-    "name": "FORT WORTH, TX, FORT WORTH SPINKS ILS RWY 35L"
   },
   {
     "abbv": "JZZ",
@@ -7460,10 +5904,6 @@
     "name": "NORTH PLATTE, NE, NORTH PLATTE RGNL/ LEE BIRD FLD ARPT"
   },
   {
-    "abbv": "LBJ",
-    "name": "EAGLE RIVER, WI, EAGLE RIVER UNION LOC/ DME RWY 04"
-  },
-  {
     "abbv": "LBL",
     "name": "LIBERAL, KS, LIBERAL MID-AMERICA RGNL ARPT"
   },
@@ -7512,14 +5952,6 @@
     "name": "LUDINGTON, MI, MASON COUNTY ARPT"
   },
   {
-    "abbv": "LDT",
-    "name": "LUBBOCK, TX, LUBBOCK PRESTON SMITH INTL ILS RWY 26"
-  },
-  {
-    "abbv": "LDZ",
-    "name": "ST LOUIS, MO, ST LOUIS LAMBERT INTL ILS/DME RWY 12L"
-  },
-  {
     "abbv": "LEB",
     "name": "LEBANON, NH, LEBANON MUNI ARPT"
   },
@@ -7528,16 +5960,8 @@
     "name": "LEESBURG, FL, LEESBURG INTL ARPT"
   },
   {
-    "abbv": "LEI",
-    "name": "RALEIGH/DURHAM, NC, RALEIGH-DURHAM INTL ILS/DME RWY 23L"
-  },
-  {
     "abbv": "LEM",
     "name": "LEMMON, SD, LEMMON MUNI ARPT"
-  },
-  {
-    "abbv": "LER",
-    "name": "BRAINERD, MN, BRAINERD LAKES RGNL ILS/ DME RWY 34"
   },
   {
     "abbv": "LEW",
@@ -7546,10 +5970,6 @@
   {
     "abbv": "LEX",
     "name": "LEXINGTON, KY, BLUE GRASS ARPT"
-  },
-  {
-    "abbv": "LFH",
-    "name": "FAYETTEVILLE, AR, DRAKE FLD LDA/DME RWY 34"
   },
   {
     "abbv": "LFI",
@@ -7600,14 +6020,6 @@
     "name": "ANCHORAGE, AK, LAKE HOOD ARPT"
   },
   {
-    "abbv": "LHI",
-    "name": "FORT LAUDERDALE, FL, FORT LAUDERDALE/ HOLLYWOOD INTL ILS/DME RWY 10L"
-  },
-  {
-    "abbv": "LHJ",
-    "name": "BLOOMINGTON/NORMAL, IL, CENTRAL IL RGNL/BLOOMINGTON-NORMAL ILS/DME RWY 20"
-  },
-  {
     "abbv": "LHM",
     "name": "LINCOLN, CA, LINCOLN RGNL/KARL HARDER FLD ARPT"
   },
@@ -7640,18 +6052,6 @@
     "name": "LIHUE, HI, LIHUE ARPT"
   },
   {
-    "abbv": "LIK",
-    "name": "OKLAHOMA CITY, OK, WILL ROGERS WORLD ILS/DME RWY 35L"
-  },
-  {
-    "abbv": "LIP",
-    "name": "BOSTON, MA, GENERAL EDWARD LAWRENCE LOGAN INTL ILS/DME RWY 33L"
-  },
-  {
-    "abbv": "LIR",
-    "name": "DOVER, DE, DOVER AFB ILS RWY 19"
-  },
-  {
     "abbv": "LIS",
     "name": "WILLISTON, FL, WILLISTON MUNI ARPT"
   },
@@ -7664,10 +6064,6 @@
     "name": "LITTLEFIELD, TX, LITTLEFIELD TAYLOR BROWN MUNI ARPT"
   },
   {
-    "abbv": "LIZ",
-    "name": "CLEVELAND, OH, CLEVELAND-HOPKINS INTL ILS/DME RWY 06L"
-  },
-  {
     "abbv": "LJF",
     "name": "LITCHFIELD, MN, LITCHFIELD MUNI ARPT"
   },
@@ -7676,16 +6072,8 @@
     "name": "BROCKPORT, NY, LEDGEDALE AIRPARK ARPT"
   },
   {
-    "abbv": "LJU",
-    "name": "OSCODA, MI, OSCODA-WURTSMITH LOC/GS RWY 25"
-  },
-  {
     "abbv": "LKK",
     "name": "KULIK LAKE, AK, KULIK LAKE ARPT"
-  },
-  {
-    "abbv": "LKM",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON LOC/GS RWY 15R"
   },
   {
     "abbv": "LKP",
@@ -7696,10 +6084,6 @@
     "name": "LANCASTER, SC, LANCASTER COUNTY-MC WHIRTER FLD ARPT"
   },
   {
-    "abbv": "LKS",
-    "name": "LOUISVILLE, KY, LOUISVILLE MUHAMMAD ALI INTL LOCALIZER RWY 29"
-  },
-  {
     "abbv": "LKU",
     "name": "LOUISA, VA, LOUISA COUNTY/FREEMAN FLD ARPT"
   },
@@ -7708,20 +6092,8 @@
     "name": "LAKEVIEW, OR, LAKE COUNTY ARPT"
   },
   {
-    "abbv": "LLG",
-    "name": "GREENSBORO, NC, PIEDMONT TRIAD INTL ILS/DME RWY 05L"
-  },
-  {
-    "abbv": "LLH",
-    "name": "PHILADELPHIA, PA, PHILADELPHIA INTL ILS/DME RWY 26"
-  },
-  {
     "abbv": "LLJ",
     "name": "CHALLIS, ID, CHALLIS ARPT"
-  },
-  {
-    "abbv": "LLM",
-    "name": "MC ALLEN, TX, MC ALLEN MILLER INTL ILS/ DME RWY 32"
   },
   {
     "abbv": "LLN",
@@ -7736,16 +6108,8 @@
     "name": "LITTLE RIVER, CA, LITTLE RIVER ARPT"
   },
   {
-    "abbv": "LLT",
-    "name": "GILLETTE, WY, NORTHEAST WYOMING RGNL ILS/DME RWY 34"
-  },
-  {
     "abbv": "LLU",
     "name": "LAMAR, MO, LAMAR MUNI ARPT"
-  },
-  {
-    "abbv": "LMJ",
-    "name": "GREER, SC, GREENVILLE SPARTANBURG INTL ILS RWY 22"
   },
   {
     "abbv": "LMO",
@@ -7828,24 +6192,12 @@
     "name": "LOUISVILLE, KY, BOWMAN FLD ARPT"
   },
   {
-    "abbv": "LOW",
-    "name": "WEST YELLOWSTONE, MT, YELLOWSTONE ILS RWY 01"
-  },
-  {
     "abbv": "LOZ",
     "name": "LONDON, KY, LONDON/CORBIN/MAGEE ARPT"
   },
   {
-    "abbv": "LPA",
-    "name": "MITCHELL, SD, MITCHELL MUNI ILS RWY 31"
-  },
-  {
     "abbv": "LPC",
     "name": "LOMPOC, CA, LOMPOC ARPT"
-  },
-  {
-    "abbv": "LPI",
-    "name": "COLORADO SPRINGS, CO, CITY OF COLORADO SPRINGS MUNI ILS/DME RWY 17L"
   },
   {
     "abbv": "LPN",
@@ -7856,32 +6208,12 @@
     "name": "LORAIN/ELYRIA, OH, LORAIN COUNTY RGNL ARPT"
   },
   {
-    "abbv": "LPV",
-    "name": "HOUSTON, TX, ELLINGTON LOC/GS RWY 17R"
-  },
-  {
-    "abbv": "LQG",
-    "name": "LORAIN/ELYRIA, OH, LORAIN COUNTY RGNL ILS RWY 07"
-  },
-  {
     "abbv": "LQK",
     "name": "PICKENS, SC, PICKENS COUNTY ARPT"
   },
   {
-    "abbv": "LQN",
-    "name": "BOSTON, MA, GENERAL EDWARD LAWRENCE LOGAN INTL ILS/DME RWY 22L"
-  },
-  {
-    "abbv": "LQQ",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS RWY 22L"
-  },
-  {
     "abbv": "LQR",
     "name": "LARNED, KS, LARNED-PAWNEE COUNTY ARPT"
-  },
-  {
-    "abbv": "LQY",
-    "name": "SPRINGFIELD, IL, ABRAHAM LINCOLN CAPITAL ILS RWY 22"
   },
   {
     "abbv": "LRD",
@@ -7932,16 +6264,8 @@
     "name": "LOS BANOS, CA, LOS BANOS MUNI ARPT"
   },
   {
-    "abbv": "LSQ",
-    "name": "NEWARK, NJ, NEWARK LIBERTY INTL ILS/ DME RWY 22L"
-  },
-  {
     "abbv": "LSV",
     "name": "LAS VEGAS, NV, NELLIS AFB"
-  },
-  {
-    "abbv": "LSW",
-    "name": "DETROIT, MI, WILLOW RUN ILS/DME RWY 23L"
   },
   {
     "abbv": "LTN",
@@ -7952,20 +6276,12 @@
     "name": "ALTUS, OK, ALTUS AFB"
   },
   {
-    "abbv": "LTT",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 16L"
-  },
-  {
     "abbv": "LTY",
     "name": "CHESTER, MT, LIBERTY COUNTY ARPT"
   },
   {
     "abbv": "LUA",
     "name": "LURAY, VA, LURAY CAVERNS ARPT"
-  },
-  {
-    "abbv": "LUC",
-    "name": "MUSCATINE, IA, MUSCATINE MUNI ILS/DME RWY 24"
   },
   {
     "abbv": "LUD",
@@ -8010,14 +6326,6 @@
   {
     "abbv": "LUX",
     "name": "LAURENS, SC, LAURENS COUNTY ARPT"
-  },
-  {
-    "abbv": "LVC",
-    "name": "ENID, OK, VANCE AFB LOC/GS RWY 17C"
-  },
-  {
-    "abbv": "LVF",
-    "name": "DALLAS, TX, DALLAS LOVE FLD ILS/DME RWY 31L"
   },
   {
     "abbv": "LVJ",
@@ -8068,14 +6376,6 @@
     "name": "LAWRENCE, MA, LAWRENCE MUNI ARPT"
   },
   {
-    "abbv": "LWN",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 13R"
-  },
-  {
-    "abbv": "LWR",
-    "name": "WEST MEMPHIS, AR, WEST MEMPHIS MUNI ILS/DME RWY 17"
-  },
-  {
     "abbv": "LWS",
     "name": "LEWISTON, ID, LEWISTON-NEZ PERCE COUNTY ARPT"
   },
@@ -8086,10 +6386,6 @@
   {
     "abbv": "LWV",
     "name": "LAWRENCEVILLE, IL, LAWRENCEVILLE- VINCENNES INTL ARPT"
-  },
-  {
-    "abbv": "LXB",
-    "name": "PITTSBURGH, PA, PITTSBURGH INTL ILS RWY 10L"
   },
   {
     "abbv": "LXL",
@@ -8132,20 +6428,8 @@
     "name": "DANIELSON, CT, DANIELSON ARPT"
   },
   {
-    "abbv": "LZE",
-    "name": "LAWRENCE, KS, LAWRENCE LOC/GS RWY 14"
-  },
-  {
     "abbv": "LZU",
     "name": "LAWRENCEVILLE, GA, GWINNETT COUNTY - BRISCOE FLD ARPT"
-  },
-  {
-    "abbv": "LZW",
-    "name": "OLNEY-NOBLE, IL, OLNEY-NOBLE LOC/DME RWY 11"
-  },
-  {
-    "abbv": "LZY",
-    "name": "GREENSBORO, NC, PIEDMONT TRIAD INTL ILS/DME RWY 05R"
   },
   {
     "abbv": "LZZ",
@@ -8188,20 +6472,8 @@
     "name": "PEORIA, IL, MOUNT HAWLEY AUXILIARY ARPT"
   },
   {
-    "abbv": "MAR",
-    "name": "TACOMA, WA, MCCHORD FLD (JOINT BASE LEWIS-MCCHORD) LOC/GS RWY 16"
-  },
-  {
-    "abbv": "MAV",
-    "name": "MONTROSE, CO, MONTROSE MLS RWY 35"
-  },
-  {
     "abbv": "MAW",
     "name": "MALDEN, MO, MALDEN RGNL ARPT"
-  },
-  {
-    "abbv": "MAY",
-    "name": "CADILLAC, MI, WEXFORD COUNTY ILS/DME RWY 07"
   },
   {
     "abbv": "MAZ",
@@ -8276,10 +6548,6 @@
     "name": "ORLANDO, FL, ORLANDO INTL ARPT"
   },
   {
-    "abbv": "MCU",
-    "name": "ROCHESTER, NY, FREDERICK DOUGLASS - GREATER ROCHESTER INTL ILS RWY 04"
-  },
-  {
     "abbv": "MCW",
     "name": "MASON CITY, IA, MASON CITY MUNI ARPT"
   },
@@ -8296,10 +6564,6 @@
     "name": "SAN ANTONIO, TX, MARTINDALE AHP"
   },
   {
-    "abbv": "MDC",
-    "name": "BOSTON, MA, GENERAL EDWARD LAWRENCE LOGAN INTL ILS/DME RWY 15R"
-  },
-  {
     "abbv": "MDD",
     "name": "MIDLAND, TX, MIDLAND AIRPARK ARPT"
   },
@@ -8308,20 +6572,8 @@
     "name": "MOORELAND, OK, MOORELAND MUNI ARPT"
   },
   {
-    "abbv": "MDG",
-    "name": "VALDOSTA, GA, MOODY AFB LOC/GS RWY 36R"
-  },
-  {
     "abbv": "MDH",
     "name": "CARBONDALE/MURPHYSBORO, IL, SOUTHERN ILLINOIS ARPT"
-  },
-  {
-    "abbv": "MDI",
-    "name": "BEMIDJI, MN, BEMIDJI RGNL ILS RWY 31"
-  },
-  {
-    "abbv": "MDK",
-    "name": "SACRAMENTO, CA, SACRAMENTO INTL ILS/ DME RWY 17L"
   },
   {
     "abbv": "MDL",
@@ -8368,10 +6620,6 @@
     "name": "MAXTON, NC, LAURINBURG-MAXTON ARPT"
   },
   {
-    "abbv": "MED",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 10L"
-  },
-  {
     "abbv": "MEI",
     "name": "MERIDIAN, MS, KEY FLD ARPT"
   },
@@ -8402,10 +6650,6 @@
   {
     "abbv": "MEZ",
     "name": "MENA, AR, MENA INTERMOUNTAIN MUNI ARPT"
-  },
-  {
-    "abbv": "MFA",
-    "name": "MIAMI, FL, MIAMI INTL ILS/DME RWY 08R"
   },
   {
     "abbv": "MFD",
@@ -8471,10 +6715,6 @@
     "abbv": "MGW",
     "name": "MORGANTOWN, WV, MORGANTOWN MUNI-WALTE L BILL HART FLD ARPT",
     "Tie-In Fac": "R  EKN"
-  },
-  {
-    "abbv": "MGX",
-    "name": "NEWTON, IA, NEWTON MUNI-EARL JOHNSON FLD ILS RWY 32"
   },
   {
     "abbv": "MGY",
@@ -8545,28 +6785,12 @@
     "name": "MARSHALLTOWN, IA, MARSHALLTOWN MUNI ARPT"
   },
   {
-    "abbv": "MIZ",
-    "name": "MARYSVILLE, CA, BEALE AFB LOC/GS RWY 33"
-  },
-  {
     "abbv": "MJD",
     "name": "PICAYUNE, MS, PICAYUNE MUNI ARPT"
   },
   {
-    "abbv": "MJE",
-    "name": "MANCHESTER, NH, MANCHESTER ILS RWY 06"
-  },
-  {
-    "abbv": "MJJ",
-    "name": "EDWARDS, CA, EDWARDS AFB MLS RWY 22L"
-  },
-  {
     "abbv": "MJQ",
     "name": "JACKSON, MN, JACKSON MUNI ARPT"
-  },
-  {
-    "abbv": "MJW",
-    "name": "MINOT, ND, MINOT AFB LOC/GS RWY 12"
   },
   {
     "abbv": "MJX",
@@ -8623,10 +6847,6 @@
   {
     "abbv": "MKY",
     "name": "MARCO ISLAND, FL, MARCO ISLAND EXEC ARPT"
-  },
-  {
-    "abbv": "MKZ",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 07R"
   },
   {
     "abbv": "MLB",
@@ -8717,10 +6937,6 @@
     "name": "MC MINNVILLE, OR, MC MINNVILLE MUNI ARPT"
   },
   {
-    "abbv": "MNA",
-    "name": "MANCHESTER, NH, MANCHESTER ILS/DME RWY 17"
-  },
-  {
     "abbv": "MNE",
     "name": "MINDEN, LA, MINDEN ARPT"
   },
@@ -8737,20 +6953,12 @@
     "name": "MANNING, SC, SANTEE COOPER RGNL ARPT"
   },
   {
-    "abbv": "MNK",
-    "name": "ROCHESTER, MN, ROCHESTER INTL ILS RWY 13"
-  },
-  {
     "abbv": "MNM",
     "name": "MENOMINEE, MI, MENOMINEE RGNL ARPT"
   },
   {
     "abbv": "MNN",
     "name": "MARION, OH, MARION MUNI ARPT"
-  },
-  {
-    "abbv": "MNQ",
-    "name": "MOUNTAIN VIEW, CA, MOFFETT FEDERAL AFLD LOC/DME RWY 14L"
   },
   {
     "abbv": "MNT",
@@ -8771,10 +6979,6 @@
   {
     "abbv": "MOD",
     "name": "MODESTO, CA, MODESTO CITY-COUNTY-HARRY SHAM FLD ARPT"
-  },
-  {
-    "abbv": "MOH",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL ILS RWY 31L"
   },
   {
     "abbv": "MOP",
@@ -8799,10 +7003,6 @@
   {
     "abbv": "MOX",
     "name": "MORRIS, MN, MORRIS MUNI - CHARLIE SCHMIDT FLD ARPT"
-  },
-  {
-    "abbv": "MOY",
-    "name": "SALT LAKE CITY, UT, SALT LAKE CITY INTL ILS/DME RWY 16L"
   },
   {
     "abbv": "MPE",
@@ -8849,20 +7049,12 @@
     "name": "INDIANAPOLIS, IN, INDIANAPOLIS RGNL ARPT"
   },
   {
-    "abbv": "MQK",
-    "name": "YOUNGSTOWN/WARREN, OH, YOUNGSTOWN- WARREN RGNL ILS RWY 14"
-  },
-  {
     "abbv": "MQR",
     "name": "MCGREGOR, MN, ARPT"
   },
   {
     "abbv": "MQS",
     "name": "COATESVILLE, PA, CHESTER COUNTY G O CARLSON ARPT"
-  },
-  {
-    "abbv": "MQU",
-    "name": "BECKLEY, WV, RALEIGH COUNTY MEML ILS RWY 19"
   },
   {
     "abbv": "MQW",
@@ -8909,10 +7101,6 @@
     "name": "MONTEREY, CA, MONTEREY RGNL ARPT"
   },
   {
-    "abbv": "MRZ",
-    "name": "SYRACUSE, NY, SYRACUSE HANCOCK INTL ILS/DME RWY 10"
-  },
-  {
     "abbv": "MSC",
     "name": "SALT LAKE CITY, UT, FAA WMSC"
   },
@@ -8943,10 +7131,6 @@
   {
     "abbv": "MSY",
     "name": "NEW ORLEANS, LA, LOUIS ARMSTRONG NEW ORLEANS INTL ARPT"
-  },
-  {
-    "abbv": "MTB",
-    "name": "MONTEREY, CA, MONTEREY RGNL LOC/DME RWY 28L"
   },
   {
     "abbv": "MTC",
@@ -8997,10 +7181,6 @@
     "name": "FORT INDIANTOWN GAP(ANNVILLE), PA, MUIR AAF (FORT INDIANTOWN GAP) ARPT"
   },
   {
-    "abbv": "MUK",
-    "name": "ALAMOGORDO, NM, HOLLOMAN AFB LOC/GS RWY 16"
-  },
-  {
     "abbv": "MUL",
     "name": "MOULTRIE, GA, SPENCE ARPT"
   },
@@ -9041,10 +7221,6 @@
     "name": "MOUNT VERNON, IL, MOUNT VERNON ARPT"
   },
   {
-    "abbv": "MVP",
-    "name": "WICHITA, KS, WICHITA DWIGHT D EISENHOWER NTL ILS/DME RWY 19L"
-  },
-  {
     "abbv": "MVY",
     "name": "VINEYARD HAVEN, MA, MARTHA'S VINEYARD ARPT"
   },
@@ -9055,10 +7231,6 @@
   {
     "abbv": "MWC",
     "name": "MILWAUKEE, WI, LAWRENCE J TIMMERMAN ARPT"
-  },
-  {
-    "abbv": "MWD",
-    "name": "ROCHESTER, NY, FREDERICK DOUGLASS - GREATER ROCHESTER INTL ILS RWY 22"
   },
   {
     "abbv": "MWH",
@@ -9085,10 +7257,6 @@
     "name": "MIDDLETOWN, OH, MIDDLETOWN RGNL/HOOK FLD ARPT"
   },
   {
-    "abbv": "MWP",
-    "name": "SHREVEPORT, LA, SHREVEPORT RGNL LOC/ DME RWY 06"
-  },
-  {
     "abbv": "MXA",
     "name": "MANILA, AR, MANILA MUNI ARPT"
   },
@@ -9097,20 +7265,8 @@
     "name": "MONTGOMERY, AL, MAXWELL AFB"
   },
   {
-    "abbv": "MXJ",
-    "name": "KNOB NOSTER, MO, WHITEMAN AFB LOC/GS RWY 19"
-  },
-  {
-    "abbv": "MXK",
-    "name": "CAMP SPRINGS, MD, JOINT BASE ANDREWS ILS RWY 19R"
-  },
-  {
     "abbv": "MXO",
     "name": "MONTICELLO, IA, MONTICELLO RGNL ARPT"
-  },
-  {
-    "abbv": "MXT",
-    "name": "CHICAGO, IL, CHICAGO MIDWAY INTL ILS/ DME RWY 31C"
   },
   {
     "abbv": "MYF",
@@ -9129,14 +7285,6 @@
     "name": "MC CALL, ID, MC CALL MUNI ARPT"
   },
   {
-    "abbv": "MYO",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS/DME RWY 36R"
-  },
-  {
-    "abbv": "MYQ",
-    "name": "WINDSOR LOCKS, CT, BRADLEY INTL ILS/ DME RWY 24"
-  },
-  {
     "abbv": "MYR",
     "name": "MYRTLE BEACH, SC, MYRTLE BEACH INTL ARPT"
   },
@@ -9149,10 +7297,6 @@
     "name": "MARYSVILLE, CA, YUBA COUNTY ARPT"
   },
   {
-    "abbv": "MYY",
-    "name": "PHILADELPHIA, PA, PHILADELPHIA INTL ILS/DME RWY 17"
-  },
-  {
     "abbv": "MYZ",
     "name": "MARYSVILLE, KS, MARYSVILLE MUNI ARPT"
   },
@@ -9163,14 +7307,6 @@
   {
     "abbv": "MZJ",
     "name": "MARANA, AZ, PINAL AIRPARK ARPT"
-  },
-  {
-    "abbv": "MZR",
-    "name": "MONROE, LA, MONROE RGNL ILS RWY 22"
-  },
-  {
-    "abbv": "MZX",
-    "name": "AUGUSTA, GA, AUGUSTA RGNL AT BUSH FLD ILS RWY 17"
   },
   {
     "abbv": "MZZ",
@@ -9513,10 +7649,6 @@
     "name": "YUMA, AZ, YUMA MCAS/YUMA INTL ARPT"
   },
   {
-    "abbv": "NZW",
-    "name": "SOUTH WEYMOUTH, MA, SOUTH WEYMOUTH NAS\n/SHEA FIELD/ BASE OPS"
-  },
-  {
     "abbv": "NZX",
     "name": "HAROLD, FL, HAROLD NOLF"
   },
@@ -9539,10 +7671,6 @@
   {
     "abbv": "OBE",
     "name": "OKEECHOBEE, FL, OKEECHOBEE COUNTY ARPT"
-  },
-  {
-    "abbv": "OBG",
-    "name": "BURLINGTON, CO, KIT CARSON COUNTY LOC/ DME RWY 33"
   },
   {
     "abbv": "OBI",
@@ -9573,18 +7701,6 @@
     "name": "WASHINGTON, NC, WASHINGTON-WARREN ARPT"
   },
   {
-    "abbv": "OCX",
-    "name": "OKLAHOMA CITY, OK, WILL ROGERS WORLD MLS RWY 12"
-  },
-  {
-    "abbv": "OCZ",
-    "name": "LINCOLN, NE, LINCOLN ILS RWY 18"
-  },
-  {
-    "abbv": "ODA",
-    "name": "DOTHAN, AL, DOTHAN RGNL ILS/DME RWY 14"
-  },
-  {
     "abbv": "ODO",
     "name": "ODESSA, TX, ODESSA-SCHLEMEYER FLD ARPT"
   },
@@ -9595,10 +7711,6 @@
   {
     "abbv": "OEB",
     "name": "COLDWATER, MI, BRANCH COUNTY MEML ARPT"
-  },
-  {
-    "abbv": "OEH",
-    "name": "BALTIMORE, MD, BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL ILS RWY 28"
   },
   {
     "abbv": "OEL",
@@ -9641,32 +7753,12 @@
     "name": "ONTONAGON, MI, ONTONAGON COUNTY - SCHUSTER FLD ARPT"
   },
   {
-    "abbv": "OGN",
-    "name": "OMAHA, NE, EPPLEY AIRFIELD ILS/DME RWY 36"
-  },
-  {
-    "abbv": "OGO",
-    "name": "HOWELL, MI, LIVINGSTON COUNTY SPENCER J HARDY ILS/DME RWY 13"
-  },
-  {
     "abbv": "OGS",
     "name": "OGDENSBURG, NY, OGDENSBURG INTL ARPT"
   },
   {
-    "abbv": "OGZ",
-    "name": "ST LOUIS, MO, ST LOUIS LAMBERT INTL ILS/DME RWY 11"
-  },
-  {
     "abbv": "OHK",
     "name": "WINIFRED, MT, ARPT"
-  },
-  {
-    "abbv": "OHN",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS/DME RWY 36L"
-  },
-  {
-    "abbv": "OIB",
-    "name": "HOUSTON, TX, WILLIAM P HOBBY LOC/DME RWY 22"
   },
   {
     "abbv": "OIC",
@@ -9675,14 +7767,6 @@
   {
     "abbv": "OIN",
     "name": "OBERLIN, KS, OBERLIN MUNI ARPT"
-  },
-  {
-    "abbv": "OIQ",
-    "name": "SIOUX CITY, IA, SIOUX GATEWAY/BRIG GEN BUD DAY FLD ILS RWY 13"
-  },
-  {
-    "abbv": "OIU",
-    "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ILS/DME RWY 01L"
   },
   {
     "abbv": "OJA",
@@ -9695,18 +7779,6 @@
   {
     "abbv": "OJG",
     "name": "MOUNT VERNON, OH, KNOX CO ARPT"
-  },
-  {
-    "abbv": "OJP",
-    "name": "ORLANDO, FL, ORLANDO INTL ILS/DME RWY 36R"
-  },
-  {
-    "abbv": "OJW",
-    "name": "SANTA ANA, CA, JOHN WAYNE/ORANGE COUNTY LDA/DME RWY 20X"
-  },
-  {
-    "abbv": "OJZ",
-    "name": "WHITE PLAINS, NY, WESTCHESTER COUNTY ILS/DME RWY 34"
   },
   {
     "abbv": "OKB",
@@ -9757,10 +7829,6 @@
     "name": "SOLON SPRINGS, WI, SOLON SPRINGS MUNI ARPT"
   },
   {
-    "abbv": "OLJ",
-    "name": "SPOKANE, WA, SPOKANE INTL ILS/DME RWY 03"
-  },
-  {
     "abbv": "OLM",
     "name": "OLYMPIA, WA, OLYMPIA RGNL ARPT"
   },
@@ -9775,10 +7843,6 @@
   {
     "abbv": "OLV",
     "name": "OLIVE BRANCH, MS, OLIVE BRANCH ARPT"
-  },
-  {
-    "abbv": "OLX",
-    "name": "MIAMI, FL, MIAMI-OPA LOCKA EXEC ILS/ DME RWY 12"
   },
   {
     "abbv": "OLY",
@@ -9809,24 +7873,8 @@
     "name": "ORMOND BEACH, FL, ORMOND BEACH MUNI ARPT"
   },
   {
-    "abbv": "OMO",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 10"
-  },
-  {
     "abbv": "ONA",
     "name": "WINONA, MN, WINONA MUNI-MAX CONRAD FLD ARPT"
-  },
-  {
-    "abbv": "ONB",
-    "name": "COLUMBUS, OH, JOHN GLENN COLUMBUS INTL ILS/DME RWY 28R"
-  },
-  {
-    "abbv": "OND",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON ILS/DME RWY 26R"
-  },
-  {
-    "abbv": "ONE",
-    "name": "SPRINGFIELD, TN, SPRINGFIELD ROBERTSON COUNTY LOCALIZER RWY 04"
   },
   {
     "abbv": "ONL",
@@ -9849,10 +7897,6 @@
     "name": "ONTARIO, CA, ONTARIO INTL ARPT"
   },
   {
-    "abbv": "ONW",
-    "name": "NEW ORLEANS, LA, LOUIS ARMSTRONG NEW ORLEANS INTL LOC/DME RWY 20"
-  },
-  {
     "abbv": "ONX",
     "name": "CURRITUCK, NC, CURRITUCK COUNTY RGNL ARPT"
   },
@@ -9873,24 +7917,8 @@
     "name": "HOONAH, AK, HOONAH SPB"
   },
   {
-    "abbv": "OOI",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS RWY 18R"
-  },
-  {
     "abbv": "OOK",
     "name": "TOKSOOK BAY, AK, TOKSOOK BAY ARPT"
-  },
-  {
-    "abbv": "OOO",
-    "name": "CONCORD, NC, CONCORD RGNL  LOC RY 02 LOC/GS RWY 02"
-  },
-  {
-    "abbv": "OOS",
-    "name": "ORLANDO, FL, ORLANDO SANFORD INTL ILS/ DME RWY 09R"
-  },
-  {
-    "abbv": "OPE",
-    "name": "TOPEKA, KS, FORBES FIELD LOCALIZER RWY 13"
   },
   {
     "abbv": "OPF",
@@ -9905,24 +7933,12 @@
     "name": "THOMASTON, GA, THOMASTON-UPSON COUNTY ARPT"
   },
   {
-    "abbv": "OQA",
-    "name": "REIDSVILLE, NC, ROCKINGHAM COUNTY NC SHILOH SDF RWY 31"
-  },
-  {
     "abbv": "OQN",
     "name": "WEST CHESTER, PA, BRANDYWINE RGNL ARPT"
   },
   {
-    "abbv": "OQQ",
-    "name": "OKLAHOMA CITY, OK, WILEY POST MLS RWY 35R"
-  },
-  {
     "abbv": "OQU",
     "name": "NORTH KINGSTOWN, RI, QUONSET STATE ARPT"
-  },
-  {
-    "abbv": "OQV",
-    "name": "INDIANAPOLIS, IN, INDIANAPOLIS INTL ILS/DME RWY 05R"
   },
   {
     "abbv": "OQW",
@@ -9989,28 +8005,12 @@
     "name": "OSHKOSH, WI, WITTMAN RGNL ARPT"
   },
   {
-    "abbv": "OSQ",
-    "name": "SAN ANTONIO, TX, KELLY FLD ILS RWY 34"
-  },
-  {
-    "abbv": "OSS",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 24R"
-  },
-  {
     "abbv": "OSU",
     "name": "COLUMBUS, OH, OHIO STATE UNIVERSITY ARPT"
   },
   {
-    "abbv": "OSV",
-    "name": "BROOKSVILLE, FL, BROOKSVILLE-TAMPA BAY RGNL ILS/DME RWY 09"
-  },
-  {
     "abbv": "OSX",
     "name": "KOSCIUSKO, MS, KOSCIUSKO-ATTALA COUNTY ARPT"
-  },
-  {
-    "abbv": "OSZ",
-    "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ILS RWY 01C"
   },
   {
     "abbv": "OTG",
@@ -10021,20 +8021,12 @@
     "name": "NORTH BEND, OR, SOUTHWEST OREGON RGNL ARPT"
   },
   {
-    "abbv": "OTI",
-    "name": "NEWPORT, RI, NEWPORT STATE LOC/DME RWY 22"
-  },
-  {
     "abbv": "OTM",
     "name": "OTTUMWA, IA, OTTUMWA RGNL ARPT"
   },
   {
     "abbv": "OTZ",
     "name": "KOTZEBUE, AK, RALPH WIEN MEML ARPT"
-  },
-  {
-    "abbv": "OUF",
-    "name": "DENVER, CO, DENVER INTL ILS/DME RWY 34R"
   },
   {
     "abbv": "OUL",
@@ -10045,20 +8037,8 @@
     "name": "NORMAN, OK, UNIVERSITY OF OKLAHOMA WESTHEIMER ARPT"
   },
   {
-    "abbv": "OUP",
-    "name": "ELKHART, IN, ELKHART MUNI ILS RWY 27"
-  },
-  {
-    "abbv": "OUW",
-    "name": "ELKINS, WV, ELKINS-RANDOLPH CO- JENNINGS RANDOLPH FLD LDA/DME RWY 00X"
-  },
-  {
     "abbv": "OVE",
     "name": "OROVILLE, CA, OROVILLE MUNI ARPT"
-  },
-  {
-    "abbv": "OVI",
-    "name": "CLOVIS, NM, CANNON AFB LOC/GS RWY 13"
   },
   {
     "abbv": "OVL",
@@ -10073,10 +8053,6 @@
     "name": "BOSCOBEL, WI, BOSCOBEL ARPT"
   },
   {
-    "abbv": "OVW",
-    "name": "DALLAS, TX, DALLAS LOVE FLD ILS/DME RWY 31R"
-  },
-  {
     "abbv": "OWA",
     "name": "OWATONNA, MN, OWATONNA DEGNER RGNL ARPT"
   },
@@ -10089,20 +8065,12 @@
     "name": "NORWOOD, MA, NORWOOD MEML ARPT"
   },
   {
-    "abbv": "OWG",
-    "name": "WASHINGTON, DC, WASHINGTON NATIONAL MLS RWY 33"
-  },
-  {
     "abbv": "OWI",
     "name": "OTTAWA, KS, OTTAWA MUNI ARPT"
   },
   {
     "abbv": "OWK",
     "name": "NORRIDGEWOCK, ME, CENTRAL MAINE / NORRIDGEWOCK ARPT"
-  },
-  {
-    "abbv": "OWN",
-    "name": "WISE, VA, LONESOME PINE ILS/DME RWY 24"
   },
   {
     "abbv": "OWP",
@@ -10129,16 +8097,8 @@
     "name": "OXFORD, OH, MIAMI UNIVERSITY ARPT"
   },
   {
-    "abbv": "OXH",
-    "name": "KNOXVILLE, TN, MC GHEE TYSON ILS/DME RWY 23L"
-  },
-  {
     "abbv": "OXI",
     "name": "KNOX, IN, STARKE COUNTY ARPT"
-  },
-  {
-    "abbv": "OXK",
-    "name": "BELLEVILLE, IL, SCOTT AFB/MIDAMERICA LOC/GS RWY 14R"
   },
   {
     "abbv": "OXR",
@@ -10149,20 +8109,8 @@
     "name": "KNOXVILLE, IA, KNOXVILLE MUNI ARPT"
   },
   {
-    "abbv": "OYC",
-    "name": "CORPUS CHRISTI, TX, CORPUS CHRISTI INTL ILS/DME RWY 36"
-  },
-  {
-    "abbv": "OYG",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 09C"
-  },
-  {
     "abbv": "OYM",
     "name": "ST MARYS, PA, ST MARYS MUNI ARPT"
-  },
-  {
-    "abbv": "OYS",
-    "name": "SHREVEPORT, LA, SHREVEPORT REGIONAL MLS RWY 05"
   },
   {
     "abbv": "OZA",
@@ -10193,10 +8141,6 @@
     "name": "PACOIMA, CA, BARTON HELIPORT"
   },
   {
-    "abbv": "PAJ",
-    "name": "KANSAS CITY, MO, KANSAS CITY INTL ILS/ DME RWY 19R"
-  },
-  {
     "abbv": "PAK",
     "name": "HANAPEPE, HI, PORT ALLEN ARPT"
   },
@@ -10215,10 +8159,6 @@
   {
     "abbv": "PAQ",
     "name": "PALMER, AK, WARREN \"BUD\" WOODS PALMER MUNI ARPT"
-  },
-  {
-    "abbv": "PAU",
-    "name": "ST PAUL ISLAND, AK, ST PAUL ISLAND ILS RWY 36"
   },
   {
     "abbv": "PBF",
@@ -10277,10 +8217,6 @@
     "name": "ATLANTA, GA, DEKALB-PEACHTREE ARPT"
   },
   {
-    "abbv": "PDP",
-    "name": "PHILADELPHIA, PA, PHILADELPHIA INTL ILS/DME RWY 27R"
-  },
-  {
     "abbv": "PDT",
     "name": "PENDLETON, OR, EASTERN OREGON RGNL AT PENDLETON ARPT"
   },
@@ -10301,16 +8237,8 @@
     "name": "PELICAN, AK, PELICAN SPB"
   },
   {
-    "abbv": "PEK",
-    "name": "JACKSONVILLE, FL, JACKSONVILLE INTL ILS RWY 26"
-  },
-  {
     "abbv": "PEO",
     "name": "PENN YAN, NY, PENN YAN ARPT"
-  },
-  {
-    "abbv": "PEP",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS/DME RWY 18C"
   },
   {
     "abbv": "PEQ",
@@ -10333,10 +8261,6 @@
     "name": "PACIFIC CITY, OR, PACIFIC CITY STATE ARPT"
   },
   {
-    "abbv": "PFS",
-    "name": "PITTSBURGH, PA, PITTSBURGH INTL ILS RWY 28L"
-  },
-  {
     "abbv": "PGA",
     "name": "PAGE, AZ, PAGE MUNI ARPT"
   },
@@ -10349,10 +8273,6 @@
     "name": "PORT GRAHAM, AK, PORT GRAHAM ARPT"
   },
   {
-    "abbv": "PGQ",
-    "name": "PORTSMOUTH, NH, PORTSMOUTH INTL AT PEASE ILS RWY 16"
-  },
-  {
     "abbv": "PGR",
     "name": "PARAGOULD, AR, KIRK FLD ARPT"
   },
@@ -10363,10 +8283,6 @@
   {
     "abbv": "PHA",
     "name": "CHICAGO, IL, O'HARE EXPERIMENTAL AUTOMATIC WEATHER FACILITY"
-  },
-  {
-    "abbv": "PHC",
-    "name": "PENSACOLA, FL, PENSACOLA INTL LOC/DME RWY 26"
   },
   {
     "abbv": "PHD",
@@ -10405,10 +8321,6 @@
     "name": "PHILIP, SD, PHILIP ARPT"
   },
   {
-    "abbv": "PHS",
-    "name": "MOSINEE, WI, CENTRAL WISCONSIN ILS/DME RWY 35"
-  },
-  {
     "abbv": "PHT",
     "name": "PARIS, TN, HENRY COUNTY ARPT"
   },
@@ -10419,10 +8331,6 @@
   {
     "abbv": "PHX",
     "name": "PHOENIX, AZ, PHOENIX SKY HARBOR INTL ARPT"
-  },
-  {
-    "abbv": "PHY",
-    "name": "NORMAN, OK, UNIVERSITY OF OKLAHOMA WESTHEIMER LOC/DME RWY 03"
   },
   {
     "abbv": "PIA",
@@ -10465,16 +8373,8 @@
     "name": "ZELIENOPLE, PA, ZELIENOPLE MUNI ARPT"
   },
   {
-    "abbv": "PJE",
-    "name": "FREEPORT, IL, ALBERTUS ILS/DME RWY 24"
-  },
-  {
     "abbv": "PJI",
     "name": "POINT JUDITH, RI, POINT JUDITH CGS ARPT"
-  },
-  {
-    "abbv": "PJL",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN ILS/DME RWY 12L"
   },
   {
     "abbv": "PJY",
@@ -10489,10 +8389,6 @@
     "name": "PARKERSBURG, WV, MID-OHIO VALLEY RGNL ARPT"
   },
   {
-    "abbv": "PKC",
-    "name": "COCOA BEACH, FL, PATRICK AFB LOC/GS RWY 21"
-  },
-  {
     "abbv": "PKD",
     "name": "PARK RAPIDS, MN, PARK RAPIDS MUNI- KONSHOK FLD ARPT"
   },
@@ -10501,44 +8397,16 @@
     "name": "PARK FALLS, WI, PARK FALLS MUNI ARPT"
   },
   {
-    "abbv": "PKI",
-    "name": "LOUISVILLE, KY, LOUISVILLE MUHAMMAD ALI INTL ILS/DME RWY 17L"
-  },
-  {
     "abbv": "PKJ",
     "name": "PEKIN, IL, PEKIN MUNI ARPT"
-  },
-  {
-    "abbv": "PKN",
-    "name": "ASPEN, CO, ASPEN-PITKIN COUNTY/SARDY FLD LDA RWY 00X"
-  },
-  {
-    "abbv": "PKQ",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 35C"
-  },
-  {
-    "abbv": "PKU",
-    "name": "ATLANTA, GA, HARTSFIELD - JACKSON ATLANTA INTL ILS/DME RWY 28"
   },
   {
     "abbv": "PKV",
     "name": "PORT LAVACA, TX, CALHOUN COUNTY ARPT"
   },
   {
-    "abbv": "PKX",
-    "name": "OLATHE, KS, JOHNSON COUNTY EXEC LOCALIZER RWY 36"
-  },
-  {
     "abbv": "PLD",
     "name": "PORTLAND, IN, PORTLAND MUNI ARPT"
-  },
-  {
-    "abbv": "PLH",
-    "name": "OKLAHOMA CITY, OK, TINKER AFB LOCALIZER RWY 31"
-  },
-  {
-    "abbv": "PLJ",
-    "name": "MIAMI, FL, MIAMI-OPA LOCKA EXEC ILS/ DME RWY 27R"
   },
   {
     "abbv": "PLK",
@@ -10547,10 +8415,6 @@
   {
     "abbv": "PLN",
     "name": "PELLSTON, MI, PELLSTON RGNL/EMMET COUNTY ARPT"
-  },
-  {
-    "abbv": "PLQ",
-    "name": "TALLAHASSEE, FL, TALLAHASSEE INTL ILS/ DME RWY 27"
   },
   {
     "abbv": "PLR",
@@ -10621,10 +8485,6 @@
     "name": "PRINCETON, ME, PRINCETON MUNI ARPT"
   },
   {
-    "abbv": "PNO",
-    "name": "NASHVILLE, TN, NASHVILLE INTL ILS RWY 31"
-  },
-  {
     "abbv": "PNP",
     "name": "PILOT POINT, AK, PILOT POINT ARPT"
   },
@@ -10657,16 +8517,8 @@
     "name": "POCAHONTAS, IA, POCAHONTAS MUNI ARPT"
   },
   {
-    "abbv": "POK",
-    "name": "SACRAMENTO, CA, MATHER AFB ILS RWY 04R"
-  },
-  {
     "abbv": "POP",
     "name": "POPLAR, MT, ARPT"
-  },
-  {
-    "abbv": "POR",
-    "name": "PORTAGE GLACIER - PORTAGE VISITOR CENTER, AK, ASOS"
   },
   {
     "abbv": "POU",
@@ -10709,14 +8561,6 @@
     "name": "PITTSFIELD, IL, PITTSFIELD PENSTONE MUNI ARPT"
   },
   {
-    "abbv": "PPY",
-    "name": "OMAHA, NE, EPPLEY AIRFIELD ILS/DME RWY 18"
-  },
-  {
-    "abbv": "PPZ",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 17L"
-  },
-  {
     "abbv": "PQI",
     "name": "PRESQUE ISLE, ME, PRESQUE ISLE INTL ARPT"
   },
@@ -10727,10 +8571,6 @@
   {
     "abbv": "PQN",
     "name": "PIPESTONE, MN, PIPESTONE MUNI ARPT"
-  },
-  {
-    "abbv": "PQQ",
-    "name": "DANVILLE, KY, STUART POWELL FLD LOC/ DME RWY 30"
   },
   {
     "abbv": "PQY",
@@ -10755,10 +8595,6 @@
   {
     "abbv": "PRO",
     "name": "PERRY, IA, PERRY MUNI ARPT"
-  },
-  {
-    "abbv": "PRQ",
-    "name": "HOUSTON, TX, WILLIAM P HOBBY ILS/DME RWY 13R"
   },
   {
     "abbv": "PRS",
@@ -10869,10 +8705,6 @@
     "name": "ATLANTA, GA, PAULDING NORTHWEST ATLANTA ARPT"
   },
   {
-    "abbv": "PUK",
-    "name": "PANAMA CITY, FL, NORTHWEST FLORIDA BEACHES INTL ILS/DME RWY 16"
-  },
-  {
     "abbv": "PUW",
     "name": "PULLMAN/MOSCOW, WA, PULLMAN/MOSCOW RGNL ARPT"
   },
@@ -10905,14 +8737,6 @@
     "name": "PAULS VALLEY, OK, PAULS VALLEY MUNI ARPT"
   },
   {
-    "abbv": "PVL",
-    "name": "KANSAS CITY, MO, KANSAS CITY INTL ILS/ DME RWY 01R"
-  },
-  {
-    "abbv": "PVO",
-    "name": "ATLANTIC CITY, NJ, ATLANTIC CITY INTL ILS/DME RWY 13"
-  },
-  {
     "abbv": "PVU",
     "name": "PROVO, UT, PROVO MUNI ARPT"
   },
@@ -10921,16 +8745,8 @@
     "name": "PLAINVIEW, TX, HALE COUNTY ARPT"
   },
   {
-    "abbv": "PVY",
-    "name": "CLEVELAND, OH, CLEVELAND-HOPKINS INTL ILS/DME RWY 24R"
-  },
-  {
     "abbv": "PWA",
     "name": "OKLAHOMA CITY, OK, WILEY POST ARPT"
-  },
-  {
-    "abbv": "PWB",
-    "name": "WEST PALM BEACH, FL, PALM BEACH INTL LOC/GS RWY 28R"
   },
   {
     "abbv": "PWC",
@@ -10969,14 +8785,6 @@
     "name": "PAXSON, AK, PAXSON ARPT"
   },
   {
-    "abbv": "PXP",
-    "name": "CLEVELAND, OH, CLEVELAND-HOPKINS INTL ILS/DME RWY 28"
-  },
-  {
-    "abbv": "PXY",
-    "name": "MILWAUKEE, WI, GENERAL MITCHELL INTL LOC/DME RWY 25L"
-  },
-  {
     "abbv": "PYG",
     "name": "PAGELAND, SC, PAGELAND ARPT"
   },
@@ -11005,20 +8813,12 @@
     "name": "ROGERS CITY, MI, PRESQUE ISLE COUNTY ARPT"
   },
   {
-    "abbv": "PZV",
-    "name": "NEW YORK, NY, LAGUARDIA LOC/DME RWY 31"
-  },
-  {
     "abbv": "RAC",
     "name": "RACINE, WI, BATTEN INTL ARPT"
   },
   {
     "abbv": "RAF",
     "name": "SACRAMENTO ARMY DEPOT, CA, REED AHP"
-  },
-  {
-    "abbv": "RAK",
-    "name": "BELLINGHAM, WA, BELLINGHAM INTL MLS RWY 34"
   },
   {
     "abbv": "RAL",
@@ -11035,10 +8835,6 @@
   {
     "abbv": "RAW",
     "name": "WARSAW, MO, WARSAW MUNI ARPT"
-  },
-  {
-    "abbv": "RAY",
-    "name": "OMAHA, NE, EPPLEY AIRFIELD ILS/DME RWY 14L"
   },
   {
     "abbv": "RBD",
@@ -11149,10 +8945,6 @@
     "name": "RED LODGE, MT, RED LODGE ARPT"
   },
   {
-    "abbv": "REE",
-    "name": "JANESVILLE, WI, SOUTHERN WISCONSIN RGNL ILS/DME RWY 32"
-  },
-  {
     "abbv": "REG",
     "name": "GONZALES, LA, LOUISIANA RGNL ARPT"
   },
@@ -11163,18 +8955,6 @@
   {
     "abbv": "REO",
     "name": "ROME, OR, ROME STATE ARPT"
-  },
-  {
-    "abbv": "REY",
-    "name": "HOUSTON, TX, GEORGE BUSH INTERCONTINENTAL ARPT/HOUSTON ILS RWY\n27L"
-  },
-  {
-    "abbv": "REZ",
-    "name": "MARY ESTHER, FL, HURLBURT FIELD ILS RWY 17"
-  },
-  {
-    "abbv": "RFB",
-    "name": "MOUNT CLEMENS, MI, SELFRIDGE ANGB LOC/ GS RWY 01"
   },
   {
     "abbv": "RFD",
@@ -11193,40 +8973,12 @@
     "name": "RICHMOND, KY, CENTRAL KENTUCKY RGNL ARPT"
   },
   {
-    "abbv": "RGJ",
-    "name": "RICHMOND, VA, RICHMOND INTL ILS RWY 16"
-  },
-  {
     "abbv": "RGK",
     "name": "RED WING, MN, RED WING RGNL ARPT"
   },
   {
-    "abbv": "RGL",
-    "name": "WRANGELL, AK, WRANGELL LDA/DME RWY 10"
-  },
-  {
-    "abbv": "RGN",
-    "name": "KUPARUK, AK, UGNU-KUPARUK ILS/DME RWY 24"
-  },
-  {
-    "abbv": "RGO",
-    "name": "AKRON, OH, AKRON-CANTON RGNL ILS RWY 19"
-  },
-  {
-    "abbv": "RGR",
-    "name": "OKLAHOMA CITY, OK, WILL ROGERS WORLD ILS/DME RWY 35R"
-  },
-  {
-    "abbv": "RGS",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS/DME RWY 18R"
-  },
-  {
     "abbv": "RGV",
     "name": "WESLACO, TX, ARPT"
-  },
-  {
-    "abbv": "RHF",
-    "name": "KUPARUK, AK, UGNU-KUPARUK ILS/DME RWY 06"
   },
   {
     "abbv": "RHI",
@@ -11239,10 +8991,6 @@
   {
     "abbv": "RHV",
     "name": "SAN JOSE, CA, REID-HILLVIEW OF SANTA CLARA COUNTY ARPT"
-  },
-  {
-    "abbv": "RHX",
-    "name": "WILMINGTON, OH, WILMINGTON AIR PARK ILS/DME RWY 22L"
   },
   {
     "abbv": "RIC",
@@ -11259,10 +9007,6 @@
   {
     "abbv": "RIL",
     "name": "RIFLE, CO, RIFLE GARFIELD COUNTY ARPT"
-  },
-  {
-    "abbv": "RIQ",
-    "name": "AMARILLO, TX, RICK HUSBAND AMARILLO INTL LDA/DME RWY 22"
   },
   {
     "abbv": "RIR",
@@ -11285,20 +9029,8 @@
     "name": "RIDGELY, MD, RIDGELY AIRPARK ARPT"
   },
   {
-    "abbv": "RJG",
-    "name": "PHOENIX, AZ, PHOENIX SKY HARBOR INTL ILS/DME RWY 25L"
-  },
-  {
-    "abbv": "RJM",
-    "name": "WARNER ROBINS, GA, ROBINS AFB ILS RWY 15"
-  },
-  {
     "abbv": "RKD",
     "name": "ROCKLAND, ME, KNOX COUNTY RGNL ARPT"
-  },
-  {
-    "abbv": "RKH",
-    "name": "SUFFOLK, VA, SUFFOLK EXEC LOC/DME RWY 04"
   },
   {
     "abbv": "RKP",
@@ -11321,22 +9053,6 @@
     "name": "RICHLAND, WA, RICHLAND ARPT"
   },
   {
-    "abbv": "RLE",
-    "name": "LAS VEGAS, NV, MC CARRAN INTL ILS/DME RWY 26L"
-  },
-  {
-    "abbv": "RLI",
-    "name": "LOUISVILLE, KY, LOUISVILLE MUHAMMAD ALI INTL ILS/DME RWY 35L"
-  },
-  {
-    "abbv": "RLS",
-    "name": "WESTERLY, RI, WESTERLY STATE LOC/DME RWY 07"
-  },
-  {
-    "abbv": "RLU",
-    "name": "WATERVILLE, ME, WATERVILLE ROBERT LAFLEUR ILS/DME RWY 05"
-  },
-  {
     "abbv": "RME",
     "name": "ROME, NY, GRIFFISS INTL ARPT"
   },
@@ -11353,16 +9069,8 @@
     "name": "RAMPART, AK, RAMPART ARPT"
   },
   {
-    "abbv": "RMT",
-    "name": "SCOTTSBLUFF, NE, WESTERN NEBRASKA RGNL/ WILLIAM B HEILIG FLD ILS/DME RWY 12"
-  },
-  {
     "abbv": "RMY",
     "name": "MARSHALL, MI, BROOKS FLD ARPT"
-  },
-  {
-    "abbv": "RMZ",
-    "name": "ROCKLAND, ME, KNOX COUNTY RGNL ILS/DME RWY 13"
   },
   {
     "abbv": "RNC",
@@ -11373,16 +9081,8 @@
     "name": "UNIVERSAL CITY, TX, RANDOLPH AFB"
   },
   {
-    "abbv": "RNE",
-    "name": "NANTUCKET, MA, NANTUCKET MEML ILS/DME RWY 06"
-  },
-  {
     "abbv": "RNH",
     "name": "NEW RICHMOND, WI, NEW RICHMOND RGNL ARPT"
-  },
-  {
-    "abbv": "RNI",
-    "name": "KANSAS CITY, MO, KANSAS CITY INTL ILS/ DME RWY 09"
   },
   {
     "abbv": "RNM",
@@ -11405,20 +9105,12 @@
     "name": "CLEVELAND, MS, CLEVELAND MUNI ARPT"
   },
   {
-    "abbv": "RNX",
-    "name": "PEORIA, IL, GENERAL DOWNING - PEORIA INTL ILS/DME RWY 04"
-  },
-  {
     "abbv": "ROA",
     "name": "ROANOKE, VA, ROANOKE-BLACKSBURG RGNL/ WOODRUM FLD ARPT"
   },
   {
     "abbv": "ROC",
     "name": "ROCHESTER, NY, FREDERICK DOUGLASS - GREATER ROCHESTER INTL ARPT"
-  },
-  {
-    "abbv": "ROF",
-    "name": "CHICAGO/AURORA, IL, AURORA MUNI LOC/ DME RWY 33"
   },
   {
     "abbv": "ROG",
@@ -11445,10 +9137,6 @@
     "name": "ROSEAU, MN, ROSEAU MUNI/RUDY BILLBERG FLD ARPT"
   },
   {
-    "abbv": "ROY",
-    "name": "MIAMI, FL, MIAMI INTL LOC/DME RWY 08L"
-  },
-  {
     "abbv": "RPB",
     "name": "BELLEVILLE, KS, BELLEVILLE MUNI ARPT"
   },
@@ -11465,16 +9153,8 @@
     "name": "ROCHELLE, IL, ROCHELLE MUNI/KORITZ FLD ARPT"
   },
   {
-    "abbv": "RPO",
-    "name": "SANDPOINT, ID, SANDPOINT LOC/DME RWY 02"
-  },
-  {
     "abbv": "RPT",
     "name": "CHARLESTON, SC, MLS"
-  },
-  {
-    "abbv": "RPW",
-    "name": "FRESNO, CA, FRESNO YOSEMITE INTL LOC/ DME RWY 11L"
   },
   {
     "abbv": "RPX",
@@ -11489,24 +9169,12 @@
     "name": "WINDOW ROCK, AZ, WINDOW ROCK ARPT"
   },
   {
-    "abbv": "RQF",
-    "name": "HAMILTON, OH, BUTLER COUNTY RGNL/HOGAN FLD ILS/DME RWY 29"
-  },
-  {
     "abbv": "RQI",
     "name": "ROBBINSVILLE, NJ, TRENTON-ROBBINSVILLE ARPT"
   },
   {
-    "abbv": "RQN",
-    "name": "ST LOUIS, MO, ST LOUIS LAMBERT INTL ILS/DME RWY 29"
-  },
-  {
     "abbv": "RQO",
     "name": "EL RENO, OK, EL RENO RGNL ARPT"
-  },
-  {
-    "abbv": "RRA",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 31R"
   },
   {
     "abbv": "RRD",
@@ -11533,10 +9201,6 @@
     "name": "WARROAD, MN, WARROAD INTL MEML ARPT"
   },
   {
-    "abbv": "RRU",
-    "name": "CEDAR RAPIDS, IA, THE EASTERN IOWA ILS/ DME RWY 27"
-  },
-  {
     "abbv": "RSH",
     "name": "RUSSIAN MISSION, AK, RUSSIAN MISSION ARPT"
   },
@@ -11545,16 +9209,8 @@
     "name": "RUSSELL, KS, RUSSELL MUNI ARPT"
   },
   {
-    "abbv": "RSM",
-    "name": "PERU, IN, GRISSOM ARB LOC/GS RWY 23"
-  },
-  {
     "abbv": "RSN",
     "name": "RUSTON, LA, RUSTON RGNL ARPT"
-  },
-  {
-    "abbv": "RSR",
-    "name": "WORCESTER, MA, WORCESTER RGNL ILS/DME RWY 11"
   },
   {
     "abbv": "RST",
@@ -11569,24 +9225,12 @@
     "name": "FORT MYERS, FL, SOUTHWEST FLORIDA INTL ARPT"
   },
   {
-    "abbv": "RTH",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL ILS/ DME RWY 31R"
-  },
-  {
-    "abbv": "RTK",
-    "name": "ROANOKE RAPIDS, NC, HALIFAX COUNTY SDF RWY 05"
-  },
-  {
     "abbv": "RTN",
     "name": "RATON, NM, RATON MUNI/CREWS FLD ARPT"
   },
   {
     "abbv": "RTS",
     "name": "RENO, NV, RENO/STEAD ARPT"
-  },
-  {
-    "abbv": "RTT",
-    "name": "FLORA, IL, FLORA MUNI LOC/DME RWY 21"
   },
   {
     "abbv": "RUE",
@@ -11597,24 +9241,12 @@
     "name": "RUGBY, ND, RUGBY MUNI ARPT"
   },
   {
-    "abbv": "RUJ",
-    "name": "MOBILE, AL, MOBILE DOWNTOWN ILS/DME RWY 32"
-  },
-  {
-    "abbv": "RUK",
-    "name": "ALTUS, OK, ALTUS AFB LOC/GS RWY 17L"
-  },
-  {
     "abbv": "RUQ",
     "name": "SALISBURY, NC, MID-CAROLINA RGNL ARPT"
   },
   {
     "abbv": "RUT",
     "name": "RUTLAND, VT, RUTLAND - SOUTHERN VERMONT RGNL ARPT"
-  },
-  {
-    "abbv": "RUX",
-    "name": "BALTIMORE, MD, BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL ILS/DME RWY 33L"
   },
   {
     "abbv": "RVE",
@@ -11645,10 +9277,6 @@
     "name": "TULSA, OK, RICHARD LLOYD JONES JR ARPT"
   },
   {
-    "abbv": "RVT",
-    "name": "COLUMBUS/W POINT/STARKVILLE, MS, GOLDEN TRIANGLE RGNL ILS/DME RWY 36"
-  },
-  {
     "abbv": "RWF",
     "name": "REDWOOD FALLS, MN, REDWOOD FALLS MUNI ARPT"
   },
@@ -11665,10 +9293,6 @@
     "name": "WINAMAC, IN, ARENS FLD ARPT"
   },
   {
-    "abbv": "RWS",
-    "name": "CAMP SPRINGS, MD, JOINT BASE ANDREWS ILS RWY 01L"
-  },
-  {
     "abbv": "RWV",
     "name": "CALDWELL, TX, CALDWELL MUNI ARPT"
   },
@@ -11679,18 +9303,6 @@
   {
     "abbv": "RXE",
     "name": "REXBURG, ID, REXBURG-MADISON COUNTY ARPT"
-  },
-  {
-    "abbv": "RXK",
-    "name": "NEWARK, OH, NEWARK-HEATH LOCALIZER RWY 09"
-  },
-  {
-    "abbv": "RXN",
-    "name": "NEW YORK, NY, LONG ISLAND MAC ARTHUR ILS RWY 24"
-  },
-  {
-    "abbv": "RXZ",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS RWY 22R"
   },
   {
     "abbv": "RYE",
@@ -11753,16 +9365,8 @@
     "name": "SANTA FE, NM, SANTA FE MUNI ARPT"
   },
   {
-    "abbv": "SAJ",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 09L"
-  },
-  {
     "abbv": "SAN",
     "name": "SAN DIEGO, CA, SAN DIEGO INTL ARPT"
-  },
-  {
-    "abbv": "SAQ",
-    "name": "PITTSBURGH, PA, ALLEGHENY COUNTY ILS RWY 10"
   },
   {
     "abbv": "SAR",
@@ -11901,10 +9505,6 @@
     "name": "SAND POINT, AK, SAND POINT ARPT"
   },
   {
-    "abbv": "SDU",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS RWY 18C"
-  },
-  {
     "abbv": "SDY",
     "name": "SIDNEY, MT, SIDNEY-RICHLAND RGNL ARPT"
   },
@@ -11985,14 +9585,6 @@
     "name": "PAWTUCKET, RI, NORTH CENTRAL STATE ARPT"
   },
   {
-    "abbv": "SGB",
-    "name": "SANTA FE, NM, SANTA FE MUNI ILS/DME RWY 02"
-  },
-  {
-    "abbv": "SGC",
-    "name": "WASHINGTON, DC, WASHINGTON DULLES INTL ILS/DME RWY 19L"
-  },
-  {
     "abbv": "SGF",
     "name": "SPRINGFIELD, MO, SPRINGFIELD-BRANSON NTL ARPT"
   },
@@ -12003,10 +9595,6 @@
   {
     "abbv": "SGJ",
     "name": "ST AUGUSTINE, FL, NORTHEAST FLORIDA RGNL ARPT"
-  },
-  {
-    "abbv": "SGO",
-    "name": "CLINTON, NC, CLINTON-SAMPSON COUNTY LOCALIZER RWY 06"
   },
   {
     "abbv": "SGR",
@@ -12029,10 +9617,6 @@
     "name": "SKAGWAY, AK, SKAGWAY ARPT"
   },
   {
-    "abbv": "SGZ",
-    "name": "GREEN BAY, WI, GREEN BAY-AUSTIN STRAUBEL INTL ILS RWY 36"
-  },
-  {
     "abbv": "SHD",
     "name": "STAUNTON/WAYNESBORO/HARRISONBURG, VA, SHENANDOAH VALLEY RGNL ARPT"
   },
@@ -12053,10 +9637,6 @@
     "name": "SHELTON, WA, SANDERSON FLD ARPT"
   },
   {
-    "abbv": "SHP",
-    "name": "WICHITA FALLS, TX, SHEPPARD AFB/ WICHITA FALLS MUNI LOC/GS RWY 15C"
-  },
-  {
     "abbv": "SHR",
     "name": "SHERIDAN, WY, SHERIDAN COUNTY ARPT"
   },
@@ -12069,24 +9649,12 @@
     "name": "SHAGELUK, AK, SHAGELUK ARPT"
   },
   {
-    "abbv": "SIA",
-    "name": "SAN FRANCISCO, CA, SAN FRANCISCO INTL ILS/DME RWY 19L"
-  },
-  {
-    "abbv": "SIC",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS/DME RWY 18C"
-  },
-  {
     "abbv": "SIF",
     "name": "REIDSVILLE, NC, ROCKINGHAM COUNTY NC SHILOH ARPT"
   },
   {
     "abbv": "SIG",
     "name": "SAN JUAN, PR, FERNANDO LUIS RIBAS DOMINICCI ARPT"
-  },
-  {
-    "abbv": "SIJ",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN LOCALIZER RWY 22"
   },
   {
     "abbv": "SIK",
@@ -12129,20 +9697,12 @@
     "name": "SAN JUAN, PR, LUIS MUNOZ MARIN INTL ARPT"
   },
   {
-    "abbv": "SJW",
-    "name": "ST LOUIS, MO, ST LOUIS LAMBERT INTL ILS/DME RWY 30R"
-  },
-  {
     "abbv": "SJX",
     "name": "BEAVER ISLAND, MI, BEAVER ISLAND ARPT"
   },
   {
     "abbv": "SKA",
     "name": "SPOKANE, WA, FAIRCHILD AFB"
-  },
-  {
-    "abbv": "SKC",
-    "name": "WAUKESHA, WI, WAUKESHA COUNTY ILS RWY 10"
   },
   {
     "abbv": "SKF",
@@ -12209,14 +9769,6 @@
     "name": "SULPHUR SPRINGS, TX, SULPHUR SPRINGS MUNI ARPT"
   },
   {
-    "abbv": "SLV",
-    "name": "SAN JOSE, CA, NORMAN Y MINETA SAN JOSE INTL ILS/DME RWY 12R"
-  },
-  {
-    "abbv": "SMA",
-    "name": "ST MARY'S, AK, ST MARY'S LOC/DME RWY 17"
-  },
-  {
     "abbv": "SMD",
     "name": "FORT WAYNE, IN, SMITH FLD ARPT"
   },
@@ -12249,10 +9801,6 @@
     "name": "SOMERVILLE, NJ, SOMERSET ARPT"
   },
   {
-    "abbv": "SMR",
-    "name": "GREAT FALLS, MT, GREAT FALLS INTL ILS/ DME RWY 03"
-  },
-  {
     "abbv": "SMS",
     "name": "SUMTER, SC, SUMTER ARPT"
   },
@@ -12271,10 +9819,6 @@
   {
     "abbv": "SNC",
     "name": "CHESTER, CT, CHESTER ARPT"
-  },
-  {
-    "abbv": "SND",
-    "name": "ORLANDO, FL, ORLANDO SANFORD INTL ILS/ DME RWY 09L"
   },
   {
     "abbv": "SNH",
@@ -12297,16 +9841,8 @@
     "name": "ST PAUL ISLAND, AK, ST PAUL ISLAND ARPT"
   },
   {
-    "abbv": "SNQ",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTL ILS/ DME RWY 16L"
-  },
-  {
     "abbv": "SNS",
     "name": "SALINAS, CA, SALINAS MUNI ARPT"
-  },
-  {
-    "abbv": "SNU",
-    "name": "LOUISVILLE, KY, LOUISVILLE MUHAMMAD ALI INTL ILS/DME RWY 17R"
   },
   {
     "abbv": "SNY",
@@ -12319,10 +9855,6 @@
   {
     "abbv": "SOF",
     "name": "NILES, MI, JERRY TYLER MEMORIAL ARPT"
-  },
-  {
-    "abbv": "SOO",
-    "name": "HURLBURT FIELD, FL, 23 SPECIAL OPERATIONS WEATHER SQUADRON"
   },
   {
     "abbv": "SOP",
@@ -12339,10 +9871,6 @@
   {
     "abbv": "SOX",
     "name": "SANTA ANA, CA, (WSR) WEATHER STATION RADAR"
-  },
-  {
-    "abbv": "SOZ",
-    "name": "SOMERSET, PA, SOMERSET COUNTY LOCALIZER RWY 25"
   },
   {
     "abbv": "SPA",
@@ -12381,10 +9909,6 @@
     "name": "WICHITA FALLS, TX, SHEPPARD AFB/ WICHITA FALLS MUNI ARPT"
   },
   {
-    "abbv": "SPT",
-    "name": "ALBUQUERQUE, NM, ALBUQUERQUE INTL SUNPORT ILS/DME RWY 08"
-  },
-  {
     "abbv": "SPW",
     "name": "SPENCER, IA, SPENCER MUNI ARPT"
   },
@@ -12395,10 +9919,6 @@
   {
     "abbv": "SQI",
     "name": "STERLING/ROCKFALLS, IL, WHITESIDE COUNTY/JOS H BITTORF FLD ARPT"
-  },
-  {
-    "abbv": "SQK",
-    "name": "CONNERSVILLE, IN, METTEL FLD ILS RWY 18"
   },
   {
     "abbv": "SQL",
@@ -12419,10 +9939,6 @@
   {
     "abbv": "SRG",
     "name": "SPRINGFIELD, CO, SPRINGFIELD MUNI ARPT"
-  },
-  {
-    "abbv": "SRO",
-    "name": "GREAT FALLS, MT, MALMSTROM AFB ILS RWY 03"
   },
   {
     "abbv": "SRQ",
@@ -12451,10 +9967,6 @@
   {
     "abbv": "SSQ",
     "name": "SHELL LAKE, WI, SHELL LAKE MUNI ARPT"
-  },
-  {
-    "abbv": "SSX",
-    "name": "NASHVILLE, TN, NASHVILLE INTL ILS/DME RWY 20L"
   },
   {
     "abbv": "STC",
@@ -12585,10 +10097,6 @@
     "name": "SEWARD, AK, SEWARD ARPT"
   },
   {
-    "abbv": "SWE",
-    "name": "WARROAD, MN, WARROAD INTL MEML ILS/DME RWY 31"
-  },
-  {
     "abbv": "SWF",
     "name": "NEW YORK, NY, NEW YORK STEWART INTL ARPT"
   },
@@ -12611,10 +10119,6 @@
   {
     "abbv": "SWX",
     "name": "SHEMYA, AK, SHEMYA MLS"
-  },
-  {
-    "abbv": "SXH",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 10C"
   },
   {
     "abbv": "SXK",
@@ -12649,20 +10153,12 @@
     "name": "SHEMYA, AK, EARECKSON AS ARPT"
   },
   {
-    "abbv": "SYD",
-    "name": "CASPER, WY, CASPER/NATRONA COUNTY INTL ILS RWY 03"
-  },
-  {
     "abbv": "SYF",
     "name": "ST FRANCIS, KS, CHEYENNE COUNTY MUNI ARPT"
   },
   {
     "abbv": "SYI",
     "name": "SHELBYVILLE, TN, BOMAR FLD-SHELBYVILLE MUNI ARPT"
-  },
-  {
-    "abbv": "SYK",
-    "name": "JUPITER, FL, WILLIAM P GWINN ILS/DME RWY 09"
   },
   {
     "abbv": "SYL",
@@ -12677,24 +10173,12 @@
     "name": "STANTON, MN, STANTON AIRFIELD ARPT"
   },
   {
-    "abbv": "SYQ",
-    "name": "PHOENIX, AZ, PHOENIX SKY HARBOR INTL ILS/DME RWY 08"
-  },
-  {
     "abbv": "SYR",
     "name": "SYRACUSE, NY, SYRACUSE HANCOCK INTL ARPT"
   },
   {
     "abbv": "SYV",
     "name": "SYLVESTER, GA, SYLVESTER ARPT"
-  },
-  {
-    "abbv": "SZI",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTL ILS/ DME RWY 16C"
-  },
-  {
-    "abbv": "SZK",
-    "name": "ROANOKE, VA, ROANOKE-BLACKSBURG RGNL/ WOODRUM FLD LDA/DME RWY 06"
   },
   {
     "abbv": "SZL",
@@ -12737,20 +10221,8 @@
     "name": "TAYLORVILLE, IL, TAYLORVILLE MUNI ARPT"
   },
   {
-    "abbv": "TBB",
-    "name": "COLUMBUS, MS, COLUMBUS AFB ILS RWY 31C"
-  },
-  {
-    "abbv": "TBH",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTERNATIONAL MLS RWY 16L"
-  },
-  {
     "abbv": "TBN",
     "name": "FORT LEONARD WOOD, MO, WAYNESVILLE-ST ROBERT RGNL FORNEY FLD ARPT"
-  },
-  {
-    "abbv": "TBQ",
-    "name": "DALLAS, TX, ADDISON ILS/DME RWY 33"
   },
   {
     "abbv": "TBR",
@@ -12817,20 +10289,8 @@
     "name": "TELLURIDE, CO, TELLURIDE RGNL ARPT"
   },
   {
-    "abbv": "TFE",
-    "name": "ORLANDO, FL, ORLANDO INTL ILS/DME RWY 18R"
-  },
-  {
-    "abbv": "TFM",
-    "name": "OKLAHOMA CITY, OK, WILEY POST ILS/DME RWY 35R"
-  },
-  {
     "abbv": "TFP",
     "name": "INGLESIDE, TX, MCCAMPBELL-PORTER ARPT"
-  },
-  {
-    "abbv": "TFR",
-    "name": "PUEBLO, CO, PUEBLO MEML ILS RWY 26L"
   },
   {
     "abbv": "TGC",
@@ -12839,10 +10299,6 @@
   {
     "abbv": "TGI",
     "name": "TANGIER, VA, TANGIER ISLAND ARPT"
-  },
-  {
-    "abbv": "TGN",
-    "name": "ANCHORAGE, AK, TED STEVENS ANCHORAGE INTL ILS/DME RWY 07L"
   },
   {
     "abbv": "THA",
@@ -12881,28 +10337,12 @@
     "name": "TITUSVILLE, FL, SPACE COAST RGNL ARPT"
   },
   {
-    "abbv": "TJL",
-    "name": "TETERBORO, NJ, TETERBORO ILS/DME RWY 19"
-  },
-  {
-    "abbv": "TJY",
-    "name": "TULSA, OK, TULSA INTL ILS RWY 18R"
-  },
-  {
-    "abbv": "TJZ",
-    "name": "MINNEAPOLIS, MN, MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN LOC/DME RWY 17"
-  },
-  {
     "abbv": "TKA",
     "name": "TALKEETNA, AK, TALKEETNA ARPT"
   },
   {
     "abbv": "TKC",
     "name": "TRACY, MN, TRACY MUNI ARPT"
-  },
-  {
-    "abbv": "TKD",
-    "name": "NEW YORK, NY, LAGUARDIA LDA/DME RWY 22X"
   },
   {
     "abbv": "TKE",
@@ -12941,10 +10381,6 @@
     "name": "TAKOTNA, AK, TATALINA LRRS ARPT"
   },
   {
-    "abbv": "TLK",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL ILS/ DME RWY 13L"
-  },
-  {
     "abbv": "TLR",
     "name": "TULARE, CA, MEFFORD FLD ARPT"
   },
@@ -12969,10 +10405,6 @@
     "name": "TILLAMOOK, OR, TILLAMOOK ARPT"
   },
   {
-    "abbv": "TMN",
-    "name": "CHARLOTTE AMALIE, VI, CYRIL E KING ILS/ DME RWY 10"
-  },
-  {
     "abbv": "TMT",
     "name": "AUSTIN, NV, AUSTIN ARPT"
   },
@@ -12995,10 +10427,6 @@
   {
     "abbv": "TNP",
     "name": "TWENTYNINE PALMS, CA, TWENTYNINE PALMS ARPT"
-  },
-  {
-    "abbv": "TNQ",
-    "name": "MENOMINEE, MI, MENOMINEE RGNL ILS RWY 03"
   },
   {
     "abbv": "TNR",
@@ -13073,10 +10501,6 @@
     "name": "PORT ALSWORTH, AK, PORT ALSWORTH ARPT"
   },
   {
-    "abbv": "TPV",
-    "name": "SAVANNAH, GA, SAVANNAH/HILTON HEAD INTL ILS RWY 01"
-  },
-  {
     "abbv": "TQE",
     "name": "TEKAMAH, NE, TEKAMAH MUNI ARPT"
   },
@@ -13087,14 +10511,6 @@
   {
     "abbv": "TQK",
     "name": "SCOTT CITY, KS, SCOTT CITY MUNI ARPT"
-  },
-  {
-    "abbv": "TQR",
-    "name": "SAGINAW, MI, MBS INTL ILS/DME RWY 23"
-  },
-  {
-    "abbv": "TQW",
-    "name": "PITTSBURGH, PA, PITTSBURGH INTL ILS/ DME RWY 32"
   },
   {
     "abbv": "TRI",
@@ -13113,24 +10529,12 @@
     "name": "PALM SPRINGS, CA, JACQUELINE COCHRAN RGNL ARPT"
   },
   {
-    "abbv": "TRT",
-    "name": "UNIVERSAL CITY, TX, RANDOLPH AFB LOC/ GS RWY 15L"
-  },
-  {
     "abbv": "TRX",
     "name": "TRENTON, MO, TRENTON MUNI ARPT"
   },
   {
-    "abbv": "TSE",
-    "name": "MEMPHIS, TN, MEMPHIS INTL ILS/DME RWY 36C"
-  },
-  {
     "abbv": "TSG",
     "name": "TANACROSS, AK, TANACROSS ARPT"
-  },
-  {
-    "abbv": "TSL",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 28R"
   },
   {
     "abbv": "TSO",
@@ -13161,10 +10565,6 @@
     "name": "KOSRAE, FM, KOSRAE ARPT"
   },
   {
-    "abbv": "TTL",
-    "name": "STUTTGART, AR, STUTTGART MUNI CARL HUMPHREY FLD ILS/DME RWY 36"
-  },
-  {
     "abbv": "TTN",
     "name": "TRENTON, NJ, TRENTON MERCER ARPT"
   },
@@ -13177,16 +10577,8 @@
     "name": "CANTWELL, AK, CANTWELL ARPT"
   },
   {
-    "abbv": "TUC",
-    "name": "SEATTLE, WA, SEATTLE-TACOMA INTL ILS/ DME RWY 34C"
-  },
-  {
     "abbv": "TUL",
     "name": "TULSA, OK, TULSA INTL ARPT"
-  },
-  {
-    "abbv": "TUN",
-    "name": "FLINT, MI, BISHOP INTL ILS RWY 27"
   },
   {
     "abbv": "TUP",
@@ -13195,14 +10587,6 @@
   {
     "abbv": "TUS",
     "name": "TUCSON, AZ, TUCSON INTL ARPT"
-  },
-  {
-    "abbv": "TUT",
-    "name": "PAGO PAGO, AS, PAGO PAGO INTL ILS/DME RWY 05"
-  },
-  {
-    "abbv": "TUU",
-    "name": "HUNTINGTON, WV, TRI-STATE/MILTON J FERGUSON FLD ILS RWY 30"
   },
   {
     "abbv": "TVB",
@@ -13229,10 +10613,6 @@
     "name": "SOUTH LAKE TAHOE, CA, LAKE TAHOE ARPT"
   },
   {
-    "abbv": "TVN",
-    "name": "HUNTSVILLE, AL, HUNTSVILLE INTL-CARL T JONES FLD ILS RWY 18L"
-  },
-  {
     "abbv": "TVR",
     "name": "TALLULAH, LA, VICKSBURG TALLULAH RGNL ARPT"
   },
@@ -13245,44 +10625,16 @@
     "name": "TWIN FALLS, ID, JOSLIN FLD - MAGIC VALLEY RGNL ARPT"
   },
   {
-    "abbv": "TWI",
-    "name": "WICHITA, KS, WICHITA DWIGHT D EISENHOWER NTL ILS RWY 01L"
-  },
-  {
-    "abbv": "TWJ",
-    "name": "TAMPA, FL, TAMPA INTL LOC/DME RWY 01R"
-  },
-  {
     "abbv": "TWM",
     "name": "TWO HARBORS, MN, RICHARD B HELGESON ARPT"
-  },
-  {
-    "abbv": "TWO",
-    "name": "ONTARIO, CA, ONTARIO INTL ILS/DME RWY 26L"
   },
   {
     "abbv": "TWT",
     "name": "STURGIS, KY, STURGIS MUNI ARPT"
   },
   {
-    "abbv": "TXH",
-    "name": "HOUSTON, TX, SUGAR LAND RGNL ILS/DME RWY 35"
-  },
-  {
     "abbv": "TXK",
     "name": "TEXARKANA, AR, TEXARKANA RGNL-WEBB FLD ARPT"
-  },
-  {
-    "abbv": "TXN",
-    "name": "BLOOMINGTON/NORMAL, IL, CENTRAL IL RGNL/BLOOMINGTON-NORMAL ILS/DME RWY 02"
-  },
-  {
-    "abbv": "TXP",
-    "name": "LAWRENCEVILLE, GA, GWINNETT COUNTY - BRISCOE FLD ILS RWY 25"
-  },
-  {
-    "abbv": "TXV",
-    "name": "FAIRFIELD, CA, TRAVIS AFB LOC/GS RWY 03L"
   },
   {
     "abbv": "TXW",
@@ -13293,16 +10645,8 @@
     "name": "TYONEK, AK, TYONEK ARPT"
   },
   {
-    "abbv": "TYF",
-    "name": "PANAMA CITY, FL, TYNDALL AFB ILS RWY 14L"
-  },
-  {
     "abbv": "TYL",
     "name": "TAYLOR, AZ, TAYLOR ARPT"
-  },
-  {
-    "abbv": "TYN",
-    "name": "LAFAYETTE, LA, LAFAYETTE RGNL/PAUL FOURNET FLD ILS/DME RWY 04R"
   },
   {
     "abbv": "TYQ",
@@ -13317,16 +10661,8 @@
     "name": "KNOXVILLE, TN, MC GHEE TYSON ARPT"
   },
   {
-    "abbv": "TYV",
-    "name": "JACKSONVILLE, AR, LITTLE ROCK AFB ILS RWY 25"
-  },
-  {
     "abbv": "TYW",
     "name": "DOVER/CHESWOLD, DE, DELAWARE AIRPARK ARPT"
-  },
-  {
-    "abbv": "TYY",
-    "name": "ABILENE, TX, DYESS AFB ILS RWY 16"
   },
   {
     "abbv": "TZF",
@@ -13345,10 +10681,6 @@
     "name": "TOMPKINSVILLE, KY, TOMPKINSVILLE- MONROE COUNTY ARPT"
   },
   {
-    "abbv": "TZX",
-    "name": "WINCHESTER, VA, WINCHESTER RGNL ILS/ DME RWY 32"
-  },
-  {
     "abbv": "UAM",
     "name": "YIGO, GU, ANDERSEN AFB"
   },
@@ -13361,16 +10693,8 @@
     "name": "URBANA, IL, FRASCA FIELD ARPT"
   },
   {
-    "abbv": "UAT",
-    "name": "SALT LAKE CITY, UT, SALT LAKE CITY INTL ILS/DME RWY 16R"
-  },
-  {
     "abbv": "UBE",
     "name": "CUMBERLAND, WI, CUMBERLAND MUNI ARPT"
-  },
-  {
-    "abbv": "UBR",
-    "name": "SAN DIEGO, CA, SAN DIEGO INTL LOC/DME RWY 27"
   },
   {
     "abbv": "UBS",
@@ -13405,16 +10729,8 @@
     "name": "DARLINGTON, SC, DARLINGTON COUNTY ARPT"
   },
   {
-    "abbv": "UDL",
-    "name": "FORT LAUDERDALE, FL, FORT LAUDERDALE/ HOLLYWOOD INTL ILS/DME RWY 28R"
-  },
-  {
     "abbv": "UES",
     "name": "WAUKESHA, WI, WAUKESHA COUNTY ARPT"
-  },
-  {
-    "abbv": "UFO",
-    "name": "SUMTER, SC, SHAW AFB LOC/GS RWY 04R"
   },
   {
     "abbv": "UGB",
@@ -13423,10 +10739,6 @@
   {
     "abbv": "UGN",
     "name": "CHICAGO/WAUKEGAN, IL, WAUKEGAN NTL ARPT"
-  },
-  {
-    "abbv": "UGZ",
-    "name": "GOLDSBORO, NC, WAYNE EXEC JETPORT ILS RWY 23"
   },
   {
     "abbv": "UIL",
@@ -13451,10 +10763,6 @@
   {
     "abbv": "UKT",
     "name": "QUAKERTOWN, PA, QUAKERTOWN ARPT"
-  },
-  {
-    "abbv": "ULJ",
-    "name": "BEDFORD, MA, LAURENCE G HANSCOM FLD ILS/DME RWY 29"
   },
   {
     "abbv": "ULM",
@@ -13489,20 +10797,12 @@
     "name": "WEST PLAINS, MO, WEST PLAINS RGNL ARPT"
   },
   {
-    "abbv": "UNQ",
-    "name": "PROVIDENCE, RI, THEODORE FRANCIS GREEN STATE ILS/DME RWY 34"
-  },
-  {
     "abbv": "UNU",
     "name": "JUNEAU, WI, DODGE COUNTY ARPT"
   },
   {
     "abbv": "UNV",
     "name": "STATE COLLEGE, PA, UNIVERSITY PARK ARPT"
-  },
-  {
-    "abbv": "UNY",
-    "name": "UNIVERSAL CITY, TX, RANDOLPH AFB LOC/ GS RWY 15R"
   },
   {
     "abbv": "UOS",
@@ -13513,36 +10813,8 @@
     "name": "OXFORD, MS, UNIVERSITY-OXFORD ARPT"
   },
   {
-    "abbv": "UPE",
-    "name": "FORT WORTH, TX, FORT WORTH ALLIANCE ILS/DME RWY 16L"
-  },
-  {
     "abbv": "UPP",
     "name": "HAWI, HI, UPOLU ARPT"
-  },
-  {
-    "abbv": "UPU",
-    "name": "HOUSTON, TX, WILLIAM P HOBBY ILS/DME RWY 31L"
-  },
-  {
-    "abbv": "UQC",
-    "name": "BALTIMORE, MD, BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL ILS RWY 15L"
-  },
-  {
-    "abbv": "UQU",
-    "name": "NASHVILLE, TN, NASHVILLE INTL ILS/DME RWY 02R"
-  },
-  {
-    "abbv": "UQY",
-    "name": "KANSAS CITY, MO, KANSAS CITY INTL ILS/ DME RWY 27"
-  },
-  {
-    "abbv": "URD",
-    "name": "NEW YORK, NY, LAGUARDIA ILS/DME RWY 22"
-  },
-  {
-    "abbv": "URN",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS/DME RWY 09"
   },
   {
     "abbv": "USE",
@@ -13557,14 +10829,6 @@
     "name": "TUNICA, MS, TUNICA MUNI ARPT"
   },
   {
-    "abbv": "UTE",
-    "name": "CHANDLER, AZ, CHANDLER MUNI ILS RWY 04"
-  },
-  {
-    "abbv": "UTJ",
-    "name": "SALT LAKE CITY, UT, SALT LAKE CITY INTL ILS/DME RWY 35"
-  },
-  {
     "abbv": "UTO",
     "name": "UTOPIA CREEK, AK, INDIAN MOUNTAIN LRRS ARPT"
   },
@@ -13573,16 +10837,8 @@
     "name": "HUNTSVILLE, TX, HUNTSVILLE MUNI ARPT"
   },
   {
-    "abbv": "UUH",
-    "name": "SALT LAKE CITY, UT, SALT LAKE CITY INTL ILS/DME RWY 34L"
-  },
-  {
     "abbv": "UUO",
     "name": "WILLOW, AK, WILLOW ARPT"
-  },
-  {
-    "abbv": "UUR",
-    "name": "CORINTH, MS, ROSCOE TURNER ILS RWY 18"
   },
   {
     "abbv": "UUU",
@@ -13597,76 +10853,24 @@
     "name": "UVALDE, TX, GARNER FLD ARPT"
   },
   {
-    "abbv": "UVD",
-    "name": "OXFORD, MS, UNIVERSITY-OXFORD LOCALIZER RWY 09"
-  },
-  {
-    "abbv": "UVM",
-    "name": "MARTINSVILLE, VA, BLUE RIDGE LOC/DME RWY 31"
-  },
-  {
     "abbv": "UWL",
     "name": "NEW CASTLE, IN, NEW CASTLE HENRY COUNTY MARLATT FLD ARPT"
-  },
-  {
-    "abbv": "UWU",
-    "name": "LOS ANGELES, CA, LOS ANGELES INTL ILS/ DME RWY 06L"
-  },
-  {
-    "abbv": "UWX",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 35L"
-  },
-  {
-    "abbv": "UXI",
-    "name": "GULFPORT, MS, GULFPORT-BILOXI INTL ILS RWY 32"
   },
   {
     "abbv": "UXL",
     "name": "SULPHUR, LA, SOUTHLAND FLD ARPT"
   },
   {
-    "abbv": "UXT",
-    "name": "FORT WORTH, TX, FORT WORTH MEACHAM INTL ILS/DME RWY 34"
-  },
-  {
-    "abbv": "UXW",
-    "name": "SOUTH BEND, IN, SOUTH BEND INTL ILS RWY 09R"
-  },
-  {
     "abbv": "UYF",
     "name": "LONDON, OH, MADISON COUNTY ARPT"
-  },
-  {
-    "abbv": "UYJ",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 27C"
-  },
-  {
-    "abbv": "UYK",
-    "name": "HAGERSTOWN, MD, HAGERSTOWN RGNL- RICHARD A HENSON FLD ILS/DME RWY 09"
-  },
-  {
-    "abbv": "UYO",
-    "name": "HOUSTON, TX, GEORGE BUSH INTCNTL/ HOUSTON ILS/DME RWY 09"
   },
   {
     "abbv": "UZA",
     "name": "ROCK HILL, SC, ROCK HILL/YORK COUNTY/ BRYANT FLD ARPT"
   },
   {
-    "abbv": "UZK",
-    "name": "INDIANAPOLIS, IN, INDIANAPOLIS INTL ILS/DME RWY 23R"
-  },
-  {
-    "abbv": "UZS",
-    "name": "NEW YORK, NY, JOHN F KENNEDY INTL MLS RWY 13R"
-  },
-  {
     "abbv": "UZU",
     "name": "RICHMOND, VA, RICHMOND INTL MLS"
-  },
-  {
-    "abbv": "VAC",
-    "name": "COVINGTON, KY, CINCINNATI/NORTHERN KENTUCKY INTL ILS/DME RWY 36L"
   },
   {
     "abbv": "VAD",
@@ -13683,10 +10887,6 @@
   {
     "abbv": "VAY",
     "name": "MOUNT HOLLY, NJ, SOUTH JERSEY RGNL ARPT"
-  },
-  {
-    "abbv": "VAZ",
-    "name": "EAGLE, CO, EAGLE COUNTY RGNL LDA/DME RWY 25X"
   },
   {
     "abbv": "VBG",
@@ -13725,10 +10925,6 @@
     "name": "TAMPA, FL, TAMPA EXEC ARPT"
   },
   {
-    "abbv": "VDG",
-    "name": "PORTLAND, OR, PORTLAND INTL ILS/DME RWY 10L"
-  },
-  {
     "abbv": "VDI",
     "name": "VIDALIA, GA, VIDALIA RGNL ARPT"
   },
@@ -13757,24 +10953,12 @@
     "name": "VENICE, LA, PHI VENICE ARPT"
   },
   {
-    "abbv": "VFF",
-    "name": "PHILADELPHIA, PA, NORTHEAST PHILADELPHIA MLS RWY 06"
-  },
-  {
     "abbv": "VGC",
     "name": "HAMILTON, NY, HAMILTON MUNI ARPT"
   },
   {
     "abbv": "VGT",
     "name": "LAS VEGAS, NV, NORTH LAS VEGAS ARPT"
-  },
-  {
-    "abbv": "VGU",
-    "name": "DES MOINES, IA, DES MOINES INTL ILS/ DME RWY 13"
-  },
-  {
-    "abbv": "VHB",
-    "name": "WALLOPS ISLAND, VA, WALLOPS FLIGHT FACILITY MLS RWY 22"
   },
   {
     "abbv": "VHN",
@@ -13789,14 +10973,6 @@
     "name": "ROLLA/VICHY, MO, ROLLA NTL ARPT"
   },
   {
-    "abbv": "VII",
-    "name": "PHILADELPHIA, PA, PHILADELPHIA INTL ILS/DME RWY 09L"
-  },
-  {
-    "abbv": "VIN",
-    "name": "MIAMI, FL, MIAMI INTL ILS/DME RWY 26L"
-  },
-  {
     "abbv": "VIQ",
     "name": "NEILLSVILLE, WI, NEILLSVILLE MUNI ARPT"
   },
@@ -13805,36 +10981,12 @@
     "name": "VISALIA, CA, VISALIA MUNI ARPT"
   },
   {
-    "abbv": "VIY",
-    "name": "NASHVILLE, TN, NASHVILLE INTL ILS RWY 20R"
-  },
-  {
     "abbv": "VJI",
     "name": "ABINGDON, VA, VIRGINIA HIGHLANDS ARPT"
   },
   {
-    "abbv": "VJM",
-    "name": "CAMP SPRINGS, MD, JOINT BASE ANDREWS LOC/GS RWY 01R"
-  },
-  {
     "abbv": "VKA",
     "name": "FREMONT, OH, FREMONT ARPT"
-  },
-  {
-    "abbv": "VKE",
-    "name": "DEVILS LAKE, ND, DEVILS LAKE RGNL ILS RWY 31"
-  },
-  {
-    "abbv": "VKG",
-    "name": "ST PAUL, MN, ST PAUL DOWNTOWN HOLMAN FLD ILS/DME RWY 14"
-  },
-  {
-    "abbv": "VKI",
-    "name": "STURGIS, MI, KIRSCH MUNI MLS RWY 18"
-  },
-  {
-    "abbv": "VKQ",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS/DME RWY 18L"
   },
   {
     "abbv": "VKS",
@@ -13857,24 +11009,12 @@
     "name": "TROY, MI, OAKLAND/TROY ARPT"
   },
   {
-    "abbv": "VMH",
-    "name": "MINERAL WELLS, TX, MINERAL WELLS RGNL ILS/DME RWY 31"
-  },
-  {
     "abbv": "VMR",
     "name": "VERMILLION, SD, HAROLD DAVIDSON FLD ARPT"
   },
   {
-    "abbv": "VMU",
-    "name": "MENA, AR, MENA INTERMOUNTAIN MUNI ILS/ DME RWY 27"
-  },
-  {
     "abbv": "VNC",
     "name": "VENICE, FL, VENICE MUNI ARPT"
-  },
-  {
-    "abbv": "VNK",
-    "name": "AUSTIN, TX, AUSTIN-BERGSTROM INTL ILS/ DME RWY 17L"
   },
   {
     "abbv": "VNW",
@@ -13883,10 +11023,6 @@
   {
     "abbv": "VNY",
     "name": "VAN NUYS, CA, VAN NUYS ARPT"
-  },
-  {
-    "abbv": "VOE",
-    "name": "BURLINGTON, VT, BURLINGTON INTL ILS/ DME RWY 33"
   },
   {
     "abbv": "VOK",
@@ -13905,18 +11041,6 @@
     "name": "VALPARAISO, IN, PORTER COUNTY RGNL ARPT"
   },
   {
-    "abbv": "VQE",
-    "name": "UNIVERSAL CITY, TX, RANDOLPH AFB LOC/ GS RWY 33L"
-  },
-  {
-    "abbv": "VQM",
-    "name": "DETROIT, MI, COLEMAN A YOUNG MUNI ILS RWY 33"
-  },
-  {
-    "abbv": "VQO",
-    "name": "PROVINCETOWN, MA, PROVINCETOWN MUNI ILS/DME RWY 07"
-  },
-  {
     "abbv": "VQQ",
     "name": "JACKSONVILLE, FL, CECIL ARPT"
   },
@@ -13925,24 +11049,12 @@
     "name": "ISLA DE VIEQUES, PR, ANTONIO RIVERA RODRIGUEZ ARPT"
   },
   {
-    "abbv": "VQV",
-    "name": "VACAVILLE, CA, NUT TREE ILS RWY 19"
-  },
-  {
-    "abbv": "VQX",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 28L"
-  },
-  {
     "abbv": "VRB",
     "name": "VERO BEACH, FL, VERO BEACH RGNL ARPT"
   },
   {
     "abbv": "VRH",
     "name": "ANCHORAGE, AK, NWSRH"
-  },
-  {
-    "abbv": "VRW",
-    "name": "MARIETTA, GA, DOBBINS AIR RESERVE BASE LOC/GS RWY 29"
   },
   {
     "abbv": "VSF",
@@ -13977,20 +11089,12 @@
     "name": "VANCOUVER, WA, PEARSON FLD ARPT"
   },
   {
-    "abbv": "VUQ",
-    "name": "DAYTON, OH, JAMES M COX DAYTON INTL ILS/DME RWY 24R"
-  },
-  {
     "abbv": "VUW",
     "name": "GULF OF MEXICO, LA, EUGENE ISLAND BLOCK 309 AMOS/RCAG"
   },
   {
     "abbv": "VUY",
     "name": "BOHEMIA, NY, NWSRH"
-  },
-  {
-    "abbv": "VVM",
-    "name": "GREENSBORO, GA, GREENE COUNTY RGNL LOC/ DME RWY 25"
   },
   {
     "abbv": "VVS",
@@ -14001,44 +11105,12 @@
     "name": "ORTONVILLE, MN, ORTONVILLE MUNI- MARTINSON FLD ARPT"
   },
   {
-    "abbv": "VWH",
-    "name": "WASHINGTON, DC, RONALD REAGAN WASHINGTON NTL LDA/DME RWY 19X"
-  },
-  {
-    "abbv": "VWT",
-    "name": "DENVER, CO, COLORADO AIR AND SPACE PORT ILS/DME RWY 35"
-  },
-  {
     "abbv": "VWU",
     "name": "WASKISH, MN, WASKISH MUNI ARPT"
   },
   {
-    "abbv": "VXO",
-    "name": "READING, PA, READING RGNL/CARL A SPAATZ FLD ILS/DME RWY 13"
-  },
-  {
-    "abbv": "VYK",
-    "name": "COLUMBIA, SC, COLUMBIA METRO ILS RWY 29"
-  },
-  {
-    "abbv": "VYN",
-    "name": "DALLAS-FORT WORTH, TX, DALLAS-FORT WORTH INTL ILS/DME RWY 18R"
-  },
-  {
     "abbv": "VYS",
     "name": "PERU, IL, ILLINOIS VALLEY RGNL-WALTER A DUNCAN FLD ARPT"
-  },
-  {
-    "abbv": "VYV",
-    "name": "NEW ORLEANS, LA, NEW ORLEANS INTL MLS RWY 19"
-  },
-  {
-    "abbv": "VZE",
-    "name": "CHICAGO, IL, CHICAGO O'HARE INTL ILS/ DME RWY 28C"
-  },
-  {
-    "abbv": "VZV",
-    "name": "NORFOLK, VA, NORFOLK INTERNATIONAL LOCALIZER RWY 23L"
   },
   {
     "abbv": "WAL",
@@ -14051,10 +11123,6 @@
   {
     "abbv": "WBB",
     "name": "STEBBINS, AK, STEBBINS ARPT"
-  },
-  {
-    "abbv": "WBC",
-    "name": "WASHINGTON, DC, NWS TELECOMMUNICATION GATEWAY"
   },
   {
     "abbv": "WBQ",
@@ -14111,10 +11179,6 @@
   {
     "abbv": "WNA",
     "name": "NAPAKIAK, AK, NAPAKIAK ARPT"
-  },
-  {
-    "abbv": "WNP",
-    "name": "BOULDER, CO, SPACE WEATHER PREDICTION CENTER - SWPC"
   },
   {
     "abbv": "WRB",
@@ -14221,10 +11285,6 @@
     "name": "TAPPAHANNOCK, VA, TAPPAHANNOCK-ESSEX COUNTY ARPT"
   },
   {
-    "abbv": "XUU",
-    "name": "CHARLOTTE, NC, CHARLOTTE/DOUGLAS INTL ILS/DME RWY 36L"
-  },
-  {
     "abbv": "XVG",
     "name": "LONGVILLE, MN, LONGVILLE MUNI ARPT"
   },
@@ -14235,10 +11295,6 @@
   {
     "abbv": "XYW",
     "name": "MONROE, GA, ARPT"
-  },
-  {
-    "abbv": "XZY",
-    "name": "PHILADELPHIA, PA, PHILADELPHIA INTL MLS RWY 17"
   },
   {
     "abbv": "YAK",
@@ -14263,10 +11319,6 @@
   {
     "abbv": "YNG",
     "name": "YOUNGSTOWN/WARREN, OH, YOUNGSTOWN- WARREN RGNL ARPT"
-  },
-  {
-    "abbv": "YUM",
-    "name": "YUMA, AZ, YUMA MCAS/YUMA INTL ILS RWY 21R"
   },
   {
     "abbv": "ZEF",
@@ -14615,10 +11667,6 @@
   {
     "abbv": "0VG",
     "name": "JONESVILLE, VA, LEE COUNTY ARPT"
-  },
-  {
-    "abbv": "1AA",
-    "name": "JUMP-OFF-JOE, WA, JUMP-OFF-JOE RCO"
   },
   {
     "abbv": "1AK",
@@ -17681,10 +14729,6 @@
     "name": "COTTONWOOD, AZ, COTTONWOOD ARPT"
   },
   {
-    "abbv": "P53",
-    "name": "MUNISING, MI, LIMITED ASOS NOT INTENDED FOR CHARTING OR AVIATION USE"
-  },
-  {
     "abbv": "P72",
     "name": "PHILADELPHIA, PA, PENN'S LANDING HELIPORT"
   },
@@ -17977,10 +15021,6 @@
     "name": "ELK CITY, ID, ELK CITY ARPT"
   },
   {
-    "abbv": "S91",
-    "name": "SUTCLIFF, NV, NWS - PYRAMID LAKE CVLN WOS"
-  },
-  {
     "abbv": "S92",
     "name": "FISH LAKE, ID, FISH LAKE /USFS/ ARPT"
   },
@@ -18271,10 +15311,6 @@
   {
     "abbv": "T96",
     "name": "WOLFFORTH, TX, SOUTHWEST LUBBOCK ARPT"
-  },
-  {
-    "abbv": "T98",
-    "name": "TAHOE CITY, CA, NWS - TAHOE CGS/WOS"
   },
   {
     "abbv": "U00",
@@ -20801,10 +17837,6 @@
     "name": "NEWPORT, NH, PARLIN FLD ARPT"
   },
   {
-    "abbv": "2B4",
-    "name": "CHARLOTTSVILLE, VA, BUCK'S ELBOW MOUNTAIN RCO"
-  },
-  {
     "abbv": "2B6",
     "name": "WILMINGTON, OH, HOLLISTER FLD ARPT"
   },
@@ -20815,10 +17847,6 @@
   {
     "abbv": "2B9",
     "name": "POST MILLS, VT, POST MILLS ARPT"
-  },
-  {
-    "abbv": "2C2",
-    "name": "WHITE SANDS MISSILE RANGE, NM, C- STATION WOS"
   },
   {
     "abbv": "2C4",
@@ -21295,10 +18323,6 @@
   {
     "abbv": "20R",
     "name": "CRYSTAL CITY, TX, CRYSTAL CITY MUNI ARPT"
-  },
-  {
-    "abbv": "20S",
-    "name": "BONNEVILLE, OR, BONNEVILLE DAM USA-CE WOS"
   },
   {
     "abbv": "20T",
@@ -23397,10 +20421,6 @@
     "name": "OSAGE CITY, KS, OSAGE CITY MUNI ARPT"
   },
   {
-    "abbv": "53N",
-    "name": "CAPE MAY, NJ, MIAH MAULL SHOAL CGLS- WOS"
-  },
-  {
     "abbv": "53T",
     "name": "SOMERSET, TX, CANNON FLD ARPT"
   },
@@ -25103,10 +22123,6 @@
   {
     "abbv": "86F",
     "name": "CARNEGIE, OK, CARNEGIE MUNI ARPT"
-  },
-  {
-    "abbv": "86J",
-    "name": "SULLIVAN'S ISLAND, SC, CGLS/WOS"
   },
   {
     "abbv": "87B",
