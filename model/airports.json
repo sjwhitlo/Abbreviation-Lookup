@@ -5964,7 +5964,8 @@
   },
   {
     "abbv": "HRM",
-    "name": "HEBER, US, ARPT"
+    "name": "HEBER, US",
+    "airport": "ARPT"
   },
   {
     "abbv": "HRO",
@@ -6170,11 +6171,6 @@
     "abbv": "HYA",
     "name": "HYANNIS, MA",
     "airport": "CAPE COD GATEWAY ARPT"
-  },
-  {
-    "abbv": "HYD",
-    "name": "COEUR D'ALENE, ID",
-    "airport": "HAYDEN LAKE USAF NDB"
   },
   {
     "abbv": "HYG",
@@ -10320,11 +10316,6 @@
     "airport": "PITT-GREENVILLE ARPT"
   },
   {
-    "abbv": "PHA",
-    "name": "CHICAGO, IL",
-    "airport": "O'HARE EXPERIMENTAL AUTOMATIC WEATHER FACILITY"
-  },
-  {
     "abbv": "PHD",
     "name": "NEW PHILADELPHIA, OH",
     "airport": "HARRY CLEVER FLD ARPT"
@@ -13586,11 +13577,6 @@
     "airport": "NUT TREE ARPT"
   },
   {
-    "abbv": "VCE",
-    "name": "EAST CAMERON, LA",
-    "airport": "EAST CAMERON 278B RCAG"
-  },
-  {
     "abbv": "VCT",
     "name": "VICTORIA, TX",
     "airport": "VICTORIA RGNL ARPT"
@@ -13809,11 +13795,6 @@
     "abbv": "VUO",
     "name": "VANCOUVER, WA",
     "airport": "PEARSON FLD ARPT"
-  },
-  {
-    "abbv": "VUW",
-    "name": "GULF OF MEXICO, LA",
-    "airport": "EUGENE ISLAND BLOCK 309 AMOS/RCAG"
   },
   {
     "abbv": "VUY",
@@ -14242,7 +14223,8 @@
   },
   {
     "abbv": "IN1",
-    "name": "CEDAR LAKE, US, ARPT"
+    "name": "CEDAR LAKE, US",
+    "airport": "ARPT"
   },
   {
     "abbv": "IN2",
@@ -14850,41 +14832,6 @@
     "airport": "PIER 7 HELIPORT"
   },
   {
-    "abbv": "4SU",
-    "name": "SUPERIOR VALLEY, CA",
-    "airport": "SUPERIOR VALLEY AIR TO GROUND GUNNERY RANGE USAF AWS."
-  },
-  {
-    "abbv": "4XB",
-    "name": "MILLBORO, ND",
-    "airport": "ATC COORDN FIX(ONL 287/ 120)"
-  },
-  {
-    "abbv": "5AC",
-    "name": "GULF OF ALASKA, AK",
-    "airport": "MET FD FCST PT 52- 00.0N 135-00.0W"
-  },
-  {
-    "abbv": "5AD",
-    "name": "GULF OF ALASKA, AK",
-    "airport": "MET FD FCST PT 54- 00.0N 145-00.0W"
-  },
-  {
-    "abbv": "5AE",
-    "name": "GULF OF ALASKA, AK",
-    "airport": "MET FD FCST PT 55- 00.0N 155-00.0W"
-  },
-  {
-    "abbv": "5AF",
-    "name": "GULF OF ALASKA, AK",
-    "airport": "MET FD FCST PT 56- 00.0N 137-00.0W"
-  },
-  {
-    "abbv": "5AG",
-    "name": "GULF OF ALASKA, AK",
-    "airport": "MET FD FCST PT 58- 00.0N 142-00.0W"
-  },
-  {
     "abbv": "5AI",
     "name": "ATIGUN CAMP, AK",
     "airport": "ATIGUN ARPT"
@@ -14975,11 +14922,6 @@
     "airport": "CHAPMAN MEML FLD ARPT"
   },
   {
-    "abbv": "6GY",
-    "name": "GYPSY, HI",
-    "airport": "GEOREF(21-58N/152-48W)"
-  },
-  {
     "abbv": "7AK",
     "name": "AKUTAN, AK",
     "airport": "AKUTAN ARPT"
@@ -15008,11 +14950,6 @@
     "abbv": "7OA",
     "name": "MACHIAS, ME",
     "airport": "WARNING AREA 102"
-  },
-  {
-    "abbv": "7OL",
-    "name": "SAGAMORE HILL, MA",
-    "airport": "SAGAMORE HILL RADIO LAB/USAF"
   },
   {
     "abbv": "8AK",
@@ -19581,10 +19518,6 @@
     "abbv": "W58",
     "name": "BATTLE GROUND, WA",
     "airport": "CEDARS NORTH ARPT"
-  },
-  {
-    "abbv": "W60",
-    "name": "WEST CAMERON 560, OG, WEST CAMERON 560"
   },
   {
     "abbv": "W63",
@@ -28671,7 +28604,8 @@
   },
   {
     "abbv": "AK70",
-    "name": "TAKU LODGE, US, ARPT"
+    "name": "TAKU LODGE, US",
+    "airport": "ARPT"
   },
   {
     "abbv": "AK71",
@@ -57922,7 +57856,8 @@
   },
   {
     "abbv": "0AA2",
-    "name": "KENAI, US, ARPT"
+    "name": "KENAI, US",
+    "airport": "ARPT"
   },
   {
     "abbv": "0AA4",
