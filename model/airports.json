@@ -14913,9 +14913,6 @@
     "name": "BLACK RAPIDS, AK, BLACK RAPIDS ARPT"
   },
   {
-    "abbv": "C-A-4"
-  },
-  {
     "abbv": "5BL",
     "name": "HOMER, AK, HOMER-BELUGA LAKE SPB"
   },
@@ -19224,19 +19221,15 @@
     "name": "GETTYSBURG, SD, GETTYSBURG MUNI ARPT"
   },
   {
-    "abbv": "0.0E+0",
+    "abbv": "0E0",
     "name": "MORIARTY, NM, MORIARTY MUNI ARPT"
   },
   {
-    "abbv": "0.0E+0",
-    "name": "PAYSON, AZ, AWRS"
-  },
-  {
-    "abbv": "0.0E+0",
+    "abbv": "0E8",
     "name": "CROWNPOINT, NM, CROWNPOINT ARPT"
   },
   {
-    "abbv": "0.0E+0",
+    "abbv": "0E9",
     "name": "CORYDON, IA, CORYDON ARPT"
   },
   {
@@ -20008,19 +20001,19 @@
     "name": "REDFIELD, SD, REDFIELD MUNI ARPT"
   },
   {
-    "abbv": "1.0E+2",
+    "abbv": "1E2",
     "name": "ALPINE, TX, TERLINGUA RANCH ARPT"
   },
   {
-    "abbv": "1.0E+4",
+    "abbv": "1E4",
     "name": "AMARILLO, TX, PALO DURO ARPT"
   },
   {
-    "abbv": "1.0E+7",
+    "abbv": "1E7",
     "name": "AMARILLO, TX, BUFFALO ARPT"
   },
   {
-    "abbv": "1.0E+8",
+    "abbv": "1E8",
     "name": "DEGRASSE, NY, MOORES ARPT"
   },
   {
@@ -20872,23 +20865,23 @@
     "name": "BEACH CITY, OH, BEACH CITY ARPT"
   },
   {
-    "abbv": "2.0E+2",
+    "abbv": "2E2",
     "name": "EMMETT, MI, SHARPE'S STRIP ARPT"
   },
   {
-    "abbv": "2.0E+5",
+    "abbv": "2E5",
     "name": "DELL CITY, TX, DELL CITY MUNI ARPT"
   },
   {
-    "abbv": "2.0E+6",
+    "abbv": "2E6",
     "name": "GROTON, SD, GROTON MUNI ARPT"
   },
   {
-    "abbv": "2.0E+7",
+    "abbv": "2E7",
     "name": "MC LEAN, TX, MC LEAN/GRAY COUNTY ARPT"
   },
   {
-    "abbv": "2.0E+8",
+    "abbv": "2E8",
     "name": "DEXTER, MI, CACKLEBERRY ARPT"
   },
   {
@@ -21600,7 +21593,7 @@
     "name": "BOWLING GREEN, OH, BORDNER ARPT"
   },
   {
-    "abbv": "3.0E+0",
+    "abbv": "3E0",
     "name": "MIAMI, TX, MIAMI-ROBERTS COUNTY ARPT"
   },
   {
@@ -22288,11 +22281,11 @@
     "name": "ALMA, NE, ALMA MUNI ARPT"
   },
   {
-    "abbv": "4.0E+7",
+    "abbv": "4E7",
     "name": "ELLENDALE, ND, ELLENDALE MUNI ARPT"
   },
   {
-    "abbv": "4.0E+8",
+    "abbv": "4E8",
     "name": "RICHARDTON, ND, RICHARDTON ARPT"
   },
   {
@@ -22984,7 +22977,7 @@
     "name": "CLYDE, OH, BANDIT FLD AIRDROME ARPT"
   },
   {
-    "abbv": "5.0E+9",
+    "abbv": "5E9",
     "name": "RADNOR, OH, PACKER ARPT"
   },
   {
@@ -23620,7 +23613,7 @@
     "name": "EAST TAWAS, MI, IOSCO COUNTY ARPT"
   },
   {
-    "abbv": "6.0E+5",
+    "abbv": "6E5",
     "name": "DESMET, SD, WILDER ARPT"
   },
   {
